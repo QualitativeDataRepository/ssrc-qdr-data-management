@@ -1,0 +1,87 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: "Lessons"
+  url: "/lessons/"
+  side: left
+  dropdown:
+  - title: "Planning the management of qualitative data"
+    url: "/lessons/1/"
+    dropdown:
+    - title: "Understanding the data lifecycle"
+      url: "/lessons/1/a/"
+    - title: "Data management planning basics"
+      url: "/lessons/1/b/"
+    - title: "Creating a Data Management Plan (DMP)"
+      url: "/lessons/1/c/"
+    - title: "Creating an informed consent script that anticipates sharing data"
+      url: "/lessons/1/d/"
+  - title: "Managing qualitative data"
+    url: "/lessons/2/"
+    dropdown:
+    - title: "Documenting data and creating metadata"
+      url: "/lessons/2/a/"
+    - title: "Data naming, formatting, organization, storing, and security"
+      url: "/lessons/2/b/"
+      dropdown:
+      - title: "Call out that this is supposed to be while collecting -- and how to do so while collecting"
+        url: "/lessons/2/b/i/"
+      - title: "And how to deal with the mess you’ve made if you have a legacy project"
+        url: "/lessons/2/b/ii/"
+  - title: "Sharing qualitative data"
+    url: "/lessons/3/"
+    side: left
+    dropdown:
+    - title: "De-identifying data"
+      url: "/lessons/3/a/"
+    - title: "Addressing copyright"
+      url: "/lessons/3/b/"
+    - title: "Where to share: Data repositories"
+      url: "/lessons/3/c/"
+    - title: "Citing/DOIs?"
+      url: "/lessons/3/d/"
+  - title: "Writing with qualitative data"
+    url: "/lessons/4/"
+    dropdown:
+    - title: "Deploying qualitative data"
+      url: "/lessons/4/a/"
+    - title: "Annotation for Transparent Inquiry"
+      url: "/lessons/4/b/"
+    - title: "Citing/DOIs?"
+      url: "/lessons/4/c/"
+
+- title: "Exercises"
+  url: "/exercises/"
+  side: left
+  dropdown:
+  - title: "Exercise 1"
+    url: "/exercises/1/"
+  - title: "Exercise 2"
+    url: "/exercises/2/"
+  - title: "Exercise 3"
+    url: "/exercises/3/"
+
+- title: Resources
+  url: "/resources/"
+  side: left
+  dropdown:
+  - title: "Resource 1"
+    url: "/resources/1/"
+  - title: "Resource 2"
+    url: "/resources/2/"
+
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right

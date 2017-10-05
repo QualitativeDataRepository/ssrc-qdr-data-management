@@ -1,0 +1,33 @@
+{% assign exercise = site.data.exercises | where:"id", include.exerciseid | first %}
+<h2>Exercise</h2>
+<h4 class="exercisetitle">{{ exercise.title }}</h4>
+<p class="exercisedescription">{{ exercise.description | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+<ol class="exercise" id="exercise-{{ include.exerciseid }}">
+  {% for questions in exercise.content %}
+    <li>{{ questions.question | markdownify | remove: "<p>" | remove: "</p>" }}</li>
+  {% endfor %}
+</ol>
+<ul class="accordion solution" id="solution-{{ include.exerciseid }}" data-accordion>
+  <li class="accordion-navigation">
+    <a href="#answers-{{ include.exerciseid }}">show solution</a>
+    <div id="answers-{{ include.exerciseid }}" class="content">
+      <ol class="solution" id="solution-{{ include.exerciseid }}">
+        {% for solutions in exercise.solution %}
+          <li>{{ solutions.answer | markdownify | remove: "<p>" | remove: "</p>" }}
+            <ol id="subanswers-{{ include.exerciseid }}">
+              {% for subanswers in solutions.subanswers %}
+                <li>{{ subanswers.subanswer | markdownify | remove: '<p>' | remove: '</p>' }}
+                  <ol id="subsubanswers-{{ include.exerciseid }}">
+                    {% for subsubanswers in subanswers.subsubanswers %}
+                      <li>{{ subsubanswers.subsubanswer | markdownify | remove: "<p>" | remove: "</p>" }}</li>
+                    {% endfor %}
+                  </ol>
+                </li>
+              {% endfor %}
+            </ol>
+          </li>
+        {% endfor %}
+      </ol>
+    </div>
+  </li>
+</ul>

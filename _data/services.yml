@@ -1,0 +1,17 @@
+- menu_name: "Contents"
+
+- name: "Lessons"
+  url: "/lessons/"
+  title: "Lessons"
+
+- name: "Exercises"
+  url: "/exercises/"
+  title: "Exercises"
+
+- name: "Resources"
+  url: "/resources/"
+  title: "Resources"
+
+- name: "Blog"
+  url: "/blog/"
+  title: "Blog"

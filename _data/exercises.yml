@@ -1,0 +1,60 @@
+# Exercise details
+#
+
+- title: "Test exercise 1"
+  id: 1
+  module: "1a"
+  description: "This is a test exercise"
+  content:
+    - question: >
+        Consider why the use of research data is depicted as a “cycle”. In particular, what does the dashed arrow from “Long-term Management” to “Discovery and Planning” represent?
+    - question: >
+        Which activities that are part of *your* research fall under the different headings of the lifecycle?
+  solution:
+    - answer: >
+        The basic idea for the cyclical nature of research data is its re-use. Often, you may be re-using your own data. Something you found in your original data peaked your interest and becomes the basis for your next project. In other cases, other researchers may take advantage of data you shared and use them as the basis for  their next project
+    - answer: > 
+        This will depend on your research but here are some possible activities in each category
+      subanswers:  
+        - subanswer: >
+            *Discovery and Planning:* design research; review literature, identify existing data; apply for funding; hire research team; plan data security and backups; plan informed consent. apply for IRB.
+        - subanswer: >
+            *Initial Data Collection:* identifying participants / interviewees / archives, etc. collect data; document data; store and back-up data; identify additional data needed.
+        - subanswer: >
+            *Final Data Preparation and Analysis:* collect additional data; convert data for analysis (OCR, transcription, etc.); read, annotate, analyze using software.
+        - subanswer: >
+            *Publication and Sharing*: write! Finalized documentation; de-identify data if needed; deposit with data with repository, publicize through social media, e-mail, etc.
+        - subanswer: >
+            *Long-term Management*: Handled by data repository.
+      
+- title: "Test exercise 2"
+  id: 2
+  module: "1a"
+  description: "This is a test exercise with NO subanswers"
+  content:
+    - question: >
+        Consider why the use of research data is depicted as a “cycle”. In particular, what does the dashed arrow from “Long-term Management” to “Discovery and Planning” represent?
+  solution:
+    - answer: >
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+- title: "Test exercise 3"
+  id: 3
+  module: "1a"
+  description: "This is a test exercise with SUBSUBANSWERS"
+  content:
+    - question: >
+        Consider why the use of research data is depicted as a “cycle”. In particular, what does the dashed arrow from “Long-term Management” to “Discovery and Planning” represent?
+  solution:
+    - answer: >
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exerci
+      subanswers:  
+        - subanswer: >
+            *Discovery and Planning:*
+          subsubanswers:
+            - subsubanswer: >
+                This is a sub sub answer
+    - answer: > 
+        This will depend on your research but here are some possible activities in each category
+    - answer: > 
+        Another answer but here are some possible activities in each category
