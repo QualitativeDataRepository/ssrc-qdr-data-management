@@ -25,8 +25,8 @@ author: phlow
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'http://cqrm-qdr.agile.dev.work'
-baseurl: ''
+url: 'https://qualitativedatarepository.github.io'
+baseurl: '/ssrc-qdr-data-management'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
