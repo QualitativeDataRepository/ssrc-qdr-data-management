@@ -14,7 +14,7 @@ description: "What the data lifecycle is and how it relates to your research"
 The “research data lifecycle” has become a ubiquitous image among data
 professional. Here is one example:
 
-![Data Lifecycle](/assets/img/image1.png)
+![Data Lifecycle]({{ site.baseurl }}/assets/img/image1.png)
 
 Based on: Green, Ann G., and Myron P. Gutmann. (2007) “Building
 Partnerships among Social Science Researchers, Institution-based
