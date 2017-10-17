@@ -6,7 +6,7 @@ format: page-fullwidth
 <div class="row t30">
 	<div class="small-12 columns">
 		<div id="pagesplash">
-			<img src="{{ site.urlimg }}{{ page.image.title }}" alt="{{ page.title | escape_once }}">
+			<img src="{{ site.url }}{{ site.baseurl }}{{ page.image.title }}" alt="{{ page.title | escape_once }}">
 		</div>
 		{% if page.image.caption_url and page.image.caption %}
 		<p class="text-right caption">
