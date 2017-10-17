@@ -3,8 +3,8 @@
 sitemap:
   exclude: true
 ---
-$splashimageurl: "{{ site.splashimage }}";
-$modulesplashimageurl: "{{ site.modulesplashimage }}";
+$splashimageurl: "{{ site.url }}{{ site.baseurl }}{{ site.splashimage }}";
+$modulesplashimageurl: "{{ site.url }}{{ site.baseurl }}{{ site.modulesplashimage }}";
 @charset "utf-8";
 
 @import "functions.scss";
