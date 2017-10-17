@@ -75,7 +75,6 @@ $grey-16: #0B0B0B;
 $topbar-bg-color: $ci-1;
 $topbar-bg: $topbar-bg-color;
 
-
 $topbar-dropdown-toggle-color: $grey-1;
 
 $topbar-link-color: $ci-6;
@@ -90,7 +89,6 @@ $topbar-link-bg-active: $ci-2; // Active Navigation Link
 $topbar-link-bg-hover: $ci-5;
 $topbar-link-bg-active-hover: $ci-5;
 
-
 $topbar-dropdown-bg: $ci-5; // Background Mobile Navigation
 $topbar-dropdown-link-color: #000;
 $topbar-dropdown-link-bg: $ci-5;
@@ -103,6 +101,9 @@ $topbar-menu-link-color-toggled: $ci-6;
 $topbar-menu-icon-color-toggled: $ci-6;
 $topbar-hamburger-color: $grey-1;
 
+.dropdown .dropdown li:not(.has-form):not(.active) > a:not(.button){
+  background-color: $grey-8;
+}
 
 
 /* Footer

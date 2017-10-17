@@ -1,13 +1,21 @@
 ---
 title: "Understanding the Data Lifecycle"
-layout: page
+layout: page-fullwidth
 breadcrumb: true
-header: no
+header: false
 categories: [module1,modulecontent]
-permalink: "/lessons/1/a/"
+permalink: "/modules/1/a/"
 description: "What the data lifecycle is and how it relates to your research"
+learningobjectives:
+-   What the data lifecycle is and how it relates to your research
+-   How this course uses the concept of the lifecycle
+-   Limitations of the data lifecycle model
+initialquestions:
+-   As you were putting together your research proposal, did you ever
+    try to access data from other researchers? Were you successful?
+-   How did you decide on your plan for your own data collection?
 ---
-
+{% include _learningobjectivesandquestions.html %}
 
 ## The Research Data Lifecycle
 

@@ -2,11 +2,25 @@
 layout: default
 format: frontpage
 ---
+{% assign sponsor1 = site.data.sponsors | where:"id", "1" | first %}
+{% assign sponsor2 = site.data.sponsors | where:"id", "2" | first %}
 <div id="header-home">
-    <div class="row">
-        <div class="small-12 columns">
-        </div><!-- /.medium-4.columns -->
-    </div><!-- /.row -->
+    <div id="sponsors" class="row" class="logoheader">
+		<div class="small-3 columns">
+			<a id="logo1" href="{{ sponsor1.url }}" title="{{ sponsor1.name }}">
+				<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ sponsor1.smalllogo }}" alt="{{ sponsor1.name }}">
+			</a>
+		</div><!-- /.small-12.columns -->
+		<div class="small-3 small-offset-6 columns">
+			<a id="logo2" href="{{ sponsor2.url }}" title="{{ sponsor2.name }}">
+				<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ sponsor2.smalllogo }}" alt="{{ sponsor2.name }}">
+			</a>
+		</div><!-- /.small-12.columns -->
+	</div><!-- /.row -->
+	<div class="row" id="frontsplash">
+		<h1 id="sitetitle">{{ site.title }}</h1>
+		<h3 id="siteslogan">{{ site.slogan }}</h3>
+	</div><!-- /.row -->
 </div><!-- /#header-home -->
 
 

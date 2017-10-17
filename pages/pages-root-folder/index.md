@@ -5,8 +5,7 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-header:
-  image_fullwidth: ssrc-logo.png
+header: false
 widget1:
   title: "Instructors"
   url: '/instructors/'

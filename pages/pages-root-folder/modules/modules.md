@@ -1,16 +1,17 @@
 ---
-layout: page
+layout: page-fullwidth
 show_meta: false
-title: "Planning the management of qualitative data"
+title: "Modules"
 breadcrumb: true
-header: no
-categories: [lessonoverviews]
-permalink: "/lessons/1/"
-description: "This is a page description"
+header: false
+categories: [modules]
+permalink: "/modules/"
+image:
+    title: /assets/img/splash.jpg
 ---
 <div class="item">
   {% for page in site.pages %}
-    {% if page.categories contains 'module1' %}
+    {% if page.categories contains 'moduleoverviews' %}
       <h3><a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h3>
       <p>{{page.description}}</p>  
     {% endif %}

@@ -1,3 +1,5 @@
+{% assign sponsor1 = site.data.sponsors | where:"id", "1" | first %}
+{% assign sponsor2 = site.data.sponsors | where:"id", "2" | first %}
     <div id="up-to-top" class="row">
       <div class="small-12 columns" style="text-align: right;">
         <a class="iconfont" href="#top-of-page">&#xf108;</a>
@@ -8,14 +10,14 @@
     <footer id="footer-content" class="bg-grau">
       <div id="footer">
         <div class="row">
-          <div class="medium-6 large-5 columns">
-            <a id="footerlogo" href="{{ '/' | absolute_url }}" title="{{ site.title }} – {{ site.slogan }}">
-				<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.teamlogo }}" alt="{{ site.title }} – {{ site.slogan }}">
+          <div class="medium-4 large-4 columns">
+            <a id="footerlogo1" href="{{ sponsor1.url }}" title="{{ sponsor1.name }}">
+				<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ sponsor1.logo }}" alt="{{ sponsor1.name }}">
 			</a>
           </div><!-- /.large-6.columns -->
 
 
-          <div class="small-6 medium-3 large-3 large-offset-1 columns">
+          <div id="footercenter" class="small-8 medium-4 large-4 columns">
             {% for service_item in site.data.services %}
               {% if forloop.first == true %}
                 <h5 class="shadow-black">{{ service_item.menu_name }}</h5>
@@ -33,21 +35,10 @@
           </div><!-- /.large-4.columns -->
 
 
-          <div class="small-6 medium-3 large-3 columns">
-            {% for network_item in site.data.network %}
-              {% if forloop.first == true %}
-                <h5 class="shadow-black">{{ network_item.menu_name }}</h5>
-              {% endif %}
-            {% endfor %}
-
-            <ul class="no-bullet shadow-black">
-            {% for network_item in site.data.network %}
-              {% if network_item.url contains 'http' %}{% assign domain = '' %}{% else %}{% capture domain %}{{ site.url }}{{ site.baseurl }}{% endcapture %}{% endif %}
-                <li {% if network_item.class %}class="{{ network_item.class }}" {% endif %}>
-                  <a href="{{ domain }}{{ network_item.url }}" {% if network_item.url contains 'http' %}target="_blank" {% endif %} title="{{ network_item.title }}">{{ network_item.name }}</a>
-                </li>
-            {% endfor %}
-            </ul>
+          <div class="medium-4 large-4 columns">
+            <a id="footerlogo2" href="{{ sponsor2.url }}" title="{{ sponsor2.name }}">
+				<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ sponsor2.logo }}" alt="{{ sponsor2.name }}">
+			</a>
           </div><!-- /.large-3.columns -->
         </div><!-- /.row -->
 
@@ -63,7 +54,7 @@
           <section id="subfooter-right" class="small-12 medium-6 columns">
             <ul class="inline-list social-icons">
             {% for social_item in site.data.socialmedia %}
-              <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
+              <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a>{{ social_item.title }}</li>
             {% endfor %}
             </ul>
           </section>

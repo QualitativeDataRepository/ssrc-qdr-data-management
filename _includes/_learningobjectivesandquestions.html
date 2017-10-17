@@ -1,0 +1,20 @@
+{% if page.learningobjectives or page.initialquestions %}
+<blockquote>
+	{% if page.learningobjectives %}
+	<h4>In this lesson you will learn</h4>
+	<ul class="module_topmatter" id="learningobjectives-{{ page.id }}">
+	  {% for objective in page.learningobjectives %}
+	    <li>{{ objective | markdownify | remove: "<p>" | remove: "</p>" }}</li>
+	  {% endfor %}
+	</ul>
+	{% endif %}
+	{% if page.initialquestions %}
+	<h4>Initial Questions</h4>
+	<ul class="module_topmatter" id="initialquestions-{{ page.id }}">
+	  {% for question in page.initialquestions %}
+	    <li>{{ question | markdownify | remove: "<p>" | remove: "</p>" }}</li>
+	  {% endfor %}
+	</ul>
+	{% endif %}
+</blockquote>
+{% endif %}
