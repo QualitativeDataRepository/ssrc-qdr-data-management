@@ -36,7 +36,7 @@ permalink: /index.html
 homepage: true
 ---
 
-<div>
+<!--<div>
 	<h1>Name of this course</h1>
 	<p>Course description</p>
-</div>
+</div>-->
