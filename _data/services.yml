@@ -1,8 +1,8 @@
 - menu_name: "Contents"
 
-- name: "Lessons"
-  url: "/lessons/"
-  title: "Lessons"
+- name: "Modules"
+  url: "/modules/"
+  title: "Modules"
 
 - name: "Exercises"
   url: "/exercises/"
@@ -11,7 +11,3 @@
 - name: "Resources"
   url: "/resources/"
   title: "Resources"
-
-- name: "Blog"
-  url: "/blog/"
-  title: "Blog"

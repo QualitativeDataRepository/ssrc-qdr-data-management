@@ -263,7 +263,6 @@ $button-disabled-cursor: $cursor-default-value !default;
 }
 .button.more::after{
   @include css-triangle(5px, rgba($button-font-color, 0.4), left);
-  #{$opposite-direction}: 5px;
   line-height: 1.2;
   margin-bottom: 2px;
   vertical-align: middle;

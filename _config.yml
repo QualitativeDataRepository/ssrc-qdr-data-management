@@ -42,9 +42,13 @@ urlimg: ''
 
 
 # Logo size is 600x80 pixels
-logo: "ssrc-logo.png"
-# this goes in the footer size is 200x70px
-teamlogo: "QDR_Logo_transparent_hiqual.png"
+# this logo is for the masthead - full width on all pages unless header: no is set
+logo: ""
+
+# these are individual top-of-page images, contained within the content area
+splashimage: "splash.jpg"
+modulesplashimage: "splash.jpg"
+#logos for sponsors are in sponsors.yml
 
 # Gems
 gems:
