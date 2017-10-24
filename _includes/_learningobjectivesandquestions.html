@@ -1,5 +1,5 @@
 {% if page.learningobjectives or page.initialquestions %}
-<blockquote>
+<div class="exercise">
 	{% if page.learningobjectives %}
 	<h4>In this lesson you will learn</h4>
 	<ul class="module_topmatter" id="learningobjectives-{{ page.id }}">
@@ -16,5 +16,5 @@
 	  {% endfor %}
 	</ul>
 	{% endif %}
-</blockquote>
+</div>
 {% endif %}

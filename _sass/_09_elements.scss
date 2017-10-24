@@ -161,6 +161,14 @@ ol.exercise ol ol, ol.solution ol ol {
     margin-top: 0.3em;
 }
 
+.exercise :first-child {
+    margin-top: 0;
+}
+
+.exercise :last-child {
+    margin-bottom: 0;
+}
+
 .accordion .accordion-navigation > .content.active, .accordion dd > .content.active {
     display: block;
     background: $grey-1;

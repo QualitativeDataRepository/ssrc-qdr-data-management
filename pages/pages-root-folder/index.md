@@ -6,6 +6,7 @@
 #
 layout: frontpage
 header: false
+hidefooter: true
 widget1:
   title: "Instructors"
   url: '/instructors/'

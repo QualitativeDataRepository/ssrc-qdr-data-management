@@ -4,7 +4,7 @@
 - sponsor: # replace this with your info
   id: "1"
   name: "Social Science Research Council"
-  url: 
+  url: "http://ssrc.org"
   email:
   twitter: "@ssrc_org"
   logo: "/assets/img/ssrc-logo.png"
@@ -13,7 +13,7 @@
 - sponsor: # replace this with your info
   id: "2"
   name: "Qualitative Data Repository"
-  url: 
+  url: "http://qdr.syr.edu"
   email:
   twitter: "@qdrepository"
   logo: "/assets/img/QDR_Logo_transparent_hiqual.png"

@@ -32,7 +32,7 @@ $ci-3: #EFC94C;		// yellow
 $ci-4: #dc9158;		// orange - call to action
 $ci-5: #a4aeb3;		// darker grey (hover)
 $ci-6: #eaecee;     // light grey (background)
-
+$ci-7: #6fb9db; 	//lighter turquoise
 
 
 /* Foundation Color Variables
@@ -51,7 +51,7 @@ $button-secondary-color:#566168;
 ------------------------------------------------------------------- */
 
 $grey-1: #f7f8f8;
-$grey-2: #D7D7D7;
+$grey-2: #cbd1d4;
 $grey-3: #CBCBCB;
 $grey-4: #BEBEBE;
 $grey-5: #A4A4A4;
@@ -85,9 +85,9 @@ $topbar-link-color-active-hover: #000;
 $topbar-dropdown-label-color: $ci-6;
 $topbar-dropdown-link-bg-hover: $ci-2;
 
-$topbar-link-bg-active: $ci-2; // Active Navigation Link
+$topbar-link-bg-active: $grey-2; // Active Navigation Link
 $topbar-link-bg-hover: $ci-5;
-$topbar-link-bg-active-hover: $ci-5;
+$topbar-link-bg-active-hover: $ci-7;
 
 $topbar-dropdown-bg: $ci-5; // Background Mobile Navigation
 $topbar-dropdown-link-color: #000;
