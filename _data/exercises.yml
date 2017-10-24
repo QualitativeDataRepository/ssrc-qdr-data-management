@@ -58,3 +58,24 @@
         This will depend on your research but here are some possible activities in each category
     - answer: > 
         Another answer but here are some possible activities in each category
+
+- title: "Test exercise 4"
+  id: 4
+  module: "1b"
+  description: "This is a test exercise with SUBSUBANSWERS"
+  content:
+    - question: >
+        Consider why the use of research data is depicted as a “cycle”. In particular, what does the dashed arrow from “Long-term Management” to “Discovery and Planning” represent?
+  solution:
+    - answer: >
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exerci
+      subanswers:  
+        - subanswer: >
+            *Discovery and Planning:*
+          subsubanswers:
+            - subsubanswer: >
+                This is a sub sub answer
+    - answer: > 
+        This will depend on your research but here are some possible activities in each category
+    - answer: > 
+        Another answer but here are some possible activities in each category
