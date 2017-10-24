@@ -61,6 +61,8 @@
     url: "/exercises/2/"
   - title: "Exercise 3"
     url: "/exercises/3/"
+  - title: "Exercise 4"
+    url: "/exercises/4/"
 
 - title: Resources
   url: "/resources/"
