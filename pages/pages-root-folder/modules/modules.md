@@ -4,6 +4,7 @@ show_meta: false
 title: "Modules"
 breadcrumb: true
 header: false
+hidefooter: false
 categories: [modules]
 permalink: "/modules/"
 image:

@@ -3,8 +3,12 @@ title: "Understanding the Data Lifecycle"
 layout: page-fullwidth
 breadcrumb: true
 header: false
+hidefooter: false
+module: "1a"
 categories: [module1,modulecontent]
 permalink: "/modules/1/a/"
+next: "/modules/1/b/"
+previous: false
 description: "What the data lifecycle is and how it relates to your research"
 learningobjectives:
 -   What the data lifecycle is and how it relates to your research

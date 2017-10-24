@@ -95,13 +95,14 @@ body.video cite { color: #fff; }
   text-align: center;
   font-weight:bold;
   #sitetitle {
-    font-size:2em;
+    font-size:3.5em;
     display:block;
     max-width:60%;
-    margin: 10% auto 5px auto;
+    margin: 6% auto 5px auto;
+    font-weight: bold;
   }
   #siteslogan {
-    font-size:1.3em;
+    font-size:2.3em;
     display:block;
     max-width:60%;
     margin:5px auto auto auto;
@@ -344,11 +345,16 @@ body.video cite { color: #fff; }
 }
 
 #footer img {
-    max-width: 180px;
+    max-height: 100px;
 }
 
 #footercenter {
     text-align: center;
+}
+
+#footerlogo1, #footerlogo2 {
+    display: block;
+    height: 110px;
 }
 
 #footerlogo2{
