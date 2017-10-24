@@ -1,0 +1,23 @@
+# Sponsor details
+#
+
+- sponsor: # replace this with your info
+  id: "1"
+  name: "Social Science Research Council"
+  url: "http://ssrc.org"
+  email:
+  twitter: "@ssrc_org"
+  logo: "/assets/img/ssrc-logo.png"
+  smalllogo: "/assets/img/ssrc-logo-small.png"
+  
+- sponsor: # replace this with your info
+  id: "2"
+  name: "Qualitative Data Repository"
+  url: "http://qdr.syr.edu"
+  email:
+  twitter: "@qdrepository"
+  logo: "/assets/img/QDR_Logo_transparent_hiqual.png"
+  smalllogo: "/assets/img/QDR_Logo_transparent-small.png"
+
+
+# you can add more sponsors here

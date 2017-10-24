@@ -54,8 +54,6 @@ body.video cite { color: #fff; }
     }
 }
 
-
-
 /* Search
 ------------------------------------------------------------------- */
 
@@ -89,11 +87,82 @@ body.video cite { color: #fff; }
     margin-top: 60px;
 }
 
+#frontsplash{
+  padding:0px;
+  width: 100%;
+  height:300px;
+  position: relative;
+  text-align: center;
+  font-weight:bold;
+  #sitetitle {
+    font-size:3.5em;
+    display:block;
+    max-width:60%;
+    margin: 6% auto 5px auto;
+    font-weight: bold;
+  }
+  #siteslogan {
+    font-size:2.3em;
+    display:block;
+    max-width:60%;
+    margin:5px auto auto auto;
+  }
+}
+
+#frontsplash::after {
+  content: "";
+  background-image: url($splashimageurl);
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 0.4;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;
+  width: 100%;
+  height:300px;
+}
+
+#pagesplash{
+  padding:0px;
+  max-width: 100%;
+  max-height:180px;
+  overflow: hidden;
+}
+
+#pagesplash img {
+  width: 100%;
+  margin-top: -15%;
+  position: relative;
+}
+
+#logo2{
+  float:right;
+}
+
+#sponsors {
+  background-color: $grey-1;
+  div {
+    height:100%;
+    a {
+      display:inline-block;
+      height:100%;
+    }
+  }
+}
+#sponsors img {
+  display: block;
+  margin: 10px auto;
+  vertical-align: middle;
+}
+
 /* Masthead › small-only
 ------------------------------------------------------------------- */
 
 @media #{$small-only} {
-    #logo img {
+    #frontsplash {
         display: none;
     }
     #masthead {
@@ -120,12 +189,6 @@ body.video cite { color: #fff; }
 ------------------------------------------------------------------- */
 
 @media #{$medium-only} {
-    #logo img {
-        margin-top: 30px;
-    }
-    #masthead {
-        height: 210px;
-    }
     #masthead-with-pattern {
         padding: 20px 0;
     }
@@ -143,12 +206,6 @@ body.video cite { color: #fff; }
 ------------------------------------------------------------------- */
 
 @media #{$large-only} {
-    #logo img {
-        margin-top: 60px;
-    }
-    #masthead {
-        height: 250px;
-    }
     #masthead-with-pattern {
         padding: 30px 0;
     }
@@ -166,12 +223,6 @@ body.video cite { color: #fff; }
 ------------------------------------------------------------------- */
 
 @media #{$xlarge-up} {
-    #logo img {
-        margin-top: 80px;
-    }
-    #masthead {
-        height: 280px;
-    }
     #masthead-with-pattern {
         padding: 45px 0;
     }
@@ -293,8 +344,41 @@ body.video cite { color: #fff; }
     text-transform: uppercase;
 }
 
-#footerlogo img {
-    max-width: 260px;
+#footer img {
+    max-height: 100px;
+}
+
+#footercenter {
+    text-align: center;
+}
+
+#footerlogo1, #footerlogo2 {
+    display: block;
+    height: 110px;
+}
+
+#footerlogo2{
+  float:right;
+}
+
+@media #{$small-only} {
+  #footercenter {
+    text-align: left;
+  }
+
+  #footerlogo2{
+    float: left;
+  }
+}
+
+@media #{$medium-only} {
+  #footercenter {
+    text-align: left;
+  }
+
+  #footerlogo2{
+    float: left;
+  }
 }
 
 /* Subfooter
@@ -348,12 +432,13 @@ body.video cite { color: #fff; }
   }
   a {
     font-size: rem-calc(23);
-    display: block;
+    display: inline-block;
     width: 36px;
     border-radius: 50%;
     color: $subfooter-bg;
     background: $subfooter-color;
     text-align: center;
+    margin-right: 8px;
     &:hover {
       background: $footer-bg;
       color: #fff;
@@ -364,7 +449,11 @@ body.video cite { color: #fff; }
 @media #{$small-only} {
   .social-icons {
     float: left;
-    margin-bottom:25px
+    margin-bottom:25px;
+    li {
+      margin-left: 0;
+      float: unset; 
+    }
   }
   
   #subfooter {
@@ -387,7 +476,7 @@ body.video cite { color: #fff; }
 @media #{$medium-only} {
   .social-icons {
     float: left;
-    margin-bottom:25px
+    margin-bottom:25px;
   }
   #subfooter {
     nav.row {

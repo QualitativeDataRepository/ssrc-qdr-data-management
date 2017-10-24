@@ -38,13 +38,17 @@ improve_content:
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: ''
+urlimg: 'images/'
 
 
 # Logo size is 600x80 pixels
-logo: "ssrc-logo.png"
-# this goes in the footer size is 200x70px
-teamlogo: "QDR_Logo_transparent_hiqual.png"
+# this logo is for the masthead - full width on all pages unless header: false is set; path from baseurl required, with leading slash
+logo: ""
+
+# these are individual top-of-page images, contained within the content area. path from baseurl required, with leading slash
+splashimage: "/assets/img/splash.jpg"
+modulesplashimage: "/assets/img/splash.jpg"
+#logos for sponsors are in sponsors.yml
 
 # Gems
 gems:

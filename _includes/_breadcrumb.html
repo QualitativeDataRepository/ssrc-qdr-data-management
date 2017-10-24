@@ -7,11 +7,24 @@
 <nav class="breadcrumbs" role="menubar" aria-label="breadcrumbs">
  <a href="{{ site.url }}{{ site.baseurl }}">{{ site.data.language.breadcrumb_start }}</a>
  {% assign crumbs = page.url | split: '/' %}
+ {% assign thesecrumbs = '' %}
    {% for crumb in crumbs offset: 1 %}
+     {% assign thesecrumbs = thesecrumbs | append: '/' | append: crumb %}
+     {% assign thiscrumb = thesecrumbs | append: '/' %}
+     {% for page in site.pages %}
+       {% if page.permalink == thiscrumb %}
+         {% assign thisshorttitle = page.shorttitle %}
+       {% endif %}
+     {% endfor %} 
     {% if forloop.last %}
         <a class="current">{{ page.title }}</a>
     {% else %}
-        <a href="{{ site.url }}{{ site.baseurl }}{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">{{ crumb | replace:'-',' ' }}</a>
+        <a href="{{ site.url }}{{ site.baseurl }}{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">{% if thisshorttitle %}
+        {{ thisshorttitle }}
+        {% else %}
+          {{ crumb | replace:'-',' ' }}
+          {% endif %}</a>
     {% endif %}
   {% endfor %}
+  {{ thispage | json }}
 </nav>
