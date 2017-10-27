@@ -5,6 +5,7 @@ breadcrumb: true
 header: false
 hidefooter: false
 module: "1b"
+lesson: "Module 1, Lesson 2"
 categories: [module1,modulecontent]
 permalink: "/modules/1/b/"
 next: "/modules/1/c/"
@@ -22,5 +23,3 @@ initialquestions:
 
 
 {% include _exercise.html exerciseid="4" %}
-
-

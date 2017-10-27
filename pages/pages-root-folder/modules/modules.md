@@ -4,11 +4,10 @@ show_meta: false
 title: "Modules"
 breadcrumb: true
 header: false
-hidefooter: false
 categories: [modules]
 permalink: "/modules/"
 image:
-    title: /assets/img/splash.jpg
+    title: /assets/img/Donnelly-panorama.jpg
 ---
 <div class="item">
   {% for page in site.pages %}

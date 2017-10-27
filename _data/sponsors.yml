@@ -7,16 +7,16 @@
   url: "http://ssrc.org"
   email:
   twitter: "@ssrc_org"
-  logo: "/assets/img/ssrc-logo.png"
+  logo: "/assets/img/ssrc-logo-small-white.png"
   smalllogo: "/assets/img/ssrc-logo-small.png"
-  
+
 - sponsor: # replace this with your info
   id: "2"
   name: "Qualitative Data Repository"
   url: "http://qdr.syr.edu"
   email:
   twitter: "@qdrepository"
-  logo: "/assets/img/QDR_Logo_transparent_hiqual.png"
+  logo: "/assets/img/QDR_Logo_transparent-small.png"
   smalllogo: "/assets/img/QDR_Logo_transparent-small.png"
 
 

@@ -8,10 +8,10 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'Qualitative Data Repository'
+title: 'Managing Qualitative Social Science Data'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'Course slogan goes here'
+slogan: 'An interactive online course'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: 'Qualitative Data Respository....'
@@ -30,7 +30,7 @@ baseurl: '/ssrc-qdr-data-management'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: 
+improve_content:
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -46,7 +46,7 @@ urlimg: 'images/'
 logo: ""
 
 # these are individual top-of-page images, contained within the content area. path from baseurl required, with leading slash
-splashimage: "/assets/img/splash.jpg"
+splashimage: "/assets/img/saraf_SinglePhoto-panorama.jpg"
 modulesplashimage: "/assets/img/splash.jpg"
 #logos for sponsors are in sponsors.yml
 
@@ -235,7 +235,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-# google_analytics_tracking_id: 
+# google_analytics_tracking_id:
 
 
 
