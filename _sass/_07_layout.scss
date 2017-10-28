@@ -323,7 +323,7 @@ body.video cite { color: #fff; }
 }
 
 #footer {
-    padding-top: 30px;
+    padding-top: 20px;
   //  padding-bottom: 20px;
     background: $footer-bg;
     color: $footer-color;
@@ -398,7 +398,7 @@ body.video cite { color: #fff; }
   nav.row {
     height: 40px;
     display: block;
-    margin-bottom: 30px;
+//    margin-bottom: 10px;
 
     section {
       height: 100%;
@@ -431,7 +431,7 @@ body.video cite { color: #fff; }
 
 // Beware of SCSS-Syntax here
   li {
-    padding: 0 0 20px 0;
+    padding: 0 0 0px 0;
   }
   li:first-child {
     margin-left: 0;
