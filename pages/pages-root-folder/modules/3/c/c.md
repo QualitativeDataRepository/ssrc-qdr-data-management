@@ -1,25 +1,19 @@
 ---
-title: "Creating a Data Management Plan (DMP)"
+title: "Where to Share: Data Repositories"
 layout: page-fullwidth
 breadcrumb: true
 header: false
 hidefooter: false
-module: "1b"
-lesson: "Module 1, Lesson 3"
-categories: [module1,modulecontent]
-permalink: "/modules/1/c/"
-next: "/modules/1/d/"
-previous: "/modules/1/b/"
-description: "How to write a data management plan: strategies, tools, and assessment"
+module: "3c"
+lesson: "Module 3, Lesson 3"
+categories: [module3,modulecontent]
+permalink: "/modules/3/c/"
+next: false
+previous: "/modules/3/b/"
+description: "What are data repositories and why should you share your data in a data repository?"
 learningobjectives:
 -   
 initialquestions:
 -  
 ---
 {% include _learningobjectivesandquestions.html %}
-
-## Data Management Planning Basics
-
-
-
-{% include _exercise.html exerciseid="4" %}

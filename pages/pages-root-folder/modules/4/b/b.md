@@ -1,25 +1,19 @@
 ---
-title: "Data Management Planning Basics"
+title: "Annotation for Transparent Inquiry (ATI)"
 layout: page-fullwidth
 breadcrumb: true
 header: false
 hidefooter: false
-module: "1b"
-lesson: "Module 1, Lesson 2"
-categories: [module1,modulecontent]
-permalink: "/modules/1/b/"
-next: "/modules/1/c/"
-previous: "/modules/1/a/"
-description: "Some basics about data management planning"
+module: "4b"
+lesson: "Module 4, Lesson 2"
+categories: [module4,modulecontent]
+permalink: "/modules/4/b/"
+next: "/modules/4/c/"
+previous: "/modules/4/a/"
+description: "Annotation for Transparent Inquiry (ATI) is a method to link publications and data using open web annotations"
 learningobjectives:
 -   
 initialquestions:
 -  
 ---
 {% include _learningobjectivesandquestions.html %}
-
-## Data Management Planning Basics
-
-
-
-{% include _exercise.html exerciseid="4" %}

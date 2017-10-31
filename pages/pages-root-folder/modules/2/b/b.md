@@ -1,16 +1,16 @@
 ---
-title: "Data Management Planning Basics"
+title: "Data Naming, Formatting, Organization, Storing, and Security"
 layout: page-fullwidth
 breadcrumb: true
 header: false
 hidefooter: false
-module: "1b"
-lesson: "Module 1, Lesson 2"
-categories: [module1,modulecontent]
-permalink: "/modules/1/b/"
-next: "/modules/1/c/"
-previous: "/modules/1/a/"
-description: "Some basics about data management planning"
+module: "2b"
+lesson: "Module 2, Lesson 2"
+categories: [module2,modulecontent]
+permalink: "/modules/2/b/"
+next: false
+previous: "/modules/2/a/"
+description: "How should you name your files? Are there better formats for data storage?"
 learningobjectives:
 -   
 initialquestions:
