@@ -4,7 +4,7 @@ layout: page-fullwidth
 breadcrumb: true
 header: false
 hidefooter: false
-module: "1b"
+module: "1c"
 lesson: "Module 1, Lesson 3"
 categories: [module1,modulecontent]
 permalink: "/modules/1/c/"
@@ -21,7 +21,7 @@ initialquestions:
     or some other purpose?
 -   Have you had any tools to help you to write such a plan?
 -   Have you wondered how your plan would be judged?
-–-
+---
 {% include _learningobjectivesandquestions.html %}
 
 ## What is a data management plan?
