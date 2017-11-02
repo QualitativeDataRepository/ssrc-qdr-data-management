@@ -14,7 +14,7 @@ description: "Some basics about data management planning"
 learningobjectives:
 -   What data management is and why you should do it, and do it well
 -   The importance of planning for successful data management
--   How to use the data lifecycle to begin planning for data management 
+-   How to use the data lifecycle to begin planning for data management
 initialquestions:
 -   Did you hear about data management before this course? In what
     context?
@@ -36,7 +36,7 @@ Edinburgh Research Data Services:
 This definition highlights various features of data management.
 
 -   *Caring for* emphasizes that your data will suffer if you do not
-    manage it well. You may lose it entirely, it may become unusable, or
+    manage them well. You may lose it entirely, it may become unusable, or
     you may need to spend a lot of time understanding it.
 -   *Facilitating access* does refer to the eventual sharing of your
     research data with other researchers, but also applies during your
@@ -66,7 +66,7 @@ You should manage your data well because
     effectively address any concerns with your data that reviewers or
     critics bring up.
 -   others may require it. If you ever apply for an NSF grant, for
-    example, you will have to create a data management plan.
+    example, you will have to create a data management plan (DMP).
 -   your future self will thank you. Research projects take many years
     to complete. By organizing and documenting your data systematically
     throughout, you will still be able to understand it years along.
@@ -74,12 +74,12 @@ You should manage your data well because
 ## Why Data Management *Planning?*
 But why this emphasis on planning? There are two main reasons:
 
-1.  Steps you take early in your research can have significant impacts
+-   Steps you take early in your research can have significant impacts
     on what you may be able to do at later stages. For example, whether
     and how you can share you data will depend on the consent language
     you used, which you likely determined early on, in your
     IRB application.
-2.  Research, particularly fieldwork in a foreign country, is hectic,
+-   Research, particularly fieldwork in a foreign country, is hectic,
     often like juggling many things at ones. Some things may be much
     harder or even impossible to set up once you’re away from your
     home base. Having a plan in place for the things that you can plan
@@ -92,9 +92,9 @@ following question:
 “How can I demonstrate that I have carefully thought about what my data
 needs will be at each stage of my research and data lifecycles and that
 I have adopted specific and well justified procedures to meet those
-needs?” 
+needs?”
 
-So let’s start with the data lifecycle that you encountered in
+So let’s start with the data lifecycle that you encountered
 in the last lesson.
 
 {% include _exercise.html exerciseid="3" %}

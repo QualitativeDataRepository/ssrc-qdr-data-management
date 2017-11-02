@@ -25,7 +25,7 @@ initialquestions:
 ## The Research Data Lifecycle
 
 The “research data lifecycle” has become a ubiquitous image among data
-professional. Here is one example:
+professionals. Here is one example:
 
 ![Data Lifecycle]({{ site.baseurl }}/images/image1.png)
 
@@ -36,7 +36,7 @@ Services: International Digital Library Perspectives*. 23: 35-53.
 <http://doi.org/10.1108/10650750710720757>
 
 As you think through the organization and management of your research
-data, keep this cycle in mind (or even in front of you physically in
+data, keep this cycle in mind (or even physically in
 front of you: here is as pdf version to print out). Let’s begin with
 some questions about the data lifecycle.
 
@@ -50,18 +50,18 @@ some questions about the data lifecycle.
 ## This Course and the Data Lifecycle
 
 This course follows your data around its lifecycle. The following three
-lessons focus on the crucial **planning stage**: you will learn the
+lessons, module 1, focus on the crucial **planning stage**: you will learn the
 basics of data management, how to write an effective data management
 plan, and how to craft a consent script for human participant research
-that will later allow you to share your data. The next three modules
+that will later allow you to share your data. The next two lessons, module 2,
 focus on managing your data while you are **collecting** them. You will
 learn how to document your data so that they are easy to use in the
 future. You will learn practical strategies for organizing your data and
 files, including naming conventions and back-up strategies. Finally, you
 will learn how to transform the raw data you collect effectively, e.g.,
-how to digitize documents or transcribe interviews. The following two
-lessons address **sharing** your data in a way that’s safe and
-responsible. The final three lessons are about **writing and
+how to digitize documents or transcribe interviews. The following three
+lessons, module 3, address **sharing** your data in a way that’s safe and
+responsible. The final three lessons, module 4, are about **writing and
 publishing** with qualitative data.
 
 {% include _exercise.html exerciseid="2" %}

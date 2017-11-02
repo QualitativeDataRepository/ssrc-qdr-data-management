@@ -1,4 +1,4 @@
----
+–-
 title: "Creating a Data Management Plan (DMP)"
 layout: page-fullwidth
 breadcrumb: true
@@ -13,7 +13,7 @@ previous: "/modules/1/b/"
 description: "How to write a data management plan: strategies, tools, and assessment"
 learningobjectives:
 -   How to create a data management plan
--   Using tools like the DMP Tool to create a data management plan
+-   How to use tools like the DMP Tool to create a data management plan
 -   How to assess a data management plan
 -   How to treat your data management as a living document
 initialquestions:
@@ -21,7 +21,7 @@ initialquestions:
     or some other purpose?
 -   Have you had any tools to help you to write such a plan?
 -   Have you wondered how your plan would be judged?
----
+–-
 {% include _learningobjectivesandquestions.html %}
 
 ## What is a data management plan?
@@ -38,30 +38,24 @@ management. Broadly, the plan should cover the following topics:
 4.  How the data will be shared (or why not) and stored for the
     long term.
 
-We will provide more detailed instructions further down.
+We provide more detailed instructions below.
 
 ## Why write a data management plan?
 
 In many cases you will write your data management plan because a funding
-agency requires it -- in the US, for example, the National Science
+agency requires it – in the US, for example, the National Science
 Foundation (NSF) has required data management plans since 2011.
 Different funders have slightly different requirements for DMPs, but the
 NSF’s requirement of a 2-page document is fairly typical. An important
 goal of your data management plan, then, is to convey to the funder that
 you have thought carefully about data management.
 
+We would encourage you, though, to compose a data management plan even if you are not required to do so by a funder.  Having your plans for your data written out helps keep you organized and on track as you conduct your research project. Having written plans can be especially useful if you need to coordinate the activities of a research team – including just a couple of RAs. Having your data management plans written out also allows you to communicate those plans to others. At QDR, for example, looking at researchers' DMPs allows us to quickly understand their goals and needs, helping us to offer them the support they need.
+
 **From the field:** The NSF and other agencies are starting to look at
 data management plans more and more closely. In 2012, barely adequate
 DMPs were routinely accepted. That is no longer the case. Take the DMP
 portion of your grant seriously.
-
-We would encourage you, though, to not just view your DMP this way and
-to spend some time writing out your plans even It serves as a useful
-reminder for you throughout your project and can be especially useful to
-coordinate activities in a research team. It can also be very useful to
-communicate your plans to others. At QDR, for example, looking at
-researchers DMPs allows us to quickly understand their plans and needs,
-and we can provide the support they need.
 
 ## Tools for writing a data management plan
 
