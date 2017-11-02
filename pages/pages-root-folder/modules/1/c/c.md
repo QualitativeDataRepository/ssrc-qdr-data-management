@@ -1,4 +1,4 @@
-–-
+---
 title: "Creating a Data Management Plan (DMP)"
 layout: page-fullwidth
 breadcrumb: true
@@ -22,6 +22,7 @@ initialquestions:
 -   Have you had any tools to help you to write such a plan?
 -   Have you wondered how your plan would be judged?
 ---
+
 {% include _learningobjectivesandquestions.html %}
 
 ## What is a data management plan?
