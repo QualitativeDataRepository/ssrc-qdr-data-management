@@ -1,10 +1,10 @@
 # Exercise details
 #
 
-- title: "Test exercise 1"
+- title: "Your Research and the Data Lifecycle"
   id: 1
   module: "1a"
-  description: "This is a test exercise"
+  #description: "This is a test exercise"
   content:
     - question: >
         Consider why the use of research data is depicted as a “cycle”. In particular, what does the dashed arrow from “Long-term Management” to “Discovery and Planning” represent?
@@ -25,57 +25,76 @@
         - subanswer: >
             *Publication and Sharing*: write! Finalized documentation; de-identify data if needed; deposit with data with repository, publicize through social media, e-mail, etc.
         - subanswer: >
-            *Long-term Management*: Handled by data repository.
-      
-- title: "Test exercise 2"
+            *Long-term Management*: Handled by data repository.    
+- title: "Limitations of the Lifecycle Model"
   id: 2
   module: "1a"
-  description: "This is a test exercise with NO subanswers"
+#  description: "This is a test exercise with NO subanswers"
   content:
     - question: >
-        Consider why the use of research data is depicted as a “cycle”. In particular, what does the dashed arrow from “Long-term Management” to “Discovery and Planning” represent?
+        What are some of the limitations of how well the data lifecycle model represents actual research, especially as you think about qualitative research? 
   solution:
     - answer: >
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-- title: "Test exercise 3"
+        Like every model, the data lifecycle glosses over details. For example, there often won’t be a neat distinction between planning, initial, and final data collection. You may also find that you go back between research and writing/publication. For example, scholars would frequently conduct additional research between dissertation  and the book resulting from the dissertation. Arguabl y many of this applies particularly strongly to qua litative  research. In many qualitative traditions, researchers  go back and forth between data and theory. The lifecycl e  paints to neat a picture of that. As you use it as a  planning device, make sure to account for such “back-and  forth.”
+- title: "Using the Data Lifeycle for Planning"
   id: 3
-  module: "1a"
-  description: "This is a test exercise with SUBSUBANSWERS"
-  content:
-    - question: >
-        Consider why the use of research data is depicted as a “cycle”. In particular, what does the dashed arrow from “Long-term Management” to “Discovery and Planning” represent?
-  solution:
-    - answer: >
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exerci
-      subanswers:  
-        - subanswer: >
-            *Discovery and Planning:*
-          subsubanswers:
-            - subsubanswer: >
-                This is a sub sub answer
-    - answer: > 
-        This will depend on your research but here are some possible activities in each category
-    - answer: > 
-        Another answer but here are some possible activities in each category
-
-- title: "Test exercise 4"
-  id: 4
   module: "1b"
-  description: "This is a test exercise with SUBSUBANSWERS"
+#  description: "This is a test exercise with SUBSUBANSWERS"
   content:
     - question: >
-        Consider why the use of research data is depicted as a “cycle”. In particular, what does the dashed arrow from “Long-term Management” to “Discovery and Planning” represent?
+        Using a depiction of the data lifecycle (you can draw one per hand or download and print a PDF version from here), mark at every point in the lifecycle which data management and/or data management planning steps you should take. Remember you already did some related work in an exercise in the last lesson.
   solution:
     - answer: >
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exerci
-      subanswers:  
-        - subanswer: >
-            *Discovery and Planning:*
-          subsubanswers:
-            - subsubanswer: >
-                This is a sub sub answer
-    - answer: > 
-        This will depend on your research but here are some possible activities in each category
-    - answer: > 
-        Another answer but here are some possible activities in each category
+       We take an example from the data by Chukwuma et al. (2017) Data for: “A Qualitative Study of Perspectives on Postnatal Care Referrals by Traditional Birth Attendants in Ebonyi State, [https://doi.org/10.5064/F67H1GGS](https://doi.org/10.5064/F67H1GGS) published on QDR. We will use examples based on this study throughout the course. You can find details about the study (as well as the data deposited) at the DOI link above.
+- title: "Using the DMP Tool"
+  id: 4
+  module: "1c"
+#  description: "This is a test exercise with SUBSUBANSWERS"
+  content:
+    - question: >
+        Create an account for the DMP Tool (if possible through your university) and write a very brief data management plan. The goal is to get a sense of the tool, so don’t go for perfection.
+  solution:
+    - answer: >
+        Go to [https://dmptool.org/](https://dmptool.org/), click on "Get started" and select your institution on the next screen. Then click “Create New DMP” and use a template. We suggest the NSF’s Social, Behavioral, and Economic Science as a good default, but feel free to pick any funder that seems relevant.       
+- title: "Assessing DMPs"
+  id: 5
+  module: "1c"
+#  description: "This is a test exercise with SUBSUBANSWERS"
+  content:
+    - question: >
+        Find the rubric by Whitmire et al. [here](https://osf.io/jj7dm/) and a scoresheet for the rubric [here](https://osf.io/twynp/). Use this rubric to evaluate the data management plan by Fisher and Nading (2016) [here](https://doi.org/10.3897/rio.2.e8720). Alternatively, when working in a group or with a partner, you can exchange DMPs and assess each other. 
+    - question: >
+        As you work through the rubric, try to not just think about what you would improve about the data management plan, but also where the rubric itself might fall short.
+  solution:
+    - answer: >
+        You can look at a rubric for the Fisher and Nading data management plan that we filled out here. Don’t expect to have the exact same assessment throughout, but look again at areas where you disagree with our assessment. 
+    - answer: >    
+        The most important weakness of the rubric is that it assesses the mere presence of a topic, not the quality of the response. For example, “I will e-mail my data to interested researchers” would qualify as a full score to question 4.2, but is clearly not a satisfactory answer. Moreover, given NSF’s interest in DMPs, they focus heavily on the sharing and dissemination component, but make little mention of some of the earlier, crucial issues, such as back-up or personnel.
+- title: "Evaluating Informed Consent Language"
+  id: 6
+  module: "1d"
+  #  description: "This is a test exercise with SUBSUBANSWERS"
+  content:
+    - question: >
+        Consider these two examples of language from informed consent scripts, identify problems, and suggest improvements.    
+    - question: >
+        Three people will have direct access to these observations: me, and the two other members of the research team. The written observations will be kept during the analysis of the data, that is, about 3 years. After that, they will be destroyed.
+    - question: >
+        We will anonymize all data before sharing it on a trusted digital repository. No one will be able to identify you from that data. 
+  solution:
+    - answer: >
+        The two biggest issues here are the specification of a restricted group of people with access to the data and the eventual destruction of the data. We would suggest something like this instead:
+        “Three people will have direct access to the full observations: me, and the two other members of the research team. We will remove all information that can identify you from these observations before sharing them with other researchers.”
+    - answer: >
+        As explained above, do not promise that no one will be able to identify participants. Moreover, avoid complex technical terms such as “anonymize” and “trusted digital repository. Instead, something like this may work:
+        “We will remove information that can identify you, such as your name and exact date of birth, from the data. Then we will make the data available to other researchers, so that your answers can help scientists better understand why …” 
+- title: "Craft Your Own Consent Language"
+  id: 7
+  module: "1d"
+  #description: "This is a test exercise with SUBSUBANSWERS"
+  content:
+    - question: >
+        Now spend some time with writing or editing your own consent script. Reassure your participants that their data is fair, but do not preclude the sharing of data. If working in a group, exchange scripts with a partner.
+  solution:
+    - answer: >
+        

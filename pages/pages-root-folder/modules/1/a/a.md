@@ -46,16 +46,6 @@ some questions about the data lifecycle.
 
  We introduce the concept of a research project lifecycle (from project design to funding application to research to publication) and the attendant research data lifecycle. This data lifecycle, we demonstrate, tracks the research project lifecycle and also extends beyond the publications of articles or books to ensure the independent existence, accessibility, discoverability and longevity of all of the data generated in association with a research project. Finally, we consider the various benefits of effective data management – to the researcher personally, to other potential users, and to the broader social science community.
 
-> ## Tips from the Field
->
-> Lacking current content for this: "Lorem ipsum dolor sit amet,
-> consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-> et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-> exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-> dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-> proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-{:.tips}
 
 ## This Course and the Data Lifecycle
 
@@ -75,5 +65,3 @@ responsible. The final three lessons are about **writing and
 publishing** with qualitative data.
 
 {% include _exercise.html exerciseid="2" %}
-
-{% include _exercise.html exerciseid="3" %}
