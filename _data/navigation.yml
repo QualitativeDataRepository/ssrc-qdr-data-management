@@ -39,8 +39,6 @@
       url: "/modules/3/b/"
     - title: "Where to share: Data repositories"
       url: "/modules/3/c/"
-    - title: "Citing/DOIs?"
-      url: "/modules/3/d/"
   - title: "Writing with qualitative data"
     url: "/modules/4/"
     dropdown:
@@ -48,7 +46,7 @@
       url: "/modules/4/a/"
     - title: "Annotation for Transparent Inquiry"
       url: "/modules/4/b/"
-    - title: "Citing/DOIs?"
+    - title: "Citing Data and Digital Object Identifiers (DOIs)?"
       url: "/modules/4/c/"
 
 - title: "Exercises"
@@ -63,6 +61,12 @@
     url: "/exercises/3/"
   - title: "Exercise 4"
     url: "/exercises/4/"
+  - title: "Exercise 5"
+    url: "/exercises/5/"
+  - title: "Exercise 6"
+    url: "/exercises/6/"
+  - title: "Exercise 7"
+    url: "/exercises/7/"    
 
 - title: Resources
   url: "/resources/"

@@ -8,20 +8,20 @@ layout: frontpage
 header: false
 hidefooter: true
 widget1:
-  title: "Instructors"
-  url: '/instructors/'
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  title: "Why data management?"
+  #url: '/instructors/'
+  text: 'Research data management is caring for, facilitating access to, preserving and adding value to research data throughout its lifecycle.  Data are valuable, and form the basis for your empirical claims. Better data management means better research, can help you address concerns about your data that reviewers of your research might raise, and makes your data more easily shareable.'
 widget2:
-  title: "Sections"
-  url: '/sections/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
+  title: "SSRC and QDR"
+  #url: '/sections/'
+  text: 'The Social Science Research Council is a U.S.-based independent nonprofit organization dedicated to advancing research in the social sciences and related disciplines. The Qualitative Data Repository is an NSF-supported domain repository dedicated to curating, preserving and publishing the data underlying qualitative and multi-method research in the social sciences.'
 widget3:
-  title: "Latest"
-  url: '/blog/'
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. Grab the <a href="https://github.com/Phlow/feeling-responsive/tree/bare-bones-version">Bare-Bones-Version</a> for a fresh start or learn how to use it with the <a href="https://github.com/Phlow/feeling-responsive/tree/gh-pages">education-version</a> with sample posts and images. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
+  title: "Structure of the course"
+  #url: '/blog/'
+  text: 'This interactive on-line course includes four modules, each with multiple lessons.  Together they constitute a complete course on managing qualitative data; each lesson is also designed to function as a stand-alone resource that can be completed individually.  Most lessons include associated readings, resources, exercises, and activities.'
 #
 # Use the call for action to show a button on the frontpage
-#
+# 
 # To make internal links, just use a permalink like this
 # url: /getting-started/
 #
