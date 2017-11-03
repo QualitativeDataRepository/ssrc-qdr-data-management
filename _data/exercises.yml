@@ -52,7 +52,7 @@
 #  description: "This is a test exercise with SUBSUBANSWERS"
   content:
     - question: >
-        Create an account for the DMP Tool (if possible through your university) and write a very brief data management plan. The goal is to get a sense of the tool, so don’t go for perfection.
+        Create an account for the DMP Tool (if possible through your university) and write a very brief data management plan. You plan does not need to be very detailed (for now) – the goal is to get a sense of the tool.
   solution:
     - answer: >
         Go to [https://dmptool.org/](https://dmptool.org/), click on "Get started" and select your institution on the next screen. Then click “Create New DMP” and use a template. We suggest the NSF’s Social, Behavioral, and Economic Science as a good default, but feel free to pick any funder that seems relevant.       
@@ -80,7 +80,7 @@
     - question: >
         Three people will have direct access to these observations: me, and the two other members of the research team. The written observations will be kept during the analysis of the data, that is, about 3 years. After that, they will be destroyed.
     - question: >
-        We will anonymize all data before sharing it on a trusted digital repository. No one will be able to identify you from that data. 
+        We will anonymize all data before sharing it in a trusted digital repository. No one will be able to identify you from that data. 
   solution:
     - answer: >
         The two biggest issues here are the specification of a restricted group of people with access to the data and the eventual destruction of the data. We would suggest something like this instead:
@@ -94,7 +94,7 @@
   #description: "This is a test exercise with SUBSUBANSWERS"
   content:
     - question: >
-        Now spend some time with writing or editing your own consent script. Reassure your participants that their data is fair, but do not preclude the sharing of data. If working in a group, exchange scripts with a partner.
+        Now spend some time with writing or editing your own consent script. Reassure your participants that their data is safe, but do not preclude the sharing of data. If working in a group, exchange scripts with a partner.
   solution:
     - answer: >
         

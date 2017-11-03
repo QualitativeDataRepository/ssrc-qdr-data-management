@@ -75,7 +75,7 @@ guide to writing your DMP or, as the name implies, to check that an
 existing data management plan covers everything it should.
 
 Still, you may find it difficult to start writing such a plan. A useful
-tool for this it the [*DMP Tool*](https://dmptool.org/), produced by the
+tool for this is the [*DMP Tool*](https://dmptool.org/), produced by the
 California Digital Library. The DMP Tool provides a large number of
 templates, based on funder requirements, and helps you to structure your
 DMP according to those templates, guiding you through the process with
@@ -87,18 +87,16 @@ abstract, so it may be useful to combine it with QDR’s checklist.
 
 ## Some Key Elements of a DMP
 
-You should rely on tools such as our checklist or the DMP Tool for a
-comprehensive list. Instead of replicating the list here, we’d like to
-point to some particularly important or misunderstood issues here.
+You should rely on tools such as our checklist or the DMP Tool for a comprehensive list. Here we simply highlight some particularly important or frequently misunderstood issues.
 
--   **Personnel:** as a young researcher, you may not think of yourself
+-   **Personnel:** As a young researcher, you may not think of yourself
     as leading a “team,” but chances are you will be using research
-    assistance and potentially other contractors like transcribers,
+    assistants and potentially other contractors like transcribers,
     translators, or even stringers before you publish your research. You
     should consider what parts of your data these team members can
     access, how you provide (and restrict) access for them, and how you
     will train them to manage your data responsibly.
--   **Data types:** generally, storing your data in standard file
+-   **Data types:** Generally, storing your data in standard file
     formats is ideal. Where you rely on proprietary, specialized
     formats, you are at the mercy of the company supporting
     these formats. Using proprietary formats is not always avoidable
@@ -134,8 +132,7 @@ with NSF criteria for such plans (Whitmire et al., 2015).
 
 ## DMPs as Living Documents
 
-Your data management plan should, ideally, anticipate eventualities, but
-let’s be honest: none of us can predict all the eventualities of a
+Your data management plan should, ideally, anticipate eventualities, but none of us can predict all the eventualities of a
 multi-year research project. This is why there is a movement to treat
 DMPs as “living documents.” The idea here is that a DMP evolves together
 with your project. For example, as you add team members or collect

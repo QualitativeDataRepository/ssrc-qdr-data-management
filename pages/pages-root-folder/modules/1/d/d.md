@@ -13,8 +13,7 @@ previous: "/modules/1/c/"
 description: "Informed consent procedures are crucial for ethical research. They don't have to make sharing data impossible."
 learningobjectives:
 -   Basic outlines of informed consent language
--   How informed consent can impede any sharing of your data -- and how
-    to avoid that
+-   The potential interactions between informed consent and sharing data generated through interacting with human participants
 -   What to do if you are already using informed consent language that
     precludes sharing 
 initialquestions:
@@ -36,9 +35,8 @@ In the US, it is also a legal requirement, mandated by guidelines from
 the federal government. This course does not replace a course about
 ethical research practices. In the US, you will typically be required to
 take such a course prior to conducting research with human participants.
-Our focus in this lesson is on using an informed consent script that
-does not unnecessarily prevent you from sharing data. In the process, we
-hope to also provide you with some suggestions on effectively gaining
+Our focus in this lesson is on developing and using an informed consent script that does not unnecessarily prevent you from sharing data.
+In the process, we hope to also provide you with some suggestions on effectively gaining
 consent.
 
 A typical informed consent script includes four main elements
@@ -79,9 +77,10 @@ abbreviated form at the beginning of the recording.
 
 > ## Tip from the field 
 >While oral consent is often more appropriate for
->qualitative research, don’t assume it is. We’ve heard from scholars who
+>qualitative research, don’t assume it is. We’ve heard from a scholar who
 >found that her interviewees (ex-combatants) were reassured by the
 >legitimacy indicated by the written consent form and information sheet.
+>Ask others who have engaged in a similar type of research in the context you are studying about their experiences.
 
 Qualitative research also has an advantage over lab-based research in
 obtaining truly informed consent. As you build lasting relationships
@@ -103,9 +102,7 @@ Such restrictions can be adequate for sensitive, identifiable data, such
 as audio-recordings or sensitive interviews. They are almost always in
 order for the keys which allow you to re-identify subjects from numbers
 or pseudonyms. However, you should, wherever ethically possible, allow
-for sharing of de-identified data. You can do so very explicitly, such
-as in this example, [*suggested by Cornell’s
-IRB*](https://www.irb.cornell.edu/forms/#dThree):
+for sharing of de-identified data. You can do so very explicitly.  Consider, for example, this language recently developed by Cornell University's [Institutional Review Board](https://www.irb.cornell.edu/forms/#dThree):
 
 “De-identified data from this study may be shared with the research
 community at large to advance science and health. We will remove or code
@@ -130,8 +127,7 @@ are truly anonymous.
 
 ## Re-consenting Participants
 
-What can you do if you have already interviewed participants, want to
-share interview data, but used language that prevents your from sharing?
+What can you do if you have already interviewed participants, want to share interview data, but used **consent** language that prevents your from sharing?
 Often, the answer to this question is, sadly, nothing. But where you
 have good rapport with your participants and you are able to get in
 touch with them with relative ease, it is possible to retroactively ask
