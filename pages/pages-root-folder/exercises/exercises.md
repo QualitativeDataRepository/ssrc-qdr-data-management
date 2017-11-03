@@ -12,7 +12,7 @@ image:
 ---
 <div class="item">
 {% for page in site.pages %}
-  {% if page.categories contains 'modulecontent' %}
+  {% if page.categories contains 'hasexercises' %}
     <h2><a href="{{ site.url }}{{ site.baseurl }}{{ page.permalink }}/">{{ page.title }}</a></h2>
     {% for exercise in site.data.exercises %}
       {% if exercise.module == page.module %}

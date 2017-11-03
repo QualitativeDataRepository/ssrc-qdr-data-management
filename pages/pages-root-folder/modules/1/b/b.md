@@ -1,15 +1,15 @@
 ---
-title: "Understanding the Data Lifecycle"
+title: "bUnderstanding the Data Lifecycle"
 layout: page-fullwidth
 breadcrumb: true
 header: false
 hidefooter: false
 module: "1a"
 categories: [module1,modulecontent,hasexercises]
-permalink: "/modules/1/a/"
-next: "/modules/1/b/"
+permalink: "/modules/1/b/"
+next: "/modules/1/c/"
 previous: false
-description: "What the data lifecycle is and how it relates to your research"
+description: "BWhat the data lifecycle is and how it relates to your research"
 learningobjectives:
 -   What the data lifecycle is and how it relates to your research
 -   How this course uses the concept of the lifecycle
