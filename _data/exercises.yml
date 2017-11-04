@@ -73,10 +73,8 @@
 - title: "Evaluating Informed Consent Language"
   id: 6
   module: "1d"
-  #  description: "This is a test exercise with SUBSUBANSWERS"
+  description: Consider these two examples of language from informed consent scripts, identify problems, and suggest improvements.
   content:
-    - question: >
-        Consider these two examples of language from informed consent scripts, identify problems, and suggest improvements.    
     - question: >
         Three people will have direct access to these observations: me, and the two other members of the research team. The written observations will be kept during the analysis of the data, that is, about 3 years. After that, they will be destroyed.
     - question: >

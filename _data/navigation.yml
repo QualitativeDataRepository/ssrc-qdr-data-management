@@ -73,9 +73,9 @@
   side: left
   dropdown:
   - title: "Resource 1"
-    url: "/resources/1/"
+    url: "/resource/1/"
   - title: "Resource 2"
-    url: "/resources/2/"
+    url: "/resource/2/"
 
 - title: "Search"
   url: "/search/"

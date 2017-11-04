@@ -6,7 +6,7 @@ header: false
 hidefooter: false
 module: "1d"
 lesson: "Module 1, Lesson 4"
-categories: [module1,modulecontent]
+categories: [module1,modulecontent, hasexercises]
 permalink: "/modules/1/d/"
 next: false
 previous: "/modules/1/c/"
