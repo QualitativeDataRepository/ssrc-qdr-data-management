@@ -95,4 +95,29 @@
         Now spend some time with writing or editing your own consent script. Reassure your participants that their data is safe, but do not preclude the sharing of data. If working in a group, exchange scripts with a partner.
   solution:
     - answer: >
+- title: "Creating a Data Sharing Policy"
+  id: 8
+  module: "3a"
+  #description: "This is a test exercise with SUBSUBANSWERS"
+  content:
+    - question: >
+        Two of the institutional actors that have been carefully considering all of the questions above are funders and publishers. They need to take on these issues because they must develop policies for applicants and grantees, and authors, to follow. Given the considerations, benefits, and challenges above,
+        how should key institutional actors design policies to encourage responsible data sharing? Pretend you are the editor-in-chief of a
+        journal of your choice. Develop a draft policy that you will translate into author guidelines for providing the qualitative data that underpin articles published in your journal. Your policy should address the following issues:
+          -   Which data should be shared and what in addition to data needs
+              to be shared?
+          -   When in the publication process should data (and materials) be
+              shared?
+          -   Where should data (and materials) be shared?
+          -   What established exceptions should there be?
+          -   Who should judge whether a scholar’s situation fits within those
+              exceptions – or whether the alternative situation for which a
+              scholar seeks an exception should be deemed exceptional?
+          -   How will the policy be enforced?
+  solution:
+    - answer: >
+        There are no right or wrong answers to these questions! We encourage you to evaluate your answers along the following lines: Are your answers coherent – do they fit together without contradicting each other? How easy will they be to translate into clear guidelines for authors? What kind of behavior are the different aspects of your policy, and your policy as a whole, encouraging on the part of authors and reviewers? Of the various involved actors (authors, reviewers, other institutions), whom have you empowered – granted decision-making authority? Have you addressed possible trade-offs between promoting data sharing and deterring authors from submitting their best work to your journal? What potential sources of conflict does your policy cause introduce?
+  
+
+
         

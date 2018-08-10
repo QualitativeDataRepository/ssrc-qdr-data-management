@@ -33,7 +33,7 @@
     url: "/modules/3/"
     side: left
     dropdown:
-    - title: "De-identifying data"
+    - title: "Sharing Data – Considerations, Benefits, and Challenges"
       url: "/modules/3/a/"
     - title: "Addressing copyright"
       url: "/modules/3/b/"
