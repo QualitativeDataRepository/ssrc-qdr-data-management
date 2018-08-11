@@ -35,7 +35,7 @@
     dropdown:
     - title: "Sharing Data – Considerations, Benefits, and Challenges"
       url: "/modules/3/a/"
-    - title: "Addressing copyright"
+    - title: "Sharing Human Participants Data"
       url: "/modules/3/b/"
     - title: "Where to share: Data repositories"
       url: "/modules/3/c/"
@@ -66,7 +66,7 @@
   - title: "Exercise 6"
     url: "/exercises/6/"
   - title: "Exercise 7"
-    url: "/exercises/7/"    
+    url: "/exercises/7/"
 
 - title: Resources
   url: "/resources/"
