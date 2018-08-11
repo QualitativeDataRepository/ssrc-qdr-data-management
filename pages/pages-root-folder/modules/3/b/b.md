@@ -83,7 +83,9 @@ Access controls can be placed in three broad categories:
 
 1.  **Who** can access your data? Access to your data might be  restricted, e.g., to researchers with a legitimate interest in the  data (as proven by a research proposal) or anyone who wishes to  access the data may be required to secure approval from their IRB.
 
-    a.  *Note:* While it seems counterintuitive, we generally recommend  that you allow repository personnel to guide decisions on data  access. If your permission were required, for instance, the  data may become inaccessible if the repository is unable to  contact you at some point in the future.
+## Note
+>While it seems counterintuitive, we generally recommend  that you allow repository personnel to guide decisions on >data  access. If your permission were required, for instance, the  data may become inaccessible if the repository is >unable to  contact you at some point in the future.
+
 2.  **How** can others access your data? They may have to use special  secure internet connections to download the data and sign  agreements about the safe storage and eventual destruction of  their copy of the data. In special cases, you may even require  that researchers access the data in person at a repository or  other location using a computer disconnected from the internet.  Some repositories offer hybrid solutions between these two  options, such as ICPSR’s “virtual enclave,” which allows remote  viewing of data which never leave the server.
 
 3.  **When** can others access your data? So called embargos (i.e.,  periods when your data are absolutely inaccessible to anyone) can  sometimes be used as an additional protection for human  participants. Most often, they are relatively short and oriented  toward ensuring the ability of the researcher to publish on the  data prior to making them accessible to others. In some cases,  however, embargos can make valuable data available in the long run  by setting a “lifting date” when human participants will be  deceased, for instance. Historical archives often have such rules  for personal papers.
