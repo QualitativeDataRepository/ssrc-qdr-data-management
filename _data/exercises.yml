@@ -117,16 +117,16 @@
   solution:
     - answer: >
         There are no right or wrong answers to these questions! We encourage you to evaluate your answers along the following lines: Are your answers coherent – do they fit together without contradicting each other? How easy will they be to translate into clear guidelines for authors? What kind of behavior are the different aspects of your policy, and your policy as a whole, encouraging on the part of authors and reviewers? Of the various involved actors (authors, reviewers, other institutions), whom have you empowered – granted decision-making authority? Have you addressed possible trade-offs between promoting data sharing and deterring authors from submitting their best work to your journal? What potential sources of conflict does your policy cause introduce?
-  - title: "De-identification"
-    id: 9
-    module: "3b"
+- title: "De-identification"
+  id: 9
+  module: "3b"
     #description: "This is a test exercise with SUBSUBANSWERS"
-    content:
-      - question: >
-          Read the passage in [this PDF]({{ site.baseurl }}/assets/De-identification-exercise.pdf))and then seek to de-identify it as best you can. Begin to create a set of de-identification rules to follow.
-    solution:
-      - answer: >
-          You can find a [sample de-identification here]({{ site.baseurl }}/assets/De-identification-exercise-solution.pdf). Note how we left some information such as "Philadelphia" and "South Philadelphia" intact, while widening more specif information such as years and school names. Details of de-identification depend both on what additional context is provided in the interview and what parts are of particular importance to a study, i.e. should not be removed if at all possible.
+  content:
+    - question: >
+        Read the passage in [this PDF]({{ site.baseurl }}/assets/De-identification-exercise.pdf))and then seek to de-identify it as best you can. Begin to create a set of de-identification rules to follow.
+  solution:
+    - answer: >
+        You can find a [sample de-identification here]({{ site.baseurl}}/assets/De-identification-exercise-solution.pdf). Note how we left some information such as "Philadelphia" and "South Philadelphia" intact, while widening more specif information such as years and school names. Details of de-identification depend both on what additional context is provided in the interview and what parts are of particular importance to a study, i.e. should not be removed if at all possible.
 
 
         
