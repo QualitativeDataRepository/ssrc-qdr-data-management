@@ -28,9 +28,9 @@ initialquestions:
 
 Qualitative researchers often work closely with human participants, conducting in-depth interviews, focus groups, and oral histories, or engaging in participant observation and ethnography. Most social scientists feel a profound ethical obligation to their participants, and  responsibility for ensuring that their research does not negatively impact these individuals. Sharing data generated through human participants research can expose your participants to additional risk, however. As a result, you need to take special care when you share such data to be sure that you do so ethically and legally.
 
-According to the [*1979 Belmont Report*](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html),three key principles create the conditions for ethical research:
+According to the [1979 Belmont Report](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html), three key principles create the conditions for ethical research:
 
--   *Respect* *–* Showing respect for the personal autonomy and agency of your research participants.
+-   *Respect* – Showing respect for the personal autonomy and agency of your research participants.
 -   *Beneficence* – Seeking a balance between minimizing potential risks to individual participants and to society while maximizing benefits to both.
 -   *Justice* – Being fair to individual participants, neither exploiting nor ignoring one group to benefit another.
 
@@ -63,7 +63,7 @@ Some good practices will make de-identifying responses from your human participa
 
 Not all qualitative data garnered from human participants need to be de-identified.
 
--   When interviews were conducted “on the record,” the resulting notes  or transcripts can be shared using the respondent’s name. This may  be the case for elites, who are accustomed to journalistic  interviews. Be mindful, however, of local practices: in some  countries, it is expected that interviewees will have an  opportunity to review the written record of the interaction before  it is made public or published.
+-   When interviews were conducted “on the record,” the resulting notes or transcripts can be shared using the respondent’s name. This may be the case for elites, who are accustomed to journalistic  interviews. Be mindful, however, of local practices: in some  countries, it is expected that interviewees will have an  opportunity to review the written record of the interaction before  it is made public or published.
 
 -   Data that are already part of the public record (e.g., public  statements by politicians) don’t need to be de-identified.
 
@@ -83,7 +83,7 @@ Access controls can be placed in three broad categories:
 
 1.  **Who** can access your data? Access to your data might be  restricted, e.g., to researchers with a legitimate interest in the  data (as proven by a research proposal) or anyone who wishes to  access the data may be required to secure approval from their IRB.
 
-## Note
+## Good to know
 >While it seems counterintuitive, we generally recommend  that you allow repository personnel to guide decisions on >data  access. If your permission were required, for instance, the  data may become inaccessible if the repository is >unable to  contact you at some point in the future.
 
 2.  **How** can others access your data? They may have to use special  secure internet connections to download the data and sign  agreements about the safe storage and eventual destruction of  their copy of the data. In special cases, you may even require  that researchers access the data in person at a repository or  other location using a computer disconnected from the internet.  Some repositories offer hybrid solutions between these two  options, such as ICPSR’s “virtual enclave,” which allows remote  viewing of data which never leave the server.
@@ -96,11 +96,11 @@ As with engaging in the de-identification of data, using access controls always 
 
 Choosing access controls should typically be done in consultation with a specialist at a repository. Based on your in-depth knowledge of your data and its context and the repository’s understanding of technical options and best practices, you will be able to arrive at a safe – and thus ethical – solution.
 
-## Further Resources
+## Resources
 
 -   Mosley, Layna. 2013. *Interview Research in Political Science*. Cornell University Press.
  [*http://www.cornellpress.cornell.edu/book/?GCOI=80140100891800*](http://www.cornellpress.cornell.edu/book/?GCOI=80140100891800)
--   Further guidance on de-identifying data on QDR:  https://qdr.syr.edu/guidance/human-participants/deidentification
+-   Further guidance on de-identifying data on QDR:  [https://qdr.syr.edu/guidance/human-participants/deidentification](https://qdr.syr.edu/guidance/human-participants/deidentification)
 -   Guidance on de-identifying qualitative data by the UK Data Archive:  [*https://www.ukdataservice.ac.uk/manage-data/legal-ethical/anonymisation/qualitative*](https://www.ukdataservice.ac.uk/manage-data/legal-ethical/anonymisation/qualitative)
--   ICPSR’s guidance on data sharing. Note in particular the section on data enclaves at the end.
+-   ICPSR’s guidance on data sharing. Note in particular the section on data enclaves at the end:
  [*https://www.icpsr.umich.edu/icpsrweb/content/deposit/guide/chapter5.html*](https://www.icpsr.umich.edu/icpsrweb/content/deposit/guide/chapter5.html)

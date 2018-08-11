@@ -42,10 +42,10 @@
 #  description: "This is a test exercise with SUBSUBANSWERS"
   content:
     - question: >
-        Using a depiction of the data lifecycle (you can draw one per hand or download and print a PDF version from here), mark at every point in the lifecycle which data management and/or data management planning steps you should take. Remember you already did some related work in an exercise in the last lesson.
+        Using a depiction of the data lifecycle (you can draw one per hand or download and print a PDF version from [here](https://qualitativedatarepository.github.io/ssrc-qdr-data-management/files/data-lifecycle.pdf)), mark at every point in the lifecycle which data management and/or data management planning steps you should take. Remember you already did some related work in an exercise in the last lesson.
   solution:
     - answer: >
-       We take an example from the data by Chukwuma et al. (2017) Data for: “A Qualitative Study of Perspectives on Postnatal Care Referrals by Traditional Birth Attendants in Ebonyi State, [https://doi.org/10.5064/F67H1GGS](https://doi.org/10.5064/F67H1GGS) published on QDR. We will use examples based on this study throughout the course. You can find details about the study (as well as the data deposited) at the DOI link above.
+       The details will of course depend on your individual solution, but the image below gives you some ideas of which steps may occur at which point in the data lifecycle. ![Lifeycle with interventions](https://qualitativedatarepository.github.io/ssrc-qdr-data-management/images/lifecycle-interventions.png)
 - title: "Using the DMP Tool"
   id: 4
   module: "1c"
@@ -89,7 +89,6 @@
 - title: "Craft Your Own Consent Language"
   id: 7
   module: "1d"
-  #description: "This is a test exercise with SUBSUBANSWERS"
   content:
     - question: >
         Now spend some time with writing or editing your own consent script. Reassure your participants that their data is safe, but do not preclude the sharing of data. If working in a group, exchange scripts with a partner.
@@ -98,7 +97,6 @@
 - title: "Creating a Data Sharing Policy"
   id: 8
   module: "3a"
-  #description: "This is a test exercise with SUBSUBANSWERS"
   content:
     - question: >
         Two of the institutional actors that have been carefully considering all of the questions above are funders and publishers. They need to take on these issues because they must develop policies for applicants and grantees, and authors, to follow. Given the considerations, benefits, and challenges above,
@@ -120,13 +118,66 @@
 - title: "De-identification"
   id: 9
   module: "3b"
-    #description: "This is a test exercise with SUBSUBANSWERS"
   content:
     - question: >
-        Read the passage in [this PDF]({{ site.baseurl }}/assets/De-identification-exercise.pdf))and then seek to de-identify it as best you can. Begin to create a set of de-identification rules to follow.
+        Read the passage in [this PDF](https://qualitativedatarepository.github.io/ssrc-qdr-data-management/files/De-identification-exercise.pdf) and then seek to de-identify it as best you can. Begin to create a set of de-identification rules to follow.
   solution:
     - answer: >
-        You can find a [sample de-identification here]({{ site.baseurl }}/assets/De-identification-exercise-solution.pdf). Note how we left some information such as "Philadelphia" and "South Philadelphia" intact, while widening more specif information such as years and school names. Details of de-identification depend both on what additional context is provided in the interview and what parts are of particular importance to a study, i.e. should not be removed if at all possible.
+        You can find a [sample de-identification here](https://qualitativedatarepository.github.io/ssrc-qdr-data-management/files/De-identification-exercise-solution.pdf). Note how we left some information such as "Philadelphia" and "South Philadelphia" intact, while widening more specif information such as years and school names. Details of de-identification depend both on what additional context is provided in the interview and what parts are of particular importance to a study, i.e. should not be removed if at all possible.
+- title: "Public Domain or Not?"
+  id: 10
+  module: "3c"
+  content:
+    - question: >
+         Determine whether the following works are under copyright or in the public domain, and justify your determination:
+           1. [This image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/United_States_President_Barack_Obama_bends_down_to_allow_the_son_of_a_White_House_staff_member_to_touch_his_head.jpg/1920px-United_States_President_Barack_Obama_bends_down_to_allow_the_son_of_a_White_House_staff_member_to_touch_his_head.jpg) of Obama and the son of one of his staffers taken by Pete Souza, official White House photographer, in 2009
+           2. [This image](https://static.politico.com/dims4/default/278bad4/2147483647/resize/1160x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F00%2Fbe%2F0797698f4511934eb3aa1cad7a02%2F170611-this-day-reagan-ap-8706120220.jpg) of Ronald Reagan challenging Gorbachev to “tear down this wall,” taken by an Associated Press Photographer in 1987
+           3. This [seminal article on public administration](http://teachingamericanhistory.org/library/document/the-study-of-administration/), written by Woodrow Wilson in 1887, 26 years before assuming the presidency
+           4. [This image](https://pm.gc.ca/sites/pm/files/20180812_pg2_01.jpg) of Canadian Prime Minister Justin Trudeau, taken in 2018 by photographer Adam Scotti of the Prime Minister’s Office
+         
+  solution:
+    - answer: >
+           1. Yes (was produced by an employee of the US government in the exercise of their duty)
+           
+           2. No (was not produced by an employee of the US government)
+           
+           3. Yes (published before 1922)
+           
+           4. No (work by Canadian government employees is protected by copyright for 50 years under “Crown copyright.” We did not necessarily expect you to delve into Canadian law here, but hope the provenance of the image made you realize that that is the source that you’d have to check to answer the question, and brought home the point that you should assume a work *is* under copyright unless you *know* otherwise.)
+- title: "Getting Permission from an Archive"
+  id: 11
+  module: "3c"
+  content:
+    - question: >
+        You’re planning to visit a historical archive that has posted online some rules about the further dissemination of their materials that you don’t really understand. Compose an email to the archivist requesting permission to include the materials you will obtain from the archive in a data project you plan to share.
 
-
-        
+  solution:
+    - answer: >
+        Here are some things your request might have included: your institutional affiliation; the nature of your research project; why the data are important for your project; why you would like to share the data; in what specific data repository you plan to share the data and what that implies for their accessibility; when you would like to share the data; when you will be visiting the archive; an offer to discuss the matter with the archivist when you are on sight.
+- title: "Link Rot"
+  id: 12
+  module: "3d"
+  content:
+    - question: >
+        The list of the broken links that Gertler and Bullock found in the *American Political Science Review* (see above-cited article) is part of the data accompanying the article that they shared through Harvard Dataverse [*here*](https://doi.org/10.7910/DVN/Q8VDN0) in the file “brokenReproducibilityURLs.tab”. Download the file, open it in Excel, and find the first five links marked as “Did not find resource”. What sorts of websites are these? Can you still find the linked content using the Internet Archive’s [*Way Back Machine*](https://archive.org/web/)?
+  solution:
+    - answer: >
+        You’ll have noted that the broken links lead to all sorts of different websites: personal, institutional, even government websites. In some cases (such as Erik Voeten’s Princeton page and the Polish Center for Public Opinion Research CBOS), the Way Back Machine is not able to find any archived copy. You may still be able to track down this information by looking at the current sites -- or you may not. For other cases, you can access the webpage, such as Richard Tucker’s page at Vanderbilt, but the actual data aren’t archived there. For the Correlates of War project, you are able to download the full data from the Internet Archive. You could also go to the project’s [*current site*](http://www.correlatesofwar.org/data-sets/folder_listing), but would you be able to find the version of the data corresponding to the 2000 article there? The internet offers you powerful tools to retrieve old information, but even with those tools, the content behind some links -- containing key parts of the scholarly record -- may be lost forever. You should have strategies for tracking down such lost data, but more importantly, you should make sure that the same fate does not befall your data and links. The best way to do this is to deposit your data in a repository.
+- title: "Data Sharing SNAFU"
+  id: 13
+  module: "3d"
+  content:
+    - question: >
+         Watch [this short video](https://www.youtube.com/watch?v=66oNv_DJuPc) and write down the various types of problems created by the ad hoc sharing arrangement for which the bear on the left opted. How would these problems have been mitigated if the bear had deposited his data in a data repository? While the bears are discussing quantitative data, would the challenges be the same for qualitative data?
+  solution:
+    - answer: >
+        (1) lots of inter-researcher communication which is inefficient; (2) the passage of a long period of time before the data are actually shared; (3) the format of the data is obsolete which temporarily prevents their use; (4) the data cannot be interpreted by the secondary user; (5) the original researcher, not having documented the data does not remember how to interpret the data and his co-author, who may remember, cannot be located. Dr. Benign (the panda) would face similar challenges if the data were qualitative. 
+- title: "Getting to Know Your Repository"
+  id: 14
+  module: "3d"
+  content:
+    - question: >
+        Find the web site of the repository at your institution and poke around a bit. (If your institution doesn’t seem to have an institutional repository, try to find the institutional repository at another institution that is similar to yours or with which you’re familiar.) Then find the web site of another kind of repository (choosing from one of the categories above) and poke around a bit. What similarities and differences do you notice? 
+  solution:
+    - answer: >
+        Your answers might concern (1) cost of accessing data or depositing data; (2) focus (on research publications vs. research data); (3) how much published guidance the repository provides for depositors; (4) whether, and what level of, curation services the data repository provides. If you tried to access data, your answers might consider (5) whether you had to become a registered user before seeing any data and)(6) how easy it seems to be to find data in the repository and to deposit data.
