@@ -21,9 +21,7 @@ initialquestions:
 ---
 {% include _learningobjectivesandquestions.html %}
 
-
 *Note: The authors of this course are not lawyers and nothing that we discuss here should be construed, in any way, as legal advice. If you have any concerns about the copyright status of a work, contact a lawyer. Often, your university library will have a lawyer or copyright expert on staff.*
-
 ## What Is Copyright?
 Copyright is a form of protection for original works of authorship (published or unpublished). Copyright establishes such works as the intellectual property of their creators and grants the creator the exclusive legal right to decide whether, and under what conditions, this original work may be used by others. It is attached automatically to all original literary/textual, artistic, dramatic or musical material fixed in a material form: the very act of writing or recording original work generates copyright immediately.
 
@@ -40,7 +38,6 @@ You obviously need to adhere closely to all relevant law when sharing data. In t
 
 ### Original Works without Copyright: The Public Domain
 Original works without copyright are considered “in the public domain”. That means that you can legally use these works in any way you see fit: you can reprint them verbatim, share them, sell copies of them, etc., all without any obligation to the creator. Scholarly norms, of course, dictate that you need to cite works that are in the public domain, but this is an ethical not a legal obligation.
- 
 ## Good to know 
 >Just because a work is freely available does not mean it is in the public domain. In fact, almost everything you find on the internet is protected by copyright.
  
@@ -53,7 +50,7 @@ Original works without copyright are considered “in the public domain”. That
 #### Works Released into the Public Domain
 Sometimes authors will choose to release their works into the public domain. One way to do so that’s widely accepted internationally is to use a specific tool, the Creative Commons public domain dedication or [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/). Wherever you see the CC0 logo ![CC0 logo](https://licensebuttons.net/p/zero/1.0/88x31.png), you know the work to which it is attached is in the public domain.
  
-One common source of work in the public domain is the US federal government. Any work produced by an agent or employee of the US government in the exercise of their duty is not eligible for copyright and is thus in the public domain in the US. (The absence of copyright does not mean the information is *public*, though. Some government documents are, literally, top secret meaning you likely won’t be able to access them -- but even those are not copyright protected.)
+One common source of work in the public domain is the US federal government. Any work produced by an agent or employee of the US government in the exercise of their duty is not eligible for copyright and is thus in the public domain in the US. (The absence of copyright does not mean the information is *public*, though. Some government documents are, literally, top secret, meaning you likely won’t be able to access them -- but even those are not copyright protected.)
 
 *However,* the same rules do not apply to US state governments or to the governments of other countries. Many countries have some exemption from copyright for official works such as laws and judgements of courts and tribunals, but few go as far as the US in extending that exemption to all government works. Ascertaining the regulations governing works of a particular government can be tricky. The lists compiled by the
 [Wikimedia Commons](https://commons.wikimedia.org/wiki/Commons:Copyright_rules_by_territory) and [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Non-U.S._copyrights) (both organizations rely heavily on such public domain material) are a useful starting point.
@@ -71,7 +68,7 @@ Copyright does not last forever. Depending on whether authorship is known, as we
 {% include _exercise.html exerciseid="10" %}
 
 
-### Can You Share Data that Are Under Copyright?
+### Can You Share Data That Are under Copyright?
 If data you use *are* under copyright, i.e., *not* in the public domain, there may be ways to mitigate this challenge to sharing.
 
 #### Licensing or Permission for Re-use
@@ -85,6 +82,7 @@ Fair use determinations are not clear-cut. Whether the re-use of copyrighted mat
 2.  Nature of original work,
 3.  Amount to be re-used, and
 4.  Expected effect of re-use.
+
 Columbia University libraries have [a useful checklist](https://copyright.columbia.edu/basics/fair-use/fair-use-checklist.html#Fair%20Use%20Checklist) to determine factors weighing for and against fair use claims.
  
 Given the complexities of fair use law, you should solicit the help of a data or library professional if you want to share materials (e.g., newspaper articles or archival materials collected during fieldwork) on the basis of a fair use claim.

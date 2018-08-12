@@ -141,7 +141,7 @@
            
            2. No (was not produced by an employee of the US government)
            
-           3. Yes (published before 1922)
+           3. Yes (published before 1923)
            
            4. No (work by Canadian government employees is protected by copyright for 50 years under “Crown copyright.” We did not necessarily expect you to delve into Canadian law here, but hope the provenance of the image made you realize that that is the source that you’d have to check to answer the question, and brought home the point that you should assume a work *is* under copyright unless you *know* otherwise.)
 - title: "Getting Permission from an Archive"
@@ -159,10 +159,12 @@
   module: "3d"
   content:
     - question: >
-        The list of the broken links that Gertler and Bullock found in the *American Political Science Review* (see above-cited article) is part of the data accompanying the article that they shared through Harvard Dataverse [*here*](https://doi.org/10.7910/DVN/Q8VDN0) in the file “brokenReproducibilityURLs.tab”. Download the file, open it in Excel, and find the first five links marked as “Did not find resource”. What sorts of websites are these? Can you still find the linked content using the Internet Archive’s [*Way Back Machine*](https://archive.org/web/)?
+        The list of the broken links that Gertler and Bullock found in the *American Political Science Review* (see above-cited article) is part of the data accompanying the article that they shared through Harvard Dataverse [here](https://doi.org/10.7910/DVN/Q8VDN0) in the file “brokenReproducibilityURLs.tab”. Download the file, open it in Excel, and find the first five links marked as “Did not find resource”. What sorts of websites are these? Can you still find the linked content using the Internet Archive’s [Way Back Machine](https://archive.org/web/)?
   solution:
     - answer: >
-        You’ll have noted that the broken links lead to all sorts of different websites: personal, institutional, even government websites. In some cases (such as Erik Voeten’s Princeton page and the Polish Center for Public Opinion Research CBOS), the Way Back Machine is not able to find any archived copy. You may still be able to track down this information by looking at the current sites -- or you may not. For other cases, you can access the webpage, such as Richard Tucker’s page at Vanderbilt, but the actual data aren’t archived there. For the Correlates of War project, you are able to download the full data from the Internet Archive. You could also go to the project’s [*current site*](http://www.correlatesofwar.org/data-sets/folder_listing), but would you be able to find the version of the data corresponding to the 2000 article there? The internet offers you powerful tools to retrieve old information, but even with those tools, the content behind some links -- containing key parts of the scholarly record -- may be lost forever. You should have strategies for tracking down such lost data, but more importantly, you should make sure that the same fate does not befall your data and links. The best way to do this is to deposit your data in a repository.
+        You’ll have noted that the broken links lead to all sorts of different websites: personal, institutional, even government websites. In some cases (such as Erik Voeten’s Princeton page and the Polish Center for Public Opinion Research CBOS), the Way Back Machine is not able to find any archived copy. You may still be able to track down this information by looking at the current sites -- or you may not. For other cases, you can access the webpage, such as Richard Tucker’s page at Vanderbilt, but the actual data aren’t archived there. For the Correlates of War project, you are able to download the full data from the Internet Archive. You could also go to the project’s [current site](http://www.correlatesofwar.org/data-sets/folder_listing), but would you be able to find the version of the data corresponding to the 2000 article there? 
+        
+        The internet offers you powerful tools to retrieve old information, but even with those tools, the content behind some links -- containing key parts of the scholarly record -- may be lost forever. You should have strategies for tracking down such lost data, but more importantly, you should make sure that the same fate does not befall your data and links. The best way to do this is to deposit your data in a repository.
 - title: "Data Sharing SNAFU"
   id: 13
   module: "3d"

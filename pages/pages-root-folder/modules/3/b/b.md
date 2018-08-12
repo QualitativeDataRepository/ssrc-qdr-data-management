@@ -64,7 +64,6 @@ Some good practices will make de-identifying responses from your human participa
 Not all qualitative data garnered from human participants need to be de-identified.
 
 -   When interviews were conducted “on the record,” the resulting notes or transcripts can be shared using the respondent’s name. This may be the case for elites, who are accustomed to journalistic  interviews. Be mindful, however, of local practices: in some  countries, it is expected that interviewees will have an  opportunity to review the written record of the interaction before  it is made public or published.
-
 -   Data that are already part of the public record (e.g., public  statements by politicians) don’t need to be de-identified.
 
 ### Limits of De-identification
@@ -75,7 +74,10 @@ Not everything can be de-identified. If you interview a US Supreme Court justice
 
 
 ## Access Controls
-As we note above, complete de-identification is often impossible. As such, de-identification, on its own, might be insufficient to protect the identity of human participants. In order to share their contributions to your research project more broadly in an ethical way, additional steps are needed, such as controlling *who* can access the data, *how* they can do so, and *when*. When you store your data in a trusted digital repository, you can request that various types of restrictions be placed on their access (unless a funder specifically and strictly prohibits this). Access controls are sometimes mistakenly viewed negatively as restrictions. In reality, they allow you to share data that would otherwise remain entirely inaccessible. That is, they allow research to be “as open as possible, as closed as necessary” (as the European Union’s [*Horizon2020 guidelines*](https://ec.europa.eu/research/openscience/pdf/openaccess/ord_extension_faqs.pdf) for research aptly put it).
+As we note above, complete de-identification is often impossible. As such, de-identification, on its own, might be insufficient to protect the identity of human participants. In order to share their contributions to your research project more broadly in an ethical way, additional steps are needed, such as controlling *who* can access the data, *how* they can do so, and *when*. When you store your data in a trusted digital repository, you can request that various types of restrictions be placed on their access (unless a funder specifically and strictly prohibits this). Access controls are sometimes mistakenly viewed negatively as restrictions. In reality, they allow you to share data that would otherwise remain entirely inaccessible. That is, they allow research to be 
+>as open as possible, as closed as necessary 
+
+(as the European Union’s [*Horizon2020 guidelines*](https://ec.europa.eu/research/openscience/pdf/openaccess/ord_extension_faqs.pdf) for research aptly put it).
 
 ### Types of Access Controls
 
@@ -83,12 +85,11 @@ Access controls can be placed in three broad categories:
 
 1.  **Who** can access your data? Access to your data might be  restricted, e.g., to researchers with a legitimate interest in the  data (as proven by a research proposal) or anyone who wishes to  access the data may be required to secure approval from their IRB.
 
-## Good to know
->While it seems counterintuitive, we generally recommend  that you allow repository personnel to guide decisions on >data  access. If your permission were required, for instance, the  data may become inaccessible if the repository is >unable to  contact you at some point in the future.
+    *Note:* While it seems counterintuitive, we generally recommend  that you allow repository personnel to guide decisions on data  access. If your permission were required, for instance, the  data may become inaccessible if the repository is unable to  contact you at some point in the future.
 
-2.  **How** can others access your data? They may have to use special  secure internet connections to download the data and sign  agreements about the safe storage and eventual destruction of  their copy of the data. In special cases, you may even require  that researchers access the data in person at a repository or  other location using a computer disconnected from the internet.  Some repositories offer hybrid solutions between these two  options, such as ICPSR’s “virtual enclave,” which allows remote  viewing of data which never leave the server.
+2.  **How** can others access your data? They may have to use special  secure internet connections to download the data and sign  agreements about the safe storage and eventual destruction of  their copy of the data. In special cases, you may even require  that researchers access the data in person at a repository or  other location using a computer disconnected from the internet. Some repositories offer hybrid solutions between these two  options, such as ICPSR’s “virtual enclave,” which allows remote  viewing of data which never leave the server.
 
-3.  **When** can others access your data? So called embargos (i.e.,  periods when your data are absolutely inaccessible to anyone) can  sometimes be used as an additional protection for human  participants. Most often, they are relatively short and oriented  toward ensuring the ability of the researcher to publish on the  data prior to making them accessible to others. In some cases,  however, embargos can make valuable data available in the long run  by setting a “lifting date” when human participants will be  deceased, for instance. Historical archives often have such rules  for personal papers.
+3.  **When** can others access your data? So called embargos (i.e., periods when your data are absolutely inaccessible to anyone) can  sometimes be used as an additional protection for human  participants. Most often, they are relatively short and oriented  toward ensuring the ability of the researcher to publish on the  data prior to making them accessible to others. In some cases, however, embargos can make valuable data available in the long run  by setting a “lifting date” when human participants will be  deceased, for instance. Historical archives often have such rules  for personal papers.
 
 ### Using Access Controls
 
@@ -98,9 +99,8 @@ Choosing access controls should typically be done in consultation with a special
 
 ## Resources
 
--   Mosley, Layna. 2013. *Interview Research in Political Science*. Cornell University Press.
- [*http://www.cornellpress.cornell.edu/book/?GCOI=80140100891800*](http://www.cornellpress.cornell.edu/book/?GCOI=80140100891800)
--   Further guidance on de-identifying data on QDR:  [https://qdr.syr.edu/guidance/human-participants/deidentification](https://qdr.syr.edu/guidance/human-participants/deidentification)
--   Guidance on de-identifying qualitative data by the UK Data Archive:  [*https://www.ukdataservice.ac.uk/manage-data/legal-ethical/anonymisation/qualitative*](https://www.ukdataservice.ac.uk/manage-data/legal-ethical/anonymisation/qualitative)
--   ICPSR’s guidance on data sharing. Note in particular the section on data enclaves at the end:
- [*https://www.icpsr.umich.edu/icpsrweb/content/deposit/guide/chapter5.html*](https://www.icpsr.umich.edu/icpsrweb/content/deposit/guide/chapter5.html)
+-   Mosley, Layna. 2013. [*Interview Research in Political Science*](http://www.cornellpress.cornell.edu/book/?GCOI=80140100891800). Cornell University Press.
+-   Further [guidance on de-identifying data](https://qdr.syr.edu/guidance/human-participants/deidentification) on QDR.
+-   Guidance on [de-identifying qualitative data](https://www.ukdataservice.ac.uk/manage-data/legal-ethical/anonymisation/qualitative) by the UK Data Archive.
+-   ICPSR’s [guidance on data sharing]((https://www.icpsr.umich.edu/icpsrweb/content/deposit/guide/chapter5.html)
+). Note in particular the section on data enclaves at the end.
