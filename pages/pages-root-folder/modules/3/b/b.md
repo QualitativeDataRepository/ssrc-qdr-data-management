@@ -10,7 +10,7 @@ categories: [module3,modulecontent,hasexercises]
 permalink: "/modules/3/b/"
 next: "/modules/3/c/"
 previous: "/modules/3/a/"
-description: "Protection human participants is an ethical imperative for researchers. How can you make sure to do so when sharing your data?"
+description: "Protecting human participants is an ethical imperative for researchers. How can you make sure to do so when sharing your data?"
 learningobjectives:
 -   How you can (often) share data involving human participants
 -   When you should and should not de-identify data

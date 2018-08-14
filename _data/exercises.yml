@@ -123,7 +123,8 @@
         Read the passage in [this PDF](https://qualitativedatarepository.github.io/ssrc-qdr-data-management/files/De-identification-exercise.pdf) and then seek to de-identify it as best you can. Begin to create a set of de-identification rules to follow.
   solution:
     - answer: >
-        You can find a [sample de-identification here](https://qualitativedatarepository.github.io/ssrc-qdr-data-management/files/De-identification-exercise-solution.pdf). Note how we left some information such as "Philadelphia" and "South Philadelphia" intact, while widening more specif information such as years and school names. Details of de-identification depend both on what additional context is provided in the interview and what parts are of particular importance to a study, i.e. should not be removed if at all possible.
+        You can find a [sample de-identification here](https://qualitativedatarepository.github.io/ssrc-qdr-data-management/files/De-identification-exercise-solution.pdf). Note how we left some specific information such as “Philadelphia” and “South Philadelphia” intact, while replacing other specific information such as years and school names.
+        Details of de-identification depend both on what additional context is provided in the interview and what parts are of particular importance to a study, i.e. should not be removed if at all possible.
 - title: "Public Domain or Not?"
   id: 10
   module: "3c"
