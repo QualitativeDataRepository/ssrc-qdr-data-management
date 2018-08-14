@@ -9,7 +9,7 @@
 	</ul>
 	{% endif %}
 	{% if page.initialquestions %}
-	<h4>Initial Questions</h4>
+	<h4>Initial questions</h4>
 	<ul class="module_topmatter" id="initialquestions-{{ page.id }}">
 	  {% for question in page.initialquestions %}
 	    <li>{{ question | markdownify | remove: "<p>" | remove: "</p>" }}</li>

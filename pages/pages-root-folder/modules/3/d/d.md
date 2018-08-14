@@ -48,22 +48,22 @@ Most data repositories curate research data and preserve them for the long term.
 Given the characteristics of qualitative research data, and the practical, ethical, and legal challenges that sharing such data sometimes poses, even if you carefully manage your data, they often need to be curated by experts in order to be findable by and accessible to other scholars. The staff of repositories that often work with qualitative data are familiar with and alert to the special challenges posed by sensitive data, and help depositors to make decisions on how to share their data ethically and legally. In the next section we discuss types of data repositories. While not all repositories carry out each of the tasks listed below, most full-service repositories offer the following services:
 
 -   Work to make your data easier for other scholars to discover and access
-  -   Repositories are fully searchable and often indexed broadly.
-  -   Repositories assign digital object identifiers (DOIs) to data.
-    -   A DOI is a unique, persistent character string that can be assigned to any digital object (e.g., a dataset, a 15-second interview, or a piece of documentation). It’s basically a tag that remains fixed over the lifetime of the digital object. Referring to an online document by its DOI provides more stable linking than simply referring to it by its URL.
+    -   Repositories are fully searchable and often indexed broadly.
+    -   Repositories assign digital object identifiers (DOIs) to data.
+        -   A DOI is a unique, persistent character string that can be assigned to any digital object (e.g., a dataset, a 15-second interview, or a piece of documentation). It’s basically a tag that remains fixed over the lifetime of the digital object. Referring to an online document by its DOI provides more stable linking than simply referring to it by its URL.
 
 -   Work to make your data easier for other scholars to use and cite
-  -   Repositories publish documentation and other materials that facilitate the interpretation and re-use of data.
-  -   Repositories develop and standardize metadata, and associate relevant and important metadata with your shared data.
-    -   Metadata are structured information describing your data. Some examples of metadata that might be associated with your data set in a repository are your name, the dates during which data were collected, the title of the dataset, and other characteristics of your data.
-    -   Separate files in your dataset may also have additional item-level metadata associated with them.
+    -   Repositories publish documentation and other materials that facilitate the interpretation and re-use of data.
+    -   Repositories develop and standardize metadata, and associate relevant and important metadata with your shared data.
+        -   Metadata are structured information describing your data. Some examples of metadata that might be associated with your data set in a repository are your name, the dates during which data were collected, the title of the dataset, and other characteristics of your data.
+        -   Separate files in your dataset may also have additional item-level metadata associated with them.
 
 -   Provide tools that allow you some control over who accesses, downloads, and uses your data, and how they do so
-  -   Repositories offer authenticated online access to data.
-  -   Repositories allow you to establish user-access controls for your data when these are necessary to protect confidentiality and personal privacy as required by law and the ethical standards of your research community.
+    -   Repositories offer authenticated online access to data.
+    -   Repositories allow you to establish user-access controls for your data when these are necessary to protect confidentiality and personal privacy as required by law and the ethical standards of your research community.
 
 -   Collaborate across disciplines to achieve interoperability among scientific communities
-  -   Repositories often allow the “harvesting” of their metadata through a dedicated protocol, facilitating the development of search interfaces covering many data repositories
+    -   Repositories often allow the “harvesting” of their metadata through a dedicated protocol, facilitating the development of search interfaces covering many data repositories.
   
 {% include _exercise.html exerciseid="13" %}
 
@@ -71,7 +71,7 @@ Given the characteristics of qualitative research data, and the practical, ethic
 
 There are several different kinds of data repositories. 
 
-**Self-service repositories** are the newest type. Most were founded after 2000. They are typically open to all research data (and in some cases other materials). Such venues probably comprise the largest number of individual datasets worldwide.
+**Self-service repositories** are the newest type. Most were founded after 2000. They are typically open to all research data (and in some cases other materials). Such venues probably hold the largest number of individual datasets worldwide.
 
 -   Advantages  
     -   Convenience: they allow easy upload of data of any kind for all researchers.  
@@ -121,7 +121,7 @@ Other repositories are “hybrids” -- some combination of the types just menti
 
 -  [*Dryad*](https://datadryad.org/) began as a domain repository for bio-medical data, but now accepts data from many disciplines, and performs curation services. 
 -  [*Re-Share*](https://reshare.ukdataservice.ac.uk/) (UK Data Service) -- a social science self-publishing repository run by and alongside a fully curated domain repository), this venue offers reduced but still significant curation work.
--  [*Open ICPSR*](https://www.openicpsr.org/openicpsr/) (ICPSR) -- a social science self-publishing repository run by and alongside a fully curated domain repository. Data published on Open ICPSR are minimally curated; a metadata review is performed after publication. <!-- -->
+-  [*Open ICPSR*](https://www.openicpsr.org/openicpsr/) (ICPSR) -- a social science self-publishing repository run by and alongside a fully curated domain repository. Data published on Open ICPSR are minimally curated; a metadata review is performed after publication.
 
 
 {% include _exercise.html exerciseid="14" %}

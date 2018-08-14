@@ -16,8 +16,9 @@ learningobjectives:
 -   Public domain and fair use as notable exemptions from copyright
 -   What creative commons licenses are
 initialquestions:
--   Have you ever come across a photo or a newspaper clip that you really wanted to include in your work? Do you know how to go about arranging for that?
--   Think about the data associated with a research project you’re carrying out -- did you collect data sources created by others, or did you generate the data yourself (e.g., through conducting interviews), or both?
+- Have you ever come across a photo or a newspaper clip that you really wanted to include in your work -- and then share with your other data? Do you know how to go about arranging for that?
+- Think about the data associated with a research project you’re carrying out – did you collect data sources created by others, or did you generate the data yourself (e.g., through conducting interviews), or both?  What effect will that have on if and how you share them?
+
 ---
 {% include _learningobjectivesandquestions.html %}
 
@@ -56,7 +57,7 @@ One common source of work in the public domain is the US federal government. Any
 [Wikimedia Commons](https://commons.wikimedia.org/wiki/Commons:Copyright_rules_by_territory) and [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Non-U.S._copyrights) (both organizations rely heavily on such public domain material) are a useful starting point.
 
 #### Works Whose Copyright Has Expired
-Copyright does not last forever. Depending on whether authorship is known, as well as national law, the duration of copyright is determined by the death of the creator (running out x number of years later) or the date of publication (i.e., running out on work published x or more years ago). While such rules make the copyright status of historical works quite clear in most countries, US copyright law is exceptionally messy due to multiple legal changes. The only rules that hold without exemption for the US are that
+Copyright does not last forever. Depending on whether authorship is known, as well as national law, the duration of copyright may be determined by the death of the creator (running out x number of years later) or the date of publication (i.e., running out on work published x or more years ago). While such rules make the copyright status of historical works quite clear in most countries, US copyright law is exceptionally messy due to multiple legal changes. The only rules that hold without exemption for the US are that
 
 -   unpublished works created before 1898 (i.e., 120 or more years ago)
     are in the public domain and
@@ -88,9 +89,9 @@ Columbia University libraries have [a useful checklist](https://copyright.columb
 Given the complexities of fair use law, you should solicit the help of a data or library professional if you want to share materials (e.g., newspaper articles or archival materials collected during fieldwork) on the basis of a fair use claim.
 
 ### Licenses: Beyond Copyright
-Copyright is, unfortunately, not the only proprietary constraint that can apply to sharing materials. For instance, if you access content through a database, you will often have to agree to terms and conditions that restrict your usage of materials you obtain. Take for example, the[* terms and conditions of Gale*](https://www.gale.com/terms-of-use), a database provider that licenses many databases of historical materials to academic institutions:
+Copyright is, unfortunately, not the only proprietary constraint that can apply to sharing materials. For instance, if you access content through a database, you will often have to agree to terms and conditions that restrict your usage of materials you obtain. Take for example, the[terms and conditions of Gale](https://www.gale.com/terms-of-use), a database provider that licenses many databases of historical materials to academic institutions:
 
->The subscribing institutes ("Customer") and their authorized users, may make a single print, non-electronic copy of a permitted portion of the content for personal, non-commercial, educational purposes only.”
+>The subscribing institutes ("Customer") and their authorized users, may make a single print, non-electronic copy of a permitted portion of the content for personal, non-commercial, educational purposes only.
 
 So even if a text that you download from Gale may have entered the public domain long ago, based on this license agreement, you are not allowed to *even make an electronic copy* of the file, let alone share such a copy with other researchers. Sometimes you can discuss constraints with those who imposed them to see if there might be flexibility. For instance, even if an archive generally places limits on the dissemination of documents, if you speak with archive personnel, they may be open to making the documents accessible. These kinds of inquiries and discussions are often worth a try!
 
