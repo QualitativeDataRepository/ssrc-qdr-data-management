@@ -98,6 +98,14 @@ There are several different kinds of data repositories.
 -   Disadvantages  
     -   Such repositories have traditionally been more concerned with holding and making available researchers’ publications than with facilitating access to the data underlying their research.  
     -   Libraries (and thus institutional repositories) may lack sufficient information technology and subject-specific capabilities to provide specific curation, preservation, and dissemination guidance and services (Johnston et al. 2017). 
+    
+-   Examples
+    - Many research institutions worldwide have institutional repositories. These examples are not representative. All are US-based institutional repositories at institutions that have made significant investments in creating local data services.
+    - [Duke Digital Repository](https://repository.duke.edu/)
+    - [Deep Blue Data](https://deepblue.lib.umich.edu/data/) at the University of Michigan, Ann Arbor
+    - [Johns Hopkins University Data Archive](https://archive.data.jhu.edu/)
+    - [Data Repository at the University of Minnessota (DRUM)](http://z.umn.edu/drum)
+    
 
 **Domain repositories** focus on a specific discipline or group of disciplines (e.g., “social science” or “earth science”) and provide specialized services for data commonly used in those disciplines. These types of repositories have the longest history of the ones considered here.
 

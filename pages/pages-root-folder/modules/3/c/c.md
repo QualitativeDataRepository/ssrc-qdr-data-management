@@ -39,8 +39,8 @@ You obviously need to adhere closely to all relevant law when sharing data. In t
 
 ### Original Works without Copyright: The Public Domain
 Original works without copyright are considered “in the public domain”. That means that you can legally use these works in any way you see fit: you can reprint them verbatim, share them, sell copies of them, etc., all without any obligation to the creator. Scholarly norms, of course, dictate that you need to cite works that are in the public domain, but this is an ethical not a legal obligation.
-## Good to know 
->Just because a work is freely available does not mean it is in the public domain. In fact, almost everything you find on the internet is protected by copyright.
+
+**Good to know:** Just because a work is freely available does not mean it is in the public domain. In fact, almost everything you find on the internet is protected by copyright.
  
  Works enter the public domain through two channels:
 
@@ -89,7 +89,7 @@ Columbia University libraries have [a useful checklist](https://copyright.columb
 Given the complexities of fair use law, you should solicit the help of a data or library professional if you want to share materials (e.g., newspaper articles or archival materials collected during fieldwork) on the basis of a fair use claim.
 
 ### Licenses: Beyond Copyright
-Copyright is, unfortunately, not the only proprietary constraint that can apply to sharing materials. For instance, if you access content through a database, you will often have to agree to terms and conditions that restrict your usage of materials you obtain. Take for example, the[terms and conditions of Gale](https://www.gale.com/terms-of-use), a database provider that licenses many databases of historical materials to academic institutions:
+Copyright is, unfortunately, not the only proprietary constraint that can apply to sharing materials. For instance, if you access content through a database, you will often have to agree to terms and conditions that restrict your usage of materials you obtain. Take for example, the [terms and conditions of Gale](https://www.gale.com/terms-of-use), a database provider that licenses many databases of historical materials to academic institutions:
 
 >The subscribing institutes ("Customer") and their authorized users, may make a single print, non-electronic copy of a permitted portion of the content for personal, non-commercial, educational purposes only.
 

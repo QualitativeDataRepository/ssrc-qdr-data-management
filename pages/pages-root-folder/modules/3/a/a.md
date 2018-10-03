@@ -41,7 +41,8 @@ A fundamental question not included in the list of questions above is *why*. Why
 First, let’s consider your point of view, as the researcher who generated the data. Sharing your data:
 
 -   Helps you comply with external mandates:
-    -   Scholarly associations may have recommendations or guidelines about data sharing.
+    -   Scholarly associations may have recommendations or guidelines about data sharing. In the US, this is the case for many social science associations including the [American Sociological Association (ASA)](http://www.asanet.org/sites/default/files/asa_code_of_ethics-june2018.pdf), the [American Political Science Association (APSA)](http://www.apsanet.org/portals/54/Files/Publications/APSAEthicsGuide2012.pdf),
+    and the [American Psychological Association (APA)](http://www.apa.org/ethics/code/). 
     -   The organization(s) that funded your work may require that you share the fruits of your research with the broader scholarly community; indeed, you may have to describe your plans in a [Data Management Plan]({{site.baseurl}}/modules/1/c/) that you submit with your funding application.
     -   Journals may require that you make your published work transparent by sharing the data that undergird it.
         -   For instance, more than 25 political science journal editors have signed “[JETS](https://www.dartstatement.org/2014-journal-editors-statement-jets)” – the Journal Editors Transparency Statement – supporting the development of transparency requirements.
