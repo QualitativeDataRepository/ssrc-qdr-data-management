@@ -84,9 +84,9 @@ Given qualitative scholars’ traditional hesitance to share their research data
     -   You may have promised your respondents that you would not share the information they provided to you with anyone (and may have even promised to destroy that information at the end of your study).
     -   You may have collected the data under complete assurances of confidentiality.
     -   Even if you didn’t promise your respondents anything with regard to data sharing, your data may seem too sensitive for others to see.
-    -   You may doubt that your data can be fully de-identified either due to the form in which you collected them (e.g., video), or because some combination of the collected data (or the collected data and other publicly available data) is sure to reveal the identities of human subjects (see [next lesson]({{site.baseurl}}/modules/3/b/#de-identifying-data)).
+    -   You may doubt that your data can be fully de-identified either due to the form in which you collected them (e.g., video), or because some combination of the collected data (or the collected data and other publicly available data) is sure to reveal the identities of human subjects.
     -   It may seem pointless to share your de-identified data because de-identification caused so much information to be lost, significantly compromising the analytic value of the data.
-      - **You will learn more about sharing human participant data in the [next lesson]({{site.baseurl}}/modules/3/b/)**
+        - **You will learn more about sharing human participant data in the [next lesson]({{site.baseurl}}/modules/3/b/)**
 -   *Legal constraints and proprietary obligations:*
     -   The archives in which you collected documents may have rules about their dissemination.
     -   Information may have been provided under a non-disclosure agreement (NDA).
