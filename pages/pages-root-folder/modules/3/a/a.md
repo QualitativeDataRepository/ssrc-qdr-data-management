@@ -1,23 +1,23 @@
 ---
-title: "Sharing Data – Considerations, Benefits, and Challenges" 
-layout: page-fullwidth 
-breadcrumb: true 
-header: false 
-hidefooter: false 
-module: "3a" 
-lesson: "Module 3, Lesson 1" 
-categories: [module3,modulecontent, hasexercises] 
-permalink: "/modules/3/a/" 
-next: "/modules/3/b/" 
-previous: false 
-description: "What are some of the benefits and challenges you may encounter when thinking about sharing data?" 
+title: "Sharing Data – Considerations, Benefits, and Challenges"
+layout: page-fullwidth
+breadcrumb: true
+header: false
+hidefooter: false
+module: "3a"
+lesson: "Module 3, Lesson 1"
+categories: [module3,modulecontent, hasexercises]
+permalink: "/modules/3/a/"
+next: "/modules/3/b/"
+previous: false
+description: "What are some of the benefits and challenges you may encounter when thinking about sharing data?"
 learningobjectives:
 -   Some of the key questions you’ll need to ask yourself as you consider sharing your research data
 -   Some benefits and some challenges of sharing research data
--   How different organizations in the academic ecosystem influence when, where, and how you share your research data. 
+-   How different organizations in the academic ecosystem influence when, where, and how you share your research data.
 initialquestions:
 -   Have you ever shared any of your data?
--   Have you ever used data shared by other researchers? If so, was it easy or difficult to access the data? How easy was it to use the data? 
+-   Have you ever used data shared by other researchers? If so, was it easy or difficult to access the data? How easy was it to use the data?
 ---
 {% include _learningobjectivesandquestions.html %}
 
@@ -42,7 +42,7 @@ First, let’s consider your point of view, as the researcher who generated the 
 
 -   Helps you comply with external mandates:
     -   Scholarly associations may have recommendations or guidelines about data sharing. In the US, this is the case for many social science associations including the [American Sociological Association (ASA)](http://www.asanet.org/sites/default/files/asa_code_of_ethics-june2018.pdf), the [American Political Science Association (APSA)](http://www.apsanet.org/portals/54/Files/Publications/APSAEthicsGuide2012.pdf),
-    and the [American Psychological Association (APA)](http://www.apa.org/ethics/code/). 
+    and the [American Psychological Association (APA)](http://www.apa.org/ethics/code/).
     -   The organization(s) that funded your work may require that you share the fruits of your research with the broader scholarly community; indeed, you may have to describe your plans in a [Data Management Plan]({{site.baseurl}}/modules/1/c/) that you submit with your funding application.
     -   Journals may require that you make your published work transparent by sharing the data that undergird it.
         -   For instance, more than 25 political science journal editors have signed “[JETS](https://www.dartstatement.org/2014-journal-editors-statement-jets)” – the Journal Editors Transparency Statement – supporting the development of transparency requirements.
@@ -84,8 +84,9 @@ Given qualitative scholars’ traditional hesitance to share their research data
     -   You may have promised your respondents that you would not share the information they provided to you with anyone (and may have even promised to destroy that information at the end of your study).
     -   You may have collected the data under complete assurances of confidentiality.
     -   Even if you didn’t promise your respondents anything with regard to data sharing, your data may seem too sensitive for others to see.
-    -   You may doubt that your data can be fully de-identified either due to the form in which you collected them (e.g., video), or because some combination of the collected data (or the collected data and other publicly available data) is sure to reveal the identities of human subjects (see [next lesson]({{site.baseurl}}/modules/3/b/#de-identifying-data)).
+    -   You may doubt that your data can be fully de-identified either due to the form in which you collected them (e.g., video), or because some combination of the collected data (or the collected data and other publicly available data) is sure to reveal the identities of human subjects.
     -   It may seem pointless to share your de-identified data because de-identification caused so much information to be lost, significantly compromising the analytic value of the data.
+        - **You will learn more about sharing human participant data in the [next lesson]({{site.baseurl}}/modules/3/b/)**
 -   *Legal constraints and proprietary obligations:*
     -   The archives in which you collected documents may have rules about their dissemination.
     -   Information may have been provided under a non-disclosure agreement (NDA).
