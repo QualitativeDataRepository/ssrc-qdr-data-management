@@ -94,8 +94,103 @@
         Now spend some time with writing or editing your own consent script. Reassure your participants that their data is safe, but do not preclude the sharing of data. If working in a group, exchange scripts with a partner.
   solution:
     - answer: >
-- title: "Creating a Data Sharing Policy"
+- title: "Documenting Your Data"
   id: 8
+  module: "2a"
+  content:
+    - question: >
+         Make a list of three types of documentation at the project or file level that you will need to create for a research project you are carrying out. For each item, indicate in what form you’ll create the documentation and offer a short description of the types of information you’ll include in that documentation. *Then*, imagine that you are carrying out your project in more than one context, and need to do so in as similar a way as possible across contexts in order to maximize the comparability (and thus analytic utility) of the data. Imagine that you did *not* produce any of the documentation you were just planning to create. What are three ways in which data generation in the additional contexts could depart from data generation in the initial context, and how would those departures impact the analytic utility of the data?
+  solution:
+    - answer: >
+        Documentation lists and insights will vary considerably from project to project. The goal of this exercise is simply for you to think about the ways in which data documentation is valuable -- operationally and analytically -- to *you* and *your project*, as the more valuable you perceive documentation to be the more likely you are to create it.
+- title: "Creating Templates"
+  id: 9
+  module: "2b"
+  content:
+    - question: >
+         Create a template for an archive log, or for “informal metadata” for  a form of interactive data collection in which you anticipate, or  are, engaging. Make sure to think hard about what information  particular to your project you want to systematically collect.  Then choose one of the options below:
+            -   If you are working independently, consider whether,  realistically, you will use your template -- is it so  complicated that you are unlikely to stick with it? Also,  imagine yourself six to nine months in the future trying to  remember the data-collection context. What is your template  missing that would help you re-conjure that context?
+            -   If you are taking this course at the same time as someone else  whom you know, exchange templates, and critique each other’s.  What do you find particularly valuable / useful about your  partner’s template? What is missing? What is extraneous?
+  solution:
+    - answer: >
+        There is no “solution” to this exercise. As you look  at your (or your partner’s) templates, consider the following: (1)  will it be easy to use during your research? (2) will you be able  to find relevant information quickly and easily? (3) will the  information in your template help someone else to understand your  data? (4) what other criteria are important?
+- title: "Comparing Documentation / Metadata"
+  id: 10
+  module: "2b"
+  content:
+    - question: >
+         Compare [*this data on figshare*](https://doi.org/10.6084/m9.figshare.2008653.v1) with [this data with QDR](https://doi.org/10.5064/F6CN723S). How does  the available documentation / metadata differ? How do these  differences matter?
+  solution:
+    - answer: >
+        You likely noticed that the QDR project includes more  detailed information about the content and generation of the data  *and* more detailed metadata. Here are some specific differences:
+            -   You can tell when the data were collected and where.
+            -   You can follow the logic of the social media excerpts Clarke has collected. On the other hand, can you follow the meaning of  the “Subject” codes in the first column of the Patel et al.  data?
+            -   The detailed information about the generation of the data on QDR  mean you can better decide on whether and how much to trust  the data.
+- title: "Folder and Filename Assessment"
+  id: 11
+  module: "2c"
+  content:
+    - question: >
+         Open the master folder for one of your current research projects and candidly assess how clearly and consistently you are naming your folders and files. Consider, for instance, the following:
+         -   How many levels of folders do you have -- levels within levels within levels? Are there enough levels, too many, or too few?
+         -   Can you tell, without opening a folder, what is in it?
+         -   Is there some logic behind the organization of your folders, or does it seem you just created a new one whenever you needed one?
+         -   How consistent are the names of your files?
+         -   If you have multiple versions of particular files, can you tell which is the most current?
+         -   Create a new document (clearly named!) that will be a draft of the memo to yourself about the organization and naming of your folders and files. Create the first few bullets under “folder organization and naming” and under “file organization naming” that could serve as instructions to yourself for re-organizing and renaming your folders and files.
+  solution:
+    - answer: >
+        As with many other exercises, this one has no standard solution. The goal is simply for you to begin thinking critically about how you are organizing and naming your folders and files, and to take the first steps toward more optimal organization and naming. If you find that there are some real improvements to make, think about when you will make them, cognizant that changes are much easier to make the earlier you are in your project.
+- title: "Data Safety and Security Self-assessment"
+  id: 12
+  module: "2c"
+  content:
+    - question: >
+         Take QDR’s [Data Safety & Security Self-assessment here](https://managing-qualitative-data/files/safety/security-self-assessment.pdf) and see if and where your current practices need improvement. If there are things you want to change, make at least one such change immediately.
+  solution:
+    - answer: >
+        Again, this exercise has no standard solution. Its goal is to highlight the importance of being mindful of data security from the very beginning of a research project. This relatively small investment will give you peace of mind throughout your research process. Don’t skip it.
+- title: "Digitizing Documents (optional)"
+  id: 13
+  module: "2d"
+  content:
+    - question: >
+        If your work is heavily based on documentary evidence and you anticipate taking a lot of digital pictures of documents, and you are not familiar with the steps above, carry them out for a set of five documents:
+         -   Take a digital picture of each.
+         -   Assemble them into a single PDF.
+         -   Familiarize yourself with two OCR tools by using them to turn a scanned image file into machine-readable text.
+         -   If the steps in either process were unintuitive or easily forgotten, make yourself a quick “cheat sheet” outlining the steps so you are not starting from square one the next time
+  solution:
+    - answer: >
+        Rather than a solution, we offer some questions for you to think about. What did you learn about the software you used? What did you name your “cheat sheet” -- is that a good name? Where did you put it and why? Will you be able to find it again?
+- title: "Transcribing Interviews (optional)"
+  id: 14
+  module: "2d"
+  content:
+    - question: >
+         Transcribe ten minutes of the audio recording from an interview, focus group, or other type of interactive data collection in which you engaged. That is, play the recording and manually write down what each person says during the first ten minutes of the exchange. If you do not (yet) have such a recording, use an interview that you can find on YouTube that is in the language that you use to collect / generate data (just listening to the audio). Record your observations / reactions:
+          -   How long did it take you?
+          -   What were the biggest challenges?
+          -   What formatting issues immediately occur to you and how would you resolve them?
+          -   If you were to use software to help you transcribe, what functionality do you now know it needs to have?
+  solution:
+    - answer: >
+        This exercise is designed to give you a sense of the transcription process; to help you decide whether transcribing the recordings from your interactive data collection is something you want to do; and to help direct your technology choices. Think carefully about your answers to the questions, reminding yourself of approximately how many recordings you anticipate you will be dealing with.
+- title: "Translating Sources (optional)"
+  id: 15
+  module: "2d"
+  content:
+    - question: >
+         If you have transcripts in a language different from the one in which you will write your research products, translate the transcript that you created in the previous exercise from the original language into the one in which you will write your research product.
+         -   Record your observations / reactions:
+         -   How long did it take you?
+         -   What were the biggest challenges?
+         -   If you were to use software to help you translate, what functionality do you now see it will need to have?
+  solution:
+    - answer: >
+       This exercise is designed to give you a sense of the translation process; to help you decide whether translating the transcripts of the recordings of your interactive data collection is something you would like to do; and to help direct your technology choices. Think carefully about your answers to the questions, reminding yourself of approximately how many transcripts, and how much of those transcripts you might need to translate.
+- title: "Creating a Data Sharing Policy"
+  id: 16
   module: "3a"
   content:
     - question: >
@@ -116,17 +211,17 @@
     - answer: >
         There are no right or wrong answers to these questions! We encourage you to evaluate your answers along the following lines: Are your answers coherent – do they fit together without contradicting each other? How easy will they be to translate into clear guidelines for authors? What kind of behavior are the different aspects of your policy, and your policy as a whole, encouraging on the part of authors and reviewers? Of the various involved actors (authors, reviewers, other institutions), whom have you empowered – granted decision-making authority? Have you addressed possible trade-offs between promoting data sharing and deterring authors from submitting their best work to your journal? What potential sources of conflict does your policy introduce?
 - title: "De-identification"
-  id: 9
+  id: 17
   module: "3b"
   content:
     - question: >
-        Read the passage in [this PDF](https://qualitativedatarepository.github.io/ssrc-qdr-data-management/files/De-identification-exercise.pdf) and then seek to de-identify it as best you can. Begin to create a set of de-identification rules to follow.
+        Read the passage in [this PDF](https://managing-qualitative-data/files/De-identification-exercise.pdf) and then seek to de-identify it as best you can. Begin to create a set of de-identification rules to follow.
   solution:
     - answer: >
-        You can find a [sample de-identification here](https://qualitativedatarepository.github.io/ssrc-qdr-data-management/files/De-identification-exercise-solution.pdf). Note how we left some specific information such as “Philadelphia” and “South Philadelphia” intact, while replacing other specific information such as years and school names.
+        You can find a [sample de-identification here](https://managing-qualitative-data/files/De-identification-exercise-solution.pdf). Note how we left some specific information such as “Philadelphia” and “South Philadelphia” intact, while replacing other specific information such as years and school names.
         Details of de-identification depend both on what additional context is provided in the interview and what parts are of particular importance to a study, i.e. should not be removed if at all possible.
 - title: "Public Domain or Not?"
-  id: 10
+  id: 18
   module: "3c"
   content:
     - question: >
@@ -146,7 +241,7 @@
            
            4. No (work by Canadian government employees is protected by copyright for 50 years under “Crown copyright.” We did not necessarily expect you to delve into Canadian law here, but hope the provenance of the image made you realize that that is the source that you’d have to check to answer the question, and brought home the point that you should assume a work *is* under copyright unless you *know* otherwise.)
 - title: "Getting Permission from an Archive"
-  id: 11
+  id: 19
   module: "3c"
   content:
     - question: >
@@ -156,7 +251,7 @@
     - answer: >
         Here are some things your request might have included: your institutional affiliation; the nature of your research project; why the data are important for your project; why you would like to share the data; in what specific data repository you plan to share the data and what that implies for their accessibility; when you would like to share the data; when you will be visiting the archive; an offer to discuss the matter with the archivist when you are on sight.
 - title: "Link Rot"
-  id: 12
+  id: 20
   module: "3d"
   content:
     - question: >
@@ -167,7 +262,7 @@
         
         The internet offers you powerful tools to retrieve old information, but even with those tools, the content behind some links -- containing key parts of the scholarly record -- may be lost forever. You should have strategies for tracking down such lost data, but more importantly, you should make sure that the same fate does not befall your data and links. The best way to do this is to deposit your data in a repository.
 - title: "Data Sharing SNAFU"
-  id: 13
+  id: 21
   module: "3d"
   content:
     - question: >
@@ -176,7 +271,7 @@
     - answer: >
         Some of the problems created by the left bear’s ad hoc sharing arrangement include:  (1) lots of inter-researcher communication which is inefficient; (2) the passage of a long period of time before the data are actually shared; (3) the format of the data is obsolete which temporarily prevents their use; (4) the data cannot be interpreted by the secondary user; (5) the original researcher, not having documented the data, does not remember how to interpret the data and his co-author, who may remember, cannot be located. Had the left bear deposited his data (and complete documentation) in a data repository, they would have been more quickly accessible to, and more easily interpreted by Dr. Benign (the panda); for instance, curation would have entailed updating the format.  Dr. Benign would likely face similar challenges if the data were qualitative.
 - title: "Getting to Know Your Repository"
-  id: 14
+  id: 22
   module: "3d"
   content:
     - question: >

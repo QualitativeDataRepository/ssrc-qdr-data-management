@@ -1,25 +1,109 @@
 ---
-title: "Data Naming, Formatting, Organization, Storing, and Security"
+title: "Documenting Data in Practice"
 layout: page-fullwidth
 breadcrumb: true
 header: false
 hidefooter: false
 module: "2b"
 lesson: "Module 2, Lesson 2"
-categories: [module2,modulecontent]
+categories: [module2,modulecontent,hasexercises]
 permalink: "/modules/2/b/"
-next: false
+next:  "/modules/2/c/"
 previous: "/modules/2/a/"
 description: "How should you name your files? Are there better formats for data storage?"
 learningobjectives:
--   
+-   How to create templates for different types of documentation
+-   What functions particular types of documentation can serve
+-   What “metadata” are, and how they relate to data documentation   
 initialquestions:
--  
+-   How will you organize the documentation you create for your data?
+-   Have you ever wondered how library catalogs and search engines  actually *find* stuff?
+
 ---
 {% include _learningobjectivesandquestions.html %}
 
-## Data Management Planning Basics
+
+## Examples of Data Documentation
+
+Some examples help illustrate how you can effectively document different types of data, and how doing so helps you to assess the quality and evidentiary value of the data. These examples are neither exhaustive nor prescriptive. Different research projects and different types of data will benefit from different types of and formats for documentation. You should adapt the examples we offer to fit your project and your data.
+
+### Archive Research Logs
+
+As you visit archives, you’ll review lots of materials. A research log is an easy way to make sure you keep track of what materials you have requested / reviewed, where you found them, and whether and how those materials are relevant to your project.
+
+There is no single “right way” to keep a research log. You can use  [a simple Word template](https://research.library.oakland.edu/sp/subjects/guide.php?subject=archivalassets) or an Excel spreadsheet, or you can adapt software such as Zotero ( [as described here](https://guides.library.harvard.edu/zotero_archival_research)). What is important is that you develop a system that you find easy to use and stick to using that.
+
+To offer an example, such a log might include information at two levels -- the archive level and the item level -- and could have the following types of information:
+
+-   Archive level 
+    -   Date(s) on which you visited the archive 
+    -   How you searched its holdings 
+    -   Which boxes and folders you requested/consulted 
+-   Item level 
+    -   Item name and/or code 
+    -   Box / folder information 
+    -   Date reviewed 
+    -   If / how you captured content (e.g., digital photos or scans, photocopy, notes) 
+    -   Relevance to your project
+
+If you are able to create digital images of archival materials, be sure to follow a consistent file and folder naming strategy that allows you to easily shift back and forth between your digital images and your research log. Some of this item-level identifying information (e.g., name, box, folder) should be included in file names. (Alternatively, you develop a coding system for these items, and include that in, or use it as, the file name.) Each folder could represent a particular day in the archives, or your folders could mimic the archive’s organizational structure. See this excellent [*blog post by Donna Campbell*](https://donnamcampbell.wordpress.com/2015/07/13/workflow-for-research-archives/) for additional suggestions on effective archival research.
+
+Keeping track of this information will help you to avoid duplicating effort (yourself, or within your research team). Doing so will help you to correctly reference the materials you consulted as you write up your research down the line. Finally, keeping a log allows you to present a list of all of the materials you consulted, helping to substantiate a claim that certain information *cannot* be found in the records.We strongly suggest that you create your log as you go, keeping it as current as possible.
+
+### Documentation for Interactive Data Collection
+
+Many researchers who generate their own qualitative data do so through interacting with human beings -- engaging in ethnographic work, conducting interviews, holding focus groups, and so on. No matter whether you conduct three interviews or embed yourself in a field site for a year, you need a way to keep track of the people with whom you interact, the content of those interactions, and your observations about those interactions.
+
+We discuss transcribing audio / video recordings of such interactions in the lesson on Transforming Data. Here we consider creating “informal metadata” for such interactions: logging *practical information*, and your *observations and reactions*. You can include this information as part of the record of the content of the interaction -- as a header at the beginning, and/or notes at the end, of your transcription of or notes from the interaction. We strongly suggest that you create these metadata *as soon after the interaction as possible*.
+
+Creating this documentation serves two purposes. First, transcripts and notes from interactive data collection are much richer sources of data when you can vividly remember the exchange: being able to “re-attach” the sights and sounds and emotion of an interaction to a document containing its text helps you to contextualize and interpret the data. Second, recording such metadata makes it easier for you to assess your confidence in, and the evidentiary value of, the data, and thus more effectively and appropriately deploy them as support for claims and conclusions in your research product.
+
+With regard to *practical information*, the “metadata” for each of your interactions could include information such as:
+
+-   How each respondent was identified / selected
+-   Code (number) or pseudonym for each respondent
+-   Date of interaction
+-   Start time of the interaction
+-   End time of the interaction
+-   Location
+-   Language
+-   Format of exchange (e.g., semi-structured in-person interview; focus  group)
+-   What you promised to each respondent with regard to confidentiality  through the process of soliciting their informed consent to  participate in your study
+-   Whether you took notes, recorded, or both
+-   Suggestions made about your study / other human participants
+-   Any follow-up that needs to be done
+
+With regard to *observations and reactions* about the exchange, your “metadata” could describe, for example:
+
+-   The context of the exchange
+    -   E.g., “the very tall congressman’s very messy office, with  overflowing bookshelves, three desks, and a view to the  capitol out the window behind where he sat” 
+-   The overall rapport or tone of the exchange 
+-   Particular points in the exchange when the respondent(s) displayed  any sort of emotion (sadness, exuberance, stress, anxiety,  frustration, etc.) 
+-   Particular points in the exchange at which you were not sure the  respondent(s) was/were revealing the full story; could not recall  the full story; or may have been inventing things 
+-   The level of access the respondent(s) had to what they were  discussing or describing
+    -   E.g., whether they had first-hand knowledge of the events or  phenomena being described or had heard about them second- or  third-hand. 
+-   Any information you have (perhaps from other human participants)  regarding the respondents’ track record in terms of reliability 
+-   Key take-away points from the exchange
 
 
+{% include _exercise.html exerciseid="9" %}
 
-{% include _exercise.html exerciseid="4" %}
+## From Documentation to Metadata
+
+Metadata are, as the name suggests, data about data. Another way to think of them is highly structured documentation. You interact with metadata in your research (and beyond) all the time:
+
+-   When you search a library catalog for works by a specific author,  you use  [MARC](https://www.loc.gov/marc/) (MAchine-Readable  Cataloging) metadata, generated by a librarian. 
+-   When you post an article to social media and it appears with a small  image and a short description, this relies on “[*Open  Graph*](http://ogp.me/)” metadata, embedded into the webpage  you’re posting. 
+-   When you search google scholar for an article, you rely on a mix of  metadata  (“ [Highwire](https://scholar.google.com/intl/en/scholar/inclusion.html#indexing)”)  embedded by the publisher in the article’s webpages and google’s  automatic processing of that metadata and additional information  it retrieves from the article.
+
+To quickly reassure you -- no one expects you to learn about or create metadata in the formats discussed above; indeed, no one does. Just like libraries generate the metadata for books used in library catalogs, data repositories and their curators generate the metadata for your data once you deposit it. There are two ways repositories do this:
+
+1.  All repositories prompt you to input some information about your  data project and your data in different “fields” of the deposit  form when you are depositing your digital data. These fields are  then automatically mapped to relevant metadata formats.
+
+2.  For data repositories that curate your data (i.e., domain  repositories and some institutional repositories), curators will  work to improve the metadata for your project by ensuring that  categories are filled out correctly, by soliciting additional  information, and by enhancing existing information, e.g., by  adding systematic keywords.
+
+The most important metadata format in the social sciences is the “Data Documentation Initiative” (DDI). DDI provides detailed categories for describing most social science studies. Originally designed for survey research, its most distinctive feature is the ability to include variable-level metadata. Using DDI metadata, it is thus possible to [search the catalogs of repositories such as ICPSR for specific variables](https://www.icpsr.umich.edu/icpsrweb/ICPSR/ssvd/).
+
+While creating metadata is not your responsibility, the better and more complete your data documentation is, the better and more useful the metadata that can be created based on that documentation. The quality of your data’s documentation and metadata matter in several ways. Well-structured metadata make data more *findable*. The availability of detailed information about how data were generated make them more *trustworthy* for secondary users. The availability of background information on the project and the data make the data more *understandable*.
+
+{% include _exercise.html exerciseid="10" %}
