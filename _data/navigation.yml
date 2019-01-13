@@ -45,9 +45,9 @@
     dropdown:
     - title: "Deploying qualitative data"
       url: "/modules/4/a/"
-    - title: "Annotation for Transparent Inquiry"
+    - title: "Research Transparency and Qualitative Data"
       url: "/modules/4/b/"
-    - title: "Citing Data and Digital Object Identifiers (DOIs)?"
+    - title: "Citing Data"
       url: "/modules/4/c/"
 
 - title: "Exercises"
@@ -114,7 +114,7 @@
       url: "/exercises/23/"
     - title: "De-identification"
       url: "/exercises/24/"
-    - title: "Public Domain or Not?"
+    - title: "Data Citations"
       url: "/exercises/25/"
 
 

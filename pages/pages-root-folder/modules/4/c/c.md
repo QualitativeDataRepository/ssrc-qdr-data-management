@@ -1,6 +1,10 @@
 ---
 title: "Citing Data"
-layout: page-fullwidth breadcrumb: true header: false hidefooter: false module: "4c"
+layout: page-fullwidth 
+breadcrumb: true 
+header: false 
+hidefooter: false 
+module: "4c"
 lesson: "Module 4, Lesson 3"
 categories: [module4,modulecontent,hasexercises]
 permalink: "/modules/4/c/"
