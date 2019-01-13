@@ -146,7 +146,7 @@
   module: "2c"
   content:
     - question: >
-         Take QDR’s [Data Safety & Security Self-assessment here](https://managing-qualitative-data/files/safety/security-self-assessment.pdf) and see if and where your current practices need improvement. If there are things you want to change, make at least one such change immediately.
+         Take QDR’s [Data Safety & Security Self-assessment here](https://managing-qualitative-data.org/files/safety-security-self-assessment.pdf) and see if and where your current practices need improvement. If there are things you want to change, make at least one such change immediately.
   solution:
     - answer: >
         Again, this exercise has no standard solution. Its goal is to highlight the importance of being mindful of data security from the very beginning of a research project. This relatively small investment will give you peace of mind throughout your research process. Don’t skip it.
@@ -279,3 +279,32 @@
   solution:
     - answer: >
         Your answers might concern (1) cost of accessing data or depositing data; (2) focus (on research publications vs. research data); (3) how much published guidance the repository provides for depositors; (4) whether, and what level of, curation services the data repository provides. If you tried to access data, your answers might consider (5) whether you had to become a registered user before seeing any data and)(6) how easy it seems to be to find data in the repository and to deposit data.
+- title: "Can You Find Your Sources?"
+  id: 23
+  module: "4a"
+  content:
+    - question: >
+        Take two pages of something you are currently writing based on qualitative data and analysis (or something you wrote in the recent past), and consider how easy it would be for you to quickly identify and get your hands on the sources needed to support a few of your claims.
+  solution:
+    - answer: >
+        This exercise is calling on you to assess how well you know your data -- how “accessible” they are to you. If you weren’t able to turn immediately to a list of your data, or the appropriate folder on your computer, but instead started ransacking different folders of your computer thinking about what might serve as evidence, you may not know your data as well as you should. Consider making a data manifest to rectify this problem.
+- title: "Can You Find Your Sources?"
+  id: 24
+  module: "4b"
+  content:
+    - question: >
+
+  solution:
+    - answer: >
+
+- title: "Data Citations"
+  id: 25
+  module: "4c"
+  content:
+    - question: >
+        Find two recent research articles in your field that rely on publicly available data (either shared by the authors themselves or by others). Do they include data availability statements? Are the data cited in the bibliography? If the answer to either of the questions is no, how would a data availability statement/bibliography entry have looked?
+  solution:
+    - answer: >
+        The purpose of the first part of this exercise is to get you used to the idea of looking for data availability statements as part of your standard research practices. Where data are available, take a look -- you can learn a lot from studying other researchers’ data. Where data are not available, ask yourself why not.
+
+        For the citation and the data availability statement, check whether your solution has the key elements identified above. 

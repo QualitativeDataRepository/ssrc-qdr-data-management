@@ -86,7 +86,7 @@ The major operating systems have different, but quite similar search options.
 
 **In Windows**, the most useful search tool is the \* as a wildcard for multiple characters. For example, \*.pdf will find all files with the pdf file extension. Once you start searching in Windows, you can also open the search tools:
 
-![The Windows Searchbar](/images/windows-searchbar.png)
+![The Windows Searchbar]({{ site.baseurl }}/images/windows-searchbar.png)
 
 You can specify file sizes, the date a file was modified, or the kind of document (e.g. “image” will find any image format).
 

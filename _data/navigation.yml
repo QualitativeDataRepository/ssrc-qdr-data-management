@@ -107,6 +107,15 @@
       url: "/exercises/21/"    
     - title: "Getting to Know Your Repository"
       url: "/exercises/22/"
+  - title: "Module 4 Exercises"
+    url: "#"
+    dropdown:
+    - title: "Can You Find Your Sources?"
+      url: "/exercises/23/"
+    - title: "De-identification"
+      url: "/exercises/24/"
+    - title: "Public Domain or Not?"
+      url: "/exercises/25/"
 
 
 #- title: Resources
