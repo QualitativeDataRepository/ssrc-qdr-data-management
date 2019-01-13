@@ -112,10 +112,12 @@
     dropdown:
     - title: "Can You Find Your Sources?"
       url: "/exercises/23/"
-    - title: "De-identification"
+    - title: "Annotation for Transparent Inquiry"
       url: "/exercises/24/"
-    - title: "Data Citations"
+    - title: "Creating a Data Appendix"
       url: "/exercises/25/"
+    - title: "Data Citations"
+      url: "/exercises/26/"
 
 
 #- title: Resources

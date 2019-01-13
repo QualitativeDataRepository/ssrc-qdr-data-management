@@ -288,17 +288,27 @@
   solution:
     - answer: >
         This exercise is calling on you to assess how well you know your data -- how “accessible” they are to you. If you weren’t able to turn immediately to a list of your data, or the appropriate folder on your computer, but instead started ransacking different folders of your computer thinking about what might serve as evidence, you may not know your data as well as you should. Consider making a data manifest to rectify this problem.
-- title: "Can You Find Your Sources?"
+- title: "Annotation for Transparent Inquiry"
   id: 24
   module: "4b"
   content:
     - question: >
+        Draft the framework for a data appendix for a research product you are currently creating. What set of attributes would work across all your different forms of data (documents, interviews transcripts / notes, etc.) and help your readers understand and evaluate your project’s evidentiary foundation?
+  solution:
+    - answer: >
+        Give your draft framework, and the abstract for the research product you are writing, to someone unfamiliar with the piece. Solicit their input on whether the information you are proposing to provide is the type they would want to know when evaluating your work.
+- title: "Creating a Data Appendix"
+  id: 25
+  module: "4b"
+  content:
+    - question: >
+        Draft the framework for a data appendix for a research product you are currently creating. What set of attributes would work across all your different forms of data (documents, interviews transcripts / notes, etc.) and help your readers understand and evaluate your project’s evidentiary foundation?
 
   solution:
     - answer: >
-
+        Give your draft framework, and the abstract for the research product you are writing, to someone unfamiliar with the piece. Solicit their input on whether the information you are proposing to provide is the type they would want to know when evaluating your work.
 - title: "Data Citations"
-  id: 25
+  id: 26
   module: "4c"
   content:
     - question: >

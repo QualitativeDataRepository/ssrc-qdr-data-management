@@ -25,16 +25,9 @@ initialquestions:
 
 ## Documentation Overview
 
-At the core of good data management is documentation. Documentation
-introduces, provides a detailed description of, and contextualizes your
-data. It serves as a bridge to the fundamentals of your data.
+At the core of good data management is documentation. Documentation introduces, provides a detailed description of, and contextualizes your data. It serves as a bridge to the fundamentals of your data.
 
-Documentation can be written at many “levels” and comes in many forms
-(as described below). Together, all of the documentation associated with
-a research project should answer a series of important questions
-(although any particular piece of documentation may only answer a subset
-of those questions). Your documentation should describe your data’s key
-attributes, what you did, *and why* you made the choices you made.
+Documentation can be written at many “levels” and comes in many forms (as described below). Together, all of the documentation associated with a research project should answer a series of important questions (although any particular piece of documentation may only answer a subset of those questions). Your documentation should describe your data’s key attributes, what you did, *and why* you made the choices you made.
 
 -   What was / is the context of data collection (empirical, theoretical or normative)?
 -   How did you generate / collect the data?
@@ -67,7 +60,7 @@ Documentation plays an important role throughout the lifecycle of your research 
 -   *When you are beginning to plan your research* think of the different types of documentation you will need and create templates for each type. For instance:
     -   Generate a template for your archive log.
     -   Create a template for “informal metadata” from interactive data collection.
-    -   Create a field observations template (see the next lesson for more on this type of template).
+    -   Create a field observations template (see the [next lesson](/modules/2/b) for more on this type of template).
 
 -   You create the bulk of documentation *as you are collecting / generating data*; use the templates you created to:
     -   Create documentation relating to individual files.

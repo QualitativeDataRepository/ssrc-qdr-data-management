@@ -69,11 +69,13 @@ Employing ATI benefits you, and your qualitative inquiry, in several ways. Emplo
 Some models of scholarship that has been annotated using ATI can be found [*here*](https://qdr.syr.edu/ati/ati-models), and more specific directions for using ATI can be found
 [*here*](https://qdr.syr.edu/ati/ati-instructions).
 
+{% include _exercise.html exerciseid="24" %}
+
 ## Data Appendix 
 
 No matter how you collect and generatedata, production transparency requires you to communicate to readers as much about your data-gathering processes as you can. While your processes were likely varied and intricate, you need to convey them holistically and synthetically, while simultaneously offering sufficient detail for a reader to understand and evaluate what you did. ATI empowers you to give a “macro-representation” of your data collection through the Data Overview, and a “micro-representation” of your data collection through annotations.
 
-A data appendix offers a “meso-level” representation: an “itemized overview” of respondents, documents, or other data sources, with each described via a structured set of attributes. Your data appendix might be derived from your “[data manifest](/modules/4/a#)”, described in the previous lesson. If you didn’t use ATI your appendix should include a holistic overview of the type you would have written in your ATI Data Overview detailing, e.g., how data sources were chosen.
+A data appendix offers a “meso-level” representation: an “itemized overview” of respondents, documents, or other data sources, with each described via a structured set of attributes. Your data appendix might include a subset of the data included in your “[data manifest](/modules/4/a#toward-effective-deployment-of-qualitative-data),”  described in the previous lesson, with each item described in more detail. If you didn’t use ATI your appendix should also include a holistic overview of the type you would have written in your ATI Data Overview detailing, e.g., how data sources were chosen. 
 
 We describe here, as an example, a data appendix for a particular type of interactive data collection -- interview research -- drawing on an excellent example developed by Erik Bleich and Robert Pekkanen. In projects involving interactive data collection, *with whom* you interacted (and why), and *how you solicited information* from them, are key drivers of the data that are produced, and thus of your analysis and findings. Being transparent in this kind of research, then, entails providing as much information as you can about those interactions.
 
@@ -81,9 +83,11 @@ In our lesson on Documenting Data and Creating Metadata, we suggested that you c
 
 Bleich and Pekkanen [provide a template](https://doi.org/10.5281/zenodo.892385) for one potential element of your data appendix -- what they term an “Interview Methods Table”. Such a table includes key information about each respondent and each exchange. (“Saturation” refers to whether an exchange revealed any new information, and/or whether a particular category of respondent has reached “saturation” such that no additional interviews are required.) You might include other key metadata such as the date and location of the exchange.
 
-![Interview Appendix]({{ site.baseurl }}/images/interview-appendix.png)
+![Interview Appendix]({{site.baseurl }}/images/interview-appendix.png)
 
 The exact content of your appendix depends on your research project and the types of data collection in which you engaged. They key is for it to help readers of your published work to understand to the greatest degree possible how your data collection processes produced the data that underpin your work, thus helping them to assess the quality of the data and how well your claims are supported.
+
+{% include _exercise.html exerciseid="25" %}
 
 ## Qualitative Data Analysis Software and Transparency
 
@@ -107,7 +111,7 @@ As you analyze your data, your CAQDAS tool will help you make your analytic proc
 
 ### 4. Preparing Your Data for Sharing
 
-Make a copy of your project and delete any information you do not want to share, such as private notes or sensitive information. If you have followed our advice above, you can now use the tags you have created to redact potentially identifying information from transcripts following the guidelines we provided previously.
+Make a copy of your project and delete any information you do not want to share, such as private notes or sensitive information. If you have followed our advice above, you can now use the tags you have created to redact potentially identifying information from transcripts following the [guidelines we provided previously](/modules/3/b#de-identifying-data).
 
 ### 5. Exporting Your Data for Sharing
 

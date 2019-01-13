@@ -9,13 +9,18 @@ lesson: "Module 4, Lesson 3"
 categories: [module4,modulecontent,hasexercises]
 permalink: "/modules/4/c/"
 next: false previous: "/modules/4/b/"
-description: "When you use other researcher' data, you should cite it--but how? And what exactly are Digital Object Identifiers?"
+description: "When you use other researcher' data, you should cite it. Why is this so important? And how do you properly cite data?"
 learningobjectives:
--   
+    - Why citing data is important in scientific writing
+    - The main components of a data citation
+    - Additional ways to credit data and their creators
 initialquestions:
--  
+    - Have you ever cited data -- yours or someone else’s?
+    - Have you ever wondered why researchers cite papers and books, but rarely software or data, even though those play a crucial role in enabling research?
+    - If you have seen data cited, what form did those citations take?
+
 ---
-<!--{% include _learningobjectivesandquestions.html %}-->
+{% include _learningobjectivesandquestions.html %}
 
 
 As you deploy data -- including your own data! -- as evidence in your research products, you should cite them as you would cite any other resources to which you refer. By using formal citations (as opposed to just linking to or mentioning the data you use), you make sure that readers can find the data you reference; correct and complete citation, then, is a key aspect of research transparency. In addition, proper data citation allows the scholar who collected or generated the data to get appropriate credit. Citing research data also serves as an acknowledgment that data are a product of value themselves, distinct from publications that draw on them.
@@ -61,4 +66,4 @@ Depending upon how central to your scholarship the data you re-used were, you mi
 
 Either of these alternatives raises the profile of data and those who create them, emphasizing the contributions they make to knowledge generation.
 
-{% include _exercise.html exerciseid="25" %}
+{% include _exercise.html exerciseid="26" %}
