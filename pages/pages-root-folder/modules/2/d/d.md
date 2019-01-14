@@ -20,7 +20,7 @@
  initialquestions:
  -   What is the value of digitizing documents?
  -   What makes transcribing audio / video recordings from interactions with research subjects challenging?
- -   Do I have to translate my transcripts?
+ -   Do you have to translate your transcripts?
 ---
 
 {% include _learningobjectivesandquestions.html %}
@@ -145,9 +145,9 @@ You may wish to translate your transcripts from the language in which the record
 translate the transcripts. However, you will generally end up with better transcriptions and translations if the processes are carried out separately. Also, if you are using software to assist you with these transformations, or contracting others to perform these services, most software and services specialize in one or the other service.
 
 Typically you’ll translate into your native language and/or the language in which you’re writing the article or book resulting from the research. You might want to translate because:
--   you had proxies engage in your interactive data collection because you don't speak the language in which the exchange occurred
--   having translations of your transcripts will make them easier for you to use as the evidentiary base for your research product.
--   you want to expand the population of potential secondary users for the fruits of your data-collection efforts if you translate those fruits into an additional language.
+-   You had proxies engage in your interactive data collection because you don't speak the language in which the exchange occurred.
+-   Having translations of your tra nscripts will make them easier for you to use as the evidentiary base for your research product.
+-   You want to expand the population of potential secondary users for the fruits of your data-collection efforts if you translate those fruits into an additional language.
 
 Keep in mind that it may not be necessary for you to translate completely all of your transcripts even if you are creating your research products in a different language from your transcripts. If you are fully proficient in the languages in which you conducted data collection, you may be able to interact efficiently with the transcripts -- read, recall, and analyze -- without translating them. Alternatively, you may translate only a subset of the transcripts, or possibly simply translate the excerpts that you ultimately use in your research product. You should proceed in whatever way will allow you to maximize the utility and evidentiary potential of your exchanges with human participants while being mindful of the time translation will take you.
 

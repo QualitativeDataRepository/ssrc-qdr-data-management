@@ -123,21 +123,30 @@
   solution:
     - answer: >
         You likely noticed that the QDR project includes more  detailed information about the content and generation of the data  *and* more detailed metadata. Here are some specific differences:
-            -   You can tell when the data were collected and where.
-            -   You can follow the logic of the social media excerpts Clarke has collected. On the other hand, can you follow the meaning of  the “Subject” codes in the first column of the Patel et al.  data?
-            -   The detailed information about the generation of the data on QDR  mean you can better decide on whether and how much to trust  the data.
+            
+        -   You can tell when the data were collected and where.
+            
+        -   You can follow the logic of the social media excerpts Clarke has collected. On the other hand, can you follow the meaning of  the “Subject” codes in the first column of the Patel et al.  data?
+            
+        -   The detailed information about the generation of the data on QDR  mean you can better decide on whether and how much to trust  the data.
 - title: "Folder and Filename Assessment"
   id: 11
   module: "2c"
   content:
     - question: >
-         Open the master folder for one of your current research projects and candidly assess how clearly and consistently you are naming your folders and files. Consider, for instance, the following:
-         -   How many levels of folders do you have -- levels within levels within levels? Are there enough levels, too many, or too few?
-         -   Can you tell, without opening a folder, what is in it?
-         -   Is there some logic behind the organization of your folders, or does it seem you just created a new one whenever you needed one?
-         -   How consistent are the names of your files?
-         -   If you have multiple versions of particular files, can you tell which is the most current?
-         -   Create a new document (clearly named!) that will be a draft of the memo to yourself about the organization and naming of your folders and files. Create the first few bullets under “folder organization and naming” and under “file organization naming” that could serve as instructions to yourself for re-organizing and renaming your folders and files.
+        Open the master folder for one of your current research projects and candidly assess how clearly and consistently you are naming your folders and files. Consider, for instance, the following:
+        
+        -   How many levels of folders do you have -- levels within levels within levels? Are there enough levels, too smany, or too few?
+        
+        -   Can you tell, without opening a folder, what is in it?
+        
+        -   Is there some logic behind the organization of your folders, or does it seem you just created a new one whenever you needed one?
+        
+        -   How consistent are the names of your files?
+        
+        -   If you have multiple versions of particular files, can you tell which is the most current?
+        
+        Create a new document (clearly named!) that will be a draft of the memo to yourself about the organization and naming of your folders and files. Create the first few bullets under “folder organization and naming” and under “file organization naming” that could serve as instructions to yourself for re-organizing and renaming your folders and files.
   solution:
     - answer: >
         As with many other exercises, this one has no standard solution. The goal is simply for you to begin thinking critically about how you are organizing and naming your folders and files, and to take the first steps toward more optimal organization and naming. If you find that there are some real improvements to make, think about when you will make them, cognizant that changes are much easier to make the earlier you are in your project.
@@ -159,7 +168,7 @@
          -   Take a digital picture of each.
          -   Assemble them into a single PDF.
          -   Familiarize yourself with two OCR tools by using them to turn a scanned image file into machine-readable text.
-         -   If the steps in either process were unintuitive or easily forgotten, make yourself a quick “cheat sheet” outlining the steps so you are not starting from square one the next time
+         -   If the steps in either process were unintuitive or easily forgotten, make yourself a quick “cheat sheet” outlining the steps so you are not starting from square one the next time.
   solution:
     - answer: >
         Rather than a solution, we offer some questions for you to think about. What did you learn about the software you used? What did you name your “cheat sheet” -- is that a good name? Where did you put it and why? Will you be able to find it again?
@@ -182,9 +191,13 @@
   content:
     - question: >
          If you have transcripts in a language different from the one in which you will write your research products, translate the transcript that you created in the previous exercise from the original language into the one in which you will write your research product.
+         
          -   Record your observations / reactions:
+         
          -   How long did it take you?
+         
          -   What were the biggest challenges?
+         
          -   If you were to use software to help you translate, what functionality do you now see it will need to have?
   solution:
     - answer: >
@@ -293,10 +306,10 @@
   module: "4b"
   content:
     - question: >
-        Draft the framework for a data appendix for a research product you are currently creating. What set of attributes would work across all your different forms of data (documents, interviews transcripts / notes, etc.) and help your readers understand and evaluate your project’s evidentiary foundation?
+        Using a research product you recently completed, choose three contiguous pages that contain multiple evidence-based claims. Consider how well you were able to substantiate those claims given space-limitations. Try to remember if there was additional information or evidence that you cut as you were revising the piece. Then, seek to annotate a few passages, following the description above and / the [directions here](https://qdr.syr.edu/ati/ati-instructions). Ask yourself what you are gaining -- and if you are losing anything -- through annotation.
   solution:
     - answer: >
-        Give your draft framework, and the abstract for the research product you are writing, to someone unfamiliar with the piece. Solicit their input on whether the information you are proposing to provide is the type they would want to know when evaluating your work.
+        Working with another scholar who is familiar with your area of research, give them your original research product (without the annotations, and without mentioning the annotations!) to read. Then ask them to read the version *with* the annotations, and to answer the same questions you asked yourself -- what is gained, and potentially lost, through annotation?
 - title: "Creating a Data Appendix"
   id: 25
   module: "4b"

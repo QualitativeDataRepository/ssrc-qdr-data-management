@@ -1,5 +1,5 @@
 ---
-title: "Organizing your Data and Keeping Them Safe"
+title: "Organizing Your Data and Keeping Them Safe"
 layout: page-fullwidth
 breadcrumb: true
 header: false
@@ -13,9 +13,9 @@ previous: "/modules/2/b/"
 description: "How do I use filenames, folder, and tools to organize my data? How can I make sure it doesn't get lost or into the wrong hands?"
 learningobjectives:
 -   Why clear and consistent organization and naming of folders and files is important 
--   Key strategies for keeping data safe and secure 
 -   Some strategies for working with “unorganized” data 
 -   The difference between keeping data “safe” and keeping them “secure”
+-   Key strategies for keeping data safe and secure 
 initialquestions:
 -   Is there a “right” strategy for organizing and naming folders and files? 
 -   Are you using any tools that help you organize your data? 
@@ -24,20 +24,19 @@ initialquestions:
 ---
 {% include _learningobjectivesandquestions.html %}
 
-## Data Naming and Organization
-----------------------------
+## Naming and Organizing Folders and Files
 
 ![Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Untitled.doc](https://imgs.xkcd.com/comics/documents.png)
 Source: https://xkcd.com/1459/
 
 Keeping your data organized is one of the key principles of data management. The advice we offer here may be some of the simplest we offer in this course, and very likely the type that’s most commonly ignored. Two key initial steps of data organization are creating a consistent folder structure and standardized filenames.
 
-#### Folder Structure
+### Folder Structure
 
 Your folder structure should reflect how you think about your project. Create the folder structure at the outset of your research and write a short memo to yourself describing its logic. For instance, you might organize your folders geographically (site 1, site 2, site 3), by the types of materials (interviews, web sources, scans), chronologically by events that you’re studying, or by research trips. Regardless of the structure you choose, a coherent, logical folder structure helps you to
-*be consistent* about which files go in which folders, so that you can easily locate all of your files in the present and the future. As research rarely goes exactly as planned, you will likely need to make adjustments as you go along. These should be purposeful, and reflected in your organization memo. Think about the how a particular organizational change might affect, and should be reflected in, other aspects of the organization of your folders.
+*be consistent* about which files go in which folders, so that you can easily locate all of your files in the present and the future. As research rarely goes exactly as planned, you will likely need to make adjustments as you go along. These should be purposeful, and reflected in your organization memo. Think about how a particular organizational change might affect, and should be reflected in, other aspects of the organization of your folders.
 
-#### File Names
+### File Names
 
 Similar to folders, there is no single right way to name your files. No matter what convention you adopt, as with your folder structure, we suggest that you develop it at the start of your research project and apply it to your files consistently. Beyond this, we can offer some general advice:
 
@@ -55,7 +54,7 @@ Here are two examples:
 
 {% include _exercise.html exerciseid="11" %}
 
-#### Organizational Tools
+### Organizational Tools
 
 Instead of relying on your computer’s operating system, you can also rely on tools designed to organize files and notes. There are various types: reference managers such as Zotero or Endnote; qualitative data analysis tools like NVivo, atlas.ti, or Dedoose; and document management tools such as DevonThink Pro. All of these tools include search and organizational functions beyond your operating system’s capacity. However, this functionality comes at a cost -- sometimes financially,
 often in the form of time you have to invest in learning new technology.
@@ -74,11 +73,11 @@ As you choose a tool, be particularly mindful of “lock-in”, i.e., your abili
 Finally, tools facilitate organization, but you still need to *devise*
 that organization and apply its logic consistently. When using any tools, follow the same general principles of planning for the organization of, and organizing, your data outlined above.
 
-#### Working with Existing Data
+### Working with Existing Data
 
 When you work with existing data -- be it data that you have collected previously or someone else’s data -- it may not always be well organized. We suggest that your approach to organizing the data entails spending just enough time so that you can effectively use the data, but not more time than what good organization will save you.
 
-##### Tools for Existing Data
+#### Tools for Existing Data
 
 If the disorganized data are your own, and you fear (or know) that they are scattered in many different places on your computer, your first step may simply be to track them all down. Your computer’s operating system’s ability to search for files is far more powerful than you may realize. Operating systems can not only search for filenames, but can also search the full text of most common file formats (as well as text in the file properties). Thus you can, e.g., search your entire hard disk for PDFs created in 2018 that contain the term Argentina or Argentine and then show them in a (virtual) folder, helping you to impose some order on chaotic file collections.
 
@@ -104,7 +103,7 @@ Once you have the set of relevant files, a helpful way to impose some order on a
 
 Two other key aspects of data management are keeping your data *safe* (preventing loss), keeping them *secure* (preventing unauthorized access), and doing so without placing undue burden on you during your research.
 
-#### Backing up
+### Backing up
 
 There are few research experiences that are quite as crushing as losing data. Consequently, “back up often!” is a standard exhortation -- you have likely said this to yourself and to other researchers many times. Thankfully, technological advances have made it easy and cheap to protect against multiple types of data loss..
 
@@ -133,12 +132,12 @@ Following these suggestions does not require a complex set up. For instance, the
 Finally, don’t neglect to *test* your backups, i.e., make sure that you can actually get back the files should you need them (if you’re inclined to skip this step, watch [this video on how Toy Story 2 was almost lost](https://www.youtube.com/watch?v=8dhp_20j0Ys) in part due to a failed backup). Again, this need not be complicated: Once a month,
 select a handful of files in different folders and make sure you can open them in your backups. Choose different files every time.
 
-#### Security
+### Security
 
 Basic security measures are a must to prevent having your accounts hijacked (and potentially data deleted) and/or malicious software installed. Preventing unauthorized access to your data is particularly important if your data are sensitive and confidential. We provide a basic outline of best practices here. If you’re handling sensitive data,
 you should consult with experts at your institution and review the additional guidance we list under resources below.
 
-##### Passwords and Authentication
+#### Passwords and Authentication
 
 Here are the [main ways](https://hypersecu.com/blog/91-5-ways-hackers-are-stealing-passwords)
 attackers gain unauthorized access to user accounts:
@@ -159,20 +158,20 @@ Technical tools can help you protect yourself and significantly lower the burden
 or a [dedicated USB key](https://www.wired.com/story/how-to-use-a-yubikey/). ([Experts advise](https://www.theverge.com/2017/7/10/15946642/two-factor-authentication-online-security-mess)
 that text messages are far less secure than the two other modes of 2FA, and USB keys provide the strongest protection as they cannot be spoofed).
 
-##### Secure Communication
+#### Secure Communication
 
 If you need to communicate securely while conducting research, for example, with members of your research team or human participants,
 messaging apps on your cell phone are often the safest choice as they strongly encrypt all communication. For highly sensitive topics, apps with a focus on privacy and security like [*Signal*](https://signal.org/) are ideal. However, the vastly more popular [*WhatsApp*](https://www.whatsapp.com/) provides similar encryption and is likely already used by your interlocutors.
 
 When you have to rely on e-mail for communication, the [*Pretty Good Private (PGP)*](https://www.openpgp.org/software/) standard provides state of the art protection via encryption, but is not currently widely adopted.
 
-##### Secure Devices
+#### Secure Devices
 
 Ensuring that the devices you are using during research remain secure (inaccessible to others) is critical. Most attacks capitalize on known vulnerabilities in operating systems and browsers, so keeping your software up to date (and relying on automated updates) is critical. For most users, this, coupled with a reasonable sense of caution (don’t open sketchy links; don’t install software from any source you don’t trust 100%) will provide reasonable security.
 
 If your research is highly sensitive, especially if you suspect it may attract the attention of technically sophisticated attackers (such as governments), we recommend additional care. Mainly due to Apple’s commitment to providing updates to its operating system (iOS) to all its phones, iOS products provide vastly superior security to most Android devices. (If you do use Android, ensure your phone is using a recent version of the operating system.)
 
-##### Encryption
+#### Encryption
 
 Especially if you are travelling with a laptop, you should ensure that your hard disk is encrypted. This is a standard feature of operating systems, referred to as “[File Vault](https://support.apple.com/en-us/HT204837)” on Mac and “[Bit Locker](https://support.microsoft.com/en-us/help/4028713/windows-10-turn-on-device-encryption)”
 on Windows. Without disk encryption, anyone who gets access to your computer can read all your files, even if they do not know your account password.

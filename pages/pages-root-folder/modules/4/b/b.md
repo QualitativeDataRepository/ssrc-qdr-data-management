@@ -16,7 +16,7 @@ learningobjectives:
 -   Some approaches to making qualitative social science research more transparent   
 initialquestions:
 -   What would you need to know about a particular piece of research in order to fully evaluate its quality?
--   Can you think of some great examples of transparent research in your field/
+-   Can you think of some great examples of transparent research in your field?
 -   What are some exemplary practices for making research transparent that are used in your field?  
 ---
 {% include _learningobjectivesandquestions.html %}
@@ -24,23 +24,23 @@ initialquestions:
 
 ## Transparency in Social Science Research
 
-Norms across the social sciences are evolving to encourage greater access to the data underpinning research, and more transparency with regard to research practices. The goal of this norm change is to make scholarly work more easily understood and evaluated. Three **general principles** comprise research transparency. (We draw here on the trio of imperatives envisioned by the [American Political Science Association \[2012, 9-10\]](http://www.apsanet.org/portals/54/Files/Publications/APSAEthicsGuide2012.pdf)).
+Norms across the social sciences are evolving to encourage greater access to the data underpinning research, and more transparency with regard to research practices. The goal of this norm change is to make scholarly work more easily understood and evaluated. Three general principles comprise research transparency. (We draw here on the trio of imperatives envisioned by the [American Political Science Association \[2012, 9-10\]](http://www.apsanet.org/portals/54/Files/Publications/APSAEthicsGuide2012.pdf)).
 -   ***Data access:*** achieved by referencing the data that underpin evidence-based knowledge claims and, if you generated or collected those data yourself, sharing those data or explaining why you cannot do so.
 -   ***Production transparency:*** entails offering a full account of the procedures used to collect or generate your data (if you did so yourself).
 -   ***Analytic transparency:*** involves providing a full account of how you drew inferences from the data, i.e., clearly explicating the links between your data and your empirical claims and conclusions.
 
-While openness is relevant for all types of social science research, different research traditions of evidenced-based inquiry have developed, and will continue to develop, different **strategies** to realize these principles. In particular, the strategies devised to achieve the general principles will differ between quantitative and qualitative research, in large part because data are deployed differently in these distinct types of inquiry (see the previous lesson in this module on [Deploying Qualitative Data](/modules/4/a)).
+While openness is relevant for all types of social science research, different research traditions of evidenced-based inquiry have developed, and will continue to develop, different strategies to realize these principles. In particular, the strategies devised to achieve the general principles will differ between quantitative and qualitative research, in large part because data are deployed differently in these distinct types of inquiry (see the previous lesson in this module on [Deploying Qualitative Data](/modules/4/a)).
 
 Nonetheless, all such strategies for achieving openness should:
--   Make relevant data and analytic information immediately available in tandem with the particular knowledge claim they were used to generate (**proximity**)
--   Make data and analytic information **FAIR** (findable, accessible, interoperable, and reusable, [*Wilkinson et al. 2016*](https://doi.org/10.1038/sdata.2016.18))
--   Address concerns about the ethical and legal complications that constrain openness (**protection**).
+-   Make relevant data and analytic information immediately available in tandem with the particular knowledge claim they were used to generate (proximity)
+-   Make data and analytic information FAIR (findable, accessible, interoperable, and reusable, [Wilkinson et al. 2016](https://doi.org/10.1038/sdata.2016.18))
+-   Address concerns about the ethical and legal complications that constrain openness (protection).
 
-For qualitative research, optimizing **proximity** entails linking digital data sources (e.g., archival documents, audio-recordings, nterview transcripts, ethnographic field notes) and accompanying materials containing relevant analytic information directly to the relevant passage in a digital publication, and accessible from a journal’s web page (i.e., on the publisher’s platform).
+For qualitative research, optimizing proximity entails linking digital data sources (e.g., archival documents, audio-recordings, Interview transcripts, ethnographic field notes) and accompanying materials containing relevant analytic information directly to the relevant passage in a digital publication, and accessible from a journal’s web page (i.e., on the publisher’s platform).
 
-Rendering data and analytic information **FAIR** entails tasks such as describing them with the proper metadata and assuring their long-term preservation. Data repositories have the expertise and technology to help you to render, and keep, your data FAIR as standards evolve over time.
+Rendering data and analytic information FAIR entails tasks such as describing them with the proper metadata and assuring their long-term preservation. Data repositories have the expertise and technology to help you to render, and keep, your data FAIR as standards evolve over time.
 
-Finally, as lessons [two](/modules/3/b) and [three](/modules/3/c) of the Sharing Qualitative Data module suggest, a promising way to maximize transparency while simultaneously addressing the **ethical and legal** complications that sharing social science data can present -- in particular protecting human participants and respecting copyright law -- is by establishing differential access to the evidentiary base of published articles.
+Finally, as lessons [two](/modules/3/b) and [three](/modules/3/c) of the Sharing Qualitative Data module suggest, a promising way to maximize transparency while simultaneously addressing the ethical and legal complications that sharing social science data can present -- in particular protecting human participants and respecting copyright law -- is by establishing differential access to the evidentiary base of published articles.
 
 ## Annotation for Transparent Inquiry (ATI)
 

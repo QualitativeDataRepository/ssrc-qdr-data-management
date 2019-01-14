@@ -47,8 +47,7 @@ These suggestions in no way constitute or replace a discussion of
 
 1\. *Know your data*. It is challenging for scholars who have collected and generated dozens or hundreds of discrete data sources to remain familiar with all of their data. Yet doing so is crucial to the writing process. In aggregate, those data help you formulate your ideas and arguments; individually, they serve as evidence supporting particular claims. Keeping your data extremely well-organized, as discussed in detail in the modules on “[Planning the Management of Qualitative Data](/modules/1)” and “[Managing Qualitative Data](/modules/2),” is a critical first step toward remaining familiar with your data. But you likely need to do more.
 
-Review your data every once in a while by glancing through your sources,
-refreshing your memory of what they say, tell you, and mean. Even more actively, you might“take inventory” of your data periodically, creating a (running) manifest of your data files.
+Review your data every once in a while by glancing through your sources, refreshing your memory of what they say, tell you, and mean. Even more actively, you might “take inventory” of your data periodically, creating a (running) manifest of your data files.
 
 A data manifest is best created using spreadsheet software. Each row represents a particular data source (an interview transcript, an archival document). Columns include relevant attributes of each file -- some logistical, some substantive -- for instance:
 -   format (e.g., document, transcript)

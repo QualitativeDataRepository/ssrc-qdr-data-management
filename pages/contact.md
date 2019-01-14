@@ -1,16 +1,12 @@
 ---
 layout: page-fullwidth
 title: "Contact"
-meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+meta_title: "Contact QDR"
+teaser: "Questions about QDR? Feedback about this course? Please get in touch!"
 permalink: "/contact/"
 breadcrumb: true
 header: false
 image:
     title: /assets/img/splash.jpg
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
-
-
- [1]: http://www.wufoo.com/
+This course was created and this site it maintained by the Qualitative Data Repository. Please contact us with any questions or feedback: [qdr@syr.edu](mailto:qdr@syr.edu)
