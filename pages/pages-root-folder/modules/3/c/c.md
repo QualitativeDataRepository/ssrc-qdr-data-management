@@ -66,7 +66,7 @@ Copyright does not last forever. Depending on whether authorship is known, as we
     
  For all other cases, we recommend [this useful chart](https://copyright.cornell.edu/publicdomain) -- you’ll notice this can be quite tricky and many works have gone in and out of copyright repeatedly over the last 50 years. Duke’s Center for the Study of Public Domain has some [fun examples](https://law.duke.edu/cspd/publicdomainday/) and thoughtful commentary. After copyright on a work runs out the work automatically enters the public domain.
 
-{% include _exercise.html exerciseid="10" %}
+{% include _exercise.html exerciseid="18" %}
 
 
 ### Can You Share Data That Are under Copyright?
@@ -95,4 +95,4 @@ Copyright is, unfortunately, not the only proprietary constraint that can apply 
 
 So even if a text that you download from Gale may have entered the public domain long ago, based on this license agreement, you are not allowed to *even make an electronic copy* of the file, let alone share such a copy with other researchers. Sometimes you can discuss constraints with those who imposed them to see if there might be flexibility. For instance, even if an archive generally places limits on the dissemination of documents, if you speak with archive personnel, they may be open to making the documents accessible. These kinds of inquiries and discussions are often worth a try!
 
-{% include _exercise.html exerciseid="11" %}
+{% include _exercise.html exerciseid="19" %}

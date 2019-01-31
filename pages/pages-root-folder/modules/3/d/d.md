@@ -39,7 +39,7 @@ These solutions, however, pose various types of problems.
 
 The bottom line is, you’re a scholar! You’re equipped to generate and analyze data. You don’t have, and shouldn’t need to have, the skills necessary to properly care for and preserve research data for the long term. The same goes for journals, whose core mandate is to publish articles, not preserve data. Instead of exercising the options above, we encourage you to store your data in an institution specifically created for this purpose, i.e., in a data repository. As you’ll learn more about below, a repository is “a final destination” for data that allows for their long-term publishing and preservation. There are a few kinds to choose from, and lots of things to consider when you’re making your choice.
 
-{% include _exercise.html exerciseid="12" %}
+{% include _exercise.html exerciseid="20" %}
 
 ## What Data Repositories Do 
 
@@ -65,7 +65,7 @@ Given the characteristics of qualitative research data, and the practical, ethic
 -   Collaborate across disciplines to achieve interoperability among scientific communities
     -   Repositories often allow the “harvesting” of their metadata through a dedicated protocol, facilitating the development of search interfaces covering many data repositories.
   
-{% include _exercise.html exerciseid="13" %}
+{% include _exercise.html exerciseid="21" %}
 
 ## Types of Data Repositories 
 
@@ -132,7 +132,7 @@ Other repositories are “hybrids” -- some combination of the types just menti
 -  [*Open ICPSR*](https://www.openicpsr.org/openicpsr/) (ICPSR) -- a social science self-publishing repository run by and alongside a fully curated domain repository. Data published on Open ICPSR are minimally curated; a metadata review is performed after publication.
 
 
-{% include _exercise.html exerciseid="14" %}
+{% include _exercise.html exerciseid="22" %}
 
 ## Evaluating Options and Choosing 
 

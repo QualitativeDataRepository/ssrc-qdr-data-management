@@ -70,7 +70,7 @@ Not all qualitative data garnered from human participants need to be de-identifi
 
 Not everything can be de-identified. If you interview a US Supreme Court justice, say, no reasonable amount of redaction is going to allow you to keep their identity confidential. You may also not be able to protect the identity of interview respondents from absolutely *everyone*. For example, if you interview people in a small village, you can often mask their identities from other researchers and most everyone else, but their neighbor, knowing that you talked to them, would likely be able to recognize them from shared data. In those cases, controlling access to data can be a useful complement to (or replacement for) de-identification.
 
-{% include _exercise.html exerciseid="9" %}
+{% include _exercise.html exerciseid="17" %}
 
 
 ## Access Controls
