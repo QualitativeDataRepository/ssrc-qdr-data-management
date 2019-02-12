@@ -76,11 +76,11 @@ But why this emphasis on planning? There are two main reasons:
 
 -   Steps you take early in your research can have significant impacts
     on what you may be able to do at later stages. For example, whether
-    and how you can share you data will depend on the consent language
+    and how you can share your data will depend on the consent language
     you used, which you likely determined early on, in your
     IRB application.
 -   Research, particularly fieldwork in a foreign country, is hectic,
-    often like juggling many things at ones. Some things may be much
+    often like juggling many things at once. Some things may be much
     harder or even impossible to set up once you’re away from your
     home base. Having a plan in place for the things that you can plan
     (and for some eventualities) will help you stay organized.

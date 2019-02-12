@@ -43,7 +43,7 @@ The Library of Congress (LoC) clearly and succinctly lays out its
 
 ## Digitizing Archival (and Other) Documents
 
-In your research -- especially if you work in archives -- you will encounter lots of useful documents that you can’t just take along with you. Often, though, you will be able to “capture” them digitally -- create a digital image of them. The LoC recommends that you “Capture the highest quality digital image technically possible and economically feasible”. In particular for social science researchers with limited budgets, the second part of this exhortation is crucial -- no one expects you to pay for or drag around professional digitization equipment. At the same time, you will regret making poor quality images (and other recordings): text recognition may not work properly, individual images may be unreadable, outputs will be less valuable for other researchers, etc.. Here we offer some tips on effective digitizing.
+In your research -- especially if you work in archives -- you will encounter lots of useful documents that you can’t just take along with you. Often, though, you will be able to “capture” them digitally -- create a digital image of them. The LoC recommends that you “Capture the highest quality digital image technically possible and economically feasible”. In particular for social science researchers with limited budgets, the second part of this exhortation is crucial -- no one expects you to pay for or drag around professional digitization equipment. At the same time, you will regret making poor quality images (and other recordings): text recognition may not work properly, individual images may be unreadable, outputs will be less valuable for other researchers, etc. Here we offer some tips on effective digitizing.
 
 ### Planning Ahead
 
@@ -53,7 +53,7 @@ Based on what are you able to learn about the archive and its rules, *test your 
 
 ### Equipment
 
-Begin with a good tripod or table mount that allows you to stabilize your camera. In the archive, mark the picture field of the camera on the table where you are working so that you can quickly take pictures without checking the camera screen. A remote control for the camera will greatly facilitate your work. High quality images take up significant space and the number of mages you take in a typical day in the archives will drain a camera’s battery. Make sure to bring additional storage cards and batteries.
+Begin with a good tripod or table mount that allows you to stabilize your camera. In the archive, mark the picture field of the camera on the table where you are working so that you can quickly take pictures without checking the camera screen. A remote control for the camera will greatly facilitate your work. High quality images take up significant space and the number of images you take in a typical day in the archives will drain a camera’s battery. Make sure to bring additional storage cards and batteries.
 
 #### Phone vs. Camera
 
@@ -70,7 +70,7 @@ Optical Character Recognition (OCR) turns a scanned image file into computer-rea
 
 ## Transcribing Audio / Video from Interactive Data Collection
 
-If your research involves certain types of interactions with human beings (e.g., conducting surveys, interviews, focus groups; doing oral histories), you may choose to create an audio or video recording of those interactions. If you do so, you may then chose to “transform” those recordings into text. The process of doing so is called “transcribing.” 
+If your research involves certain types of interactions with human beings (e.g., conducting surveys, interviews, focus groups; doing oral histories), you may choose to create an audio or video recording of those interactions. If you do so, you may then choose to “transform” those recordings into text. The process of doing so is called “transcribing.” 
 
 ### Why Transcribe?
 
@@ -81,7 +81,7 @@ You may do so for your own purposes, as in these examples:
 -   You plan to engage in content or discourse analysis and the precise language and wording that your human participants employed are integral to your study;
 -   You plan to analyze your data using Computer-Assisted Qualitative Data Analysis Software (CAQDAS), which requires textual inputs.
 
-Alternatively, you may transcribe your audio / video recordings because the data are more accessible to other scholars -- indexable, searchable -- when they are in textual rather than audio or video form. Transcribed data can be more readily [*de-identified*](http://link) than audio or video, further facilitating sharing. Transcripts are thus easier for other scholars to use to evaluate the findings in your written products,
+Alternatively, you may transcribe your audio / video recordings because the data are more accessible to other scholars -- indexable, searchable -- when they are in textual rather than audio or video form. Transcribed data can be more readily [*de-identified*](/modules/3/b/#de-identifying-data) than audio or video, further facilitating sharing. Transcripts are thus easier for other scholars to use to evaluate the findings in your written products,
 or to pursue their own intellectual objectives.
 
 Transcribing is resource intensive, however, no matter how you go about it. You may wish to consider alternatives to transcribing. For instance,
@@ -102,7 +102,7 @@ There are three main types of software you might employ:
 
 There are many products of each type. Here are some criteria to keep in mind as you consider different options:
 -   Which version of the software / tool has the functionality that you need (the “free trial” or “basic version” may not)?
--   Is the software proficient in the language in your audio / video recordings were made?
+-   Is the software proficient in the language in which your audio / video recordings were made?
 -   How much does the version of the software / tool that would be useful for your purposes cost?
 -   Does the software work on your computer’s operating system?
 -   Does the software / tool import audio / video files in the format in which you have them?
@@ -146,8 +146,8 @@ translate the transcripts. However, you will generally end up with better transc
 
 Typically you’ll translate into your native language and/or the language in which you’re writing the article or book resulting from the research. You might want to translate because:
 -   You had proxies engage in your interactive data collection because you don't speak the language in which the exchange occurred.
--   Having translations of your tra nscripts will make them easier for you to use as the evidentiary base for your research product.
--   You want to expand the population of potential secondary users for the fruits of your data-collection efforts if you translate those fruits into an additional language.
+-   Having translations of your transcripts will make them easier for you to use as the evidentiary base for your research product.
+-   You want to expand the population of potential secondary users for the fruits of your data-collection efforts by translating those fruits into an additional language.
 
 Keep in mind that it may not be necessary for you to translate completely all of your transcripts even if you are creating your research products in a different language from your transcripts. If you are fully proficient in the languages in which you conducted data collection, you may be able to interact efficiently with the transcripts -- read, recall, and analyze -- without translating them. Alternatively, you may translate only a subset of the transcripts, or possibly simply translate the excerpts that you ultimately use in your research product. You should proceed in whatever way will allow you to maximize the utility and evidentiary potential of your exchanges with human participants while being mindful of the time translation will take you.
 

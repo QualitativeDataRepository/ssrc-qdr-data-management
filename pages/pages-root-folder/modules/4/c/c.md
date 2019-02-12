@@ -10,7 +10,7 @@ categories: [module4,modulecontent,hasexercises]
 permalink: "/modules/4/c/"
 next: false 
 previous: "/modules/4/b/"
-description: "When you use other researcher' data, you should cite it. Why is this so important? And how do you properly cite data?"
+description: "When you use other researchers' data, you should cite it. Why is this so important? And how do you properly cite data?"
 learningobjectives:
     - Why citing data is important in scientific writing
     - The main components of a data citation

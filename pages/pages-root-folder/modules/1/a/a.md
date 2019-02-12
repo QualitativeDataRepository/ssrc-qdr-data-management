@@ -37,12 +37,12 @@ Services: International Digital Library Perspectives*. 23: 35-53.
 
 As you think through the organization and management of your research
 data, keep this cycle in mind (or even physically in
-front of you: here is as pdf version to print out). Let’s begin with
+front of you: here is [a pdf version]({{ site.baseurl }}/files/data-lifecycle.pdf) to print out). Let’s begin with
 some questions about the data lifecycle.
 
 {% include _exercise.html exerciseid="1" %}
 
-## Data Lifeycle and Research Lifecycle
+## Data Lifecycle and Research Lifecycle
 
  We introduce the concept of a research project lifecycle (from project design to funding application to research to publication) and the attendant research data lifecycle. This data lifecycle, we demonstrate, tracks the research project lifecycle and also extends beyond the publications of articles or books to ensure the independent existence, accessibility, discoverability and longevity of all of the data generated in association with a research project. Finally, we consider the various benefits of effective data management – to the researcher personally, to other potential users, and to the broader social science community.
 

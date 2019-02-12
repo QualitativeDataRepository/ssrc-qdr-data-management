@@ -14,7 +14,7 @@ description: "What are some of the benefits and challenges you may encounter whe
 learningobjectives:
 -   Some of the key questions you’ll need to ask yourself as you consider sharing your research data
 -   Some benefits and some challenges of sharing research data
--   How different organizations in the academic ecosystem influence when, where, and how you share your research data.
+-   How different organizations in the academic ecosystem influence when, where, and how you share your research data
 initialquestions:
 -   Have you ever shared any of your data?
 -   Have you ever used data shared by other researchers? If so, was it easy or difficult to access the data? How easy was it to use the data?

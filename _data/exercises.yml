@@ -17,15 +17,15 @@
         This will depend on your research but here are some possible activities in each category
       subanswers:
         - subanswer: >
-            *Discovery and Planning:* design research; review literature, identify existing data; apply for funding; hire research team; plan data security and backups; plan informed consent. apply for IRB.
+            *Discovery and Planning:* design research; review literature, identify existing data; apply for funding; hire research team; plan data security and backups; plan informed consent; apply for IRB.
         - subanswer: >
             *Initial Data Collection:* identifying participants / interviewees / archives, etc. collect data; document data; store and back-up data; identify additional data needed.
         - subanswer: >
             *Final Data Preparation and Analysis:* collect additional data; convert data for analysis (OCR, transcription, etc.); read, annotate, analyze using software.
         - subanswer: >
-            *Publication and Sharing*: write! Finalized documentation; de-identify data if needed; deposit with data with repository, publicize through social media, e-mail, etc.
+            *Publication and Sharing*: write! Finalized documentation; de-identify data if needed; deposit data with repository; publicize through social media, e-mail, etc.
         - subanswer: >
-            *Long-term Management*: Handled by data repository.
+            *Long-term Management*: handled by data repository.
 - title: "Limitations of the Lifecycle Model"
   id: 2
   module: "1a"
@@ -35,24 +35,24 @@
         What are some of the limitations of how well the data lifecycle model represents actual research, especially as you think about qualitative research?
   solution:
     - answer: >
-        Like every model, the data lifecycle glosses over details. For example, there often won’t be a neat distinction between planning, initial, and final data collection. You may also find that you go back between research and writing/publication. For example, scholars would frequently conduct additional research between dissertation  and the book resulting from the dissertation. Arguabl y many of this applies particularly strongly to qua litative  research. In many qualitative traditions, researchers  go back and forth between data and theory. The lifecycl e  paints to neat a picture of that. As you use it as a  planning device, make sure to account for such “back-and  forth.”
-- title: "Using the Data Lifeycle for Planning"
+        Like every model, the data lifecycle glosses over details. For example, there often won’t be a neat distinction between planning, initial, and final data collection. You may also find that you go back between research and writing/publication. For example, scholars would frequently conduct additional research between dissertation  and the book resulting from the dissertation. Arguably, many of this applies particularly strongly to qualitative research. In many qualitative traditions, researchers  go back and forth between data and theory. The lifecycle  paints too neat a picture of that. As you use it as a planning device, make sure to account for such “back-and-forth.”
+- title: "Using the Data Lifecycle for Planning"
   id: 3
   module: "1b"
 #  description: "This is a test exercise with SUBSUBANSWERS"
   content:
     - question: >
-        Using a depiction of the data lifecycle (you can draw one per hand or download and print a PDF version from [here](https://qualitativedatarepository.github.io/ssrc-qdr-data-management/files/data-lifecycle.pdf)), mark at every point in the lifecycle which data management and/or data management planning steps you should take. Remember you already did some related work in an exercise in the last lesson.
+        Using a depiction of the data lifecycle (you can draw one by hand or download and print a PDF version from [here](https://managing-qualitative-data.org/files/data-lifecycle.pdf)), mark at every point in the lifecycle which data management and/or data management planning steps you should take. Remember you already did some related work in an exercise in the last lesson.
   solution:
     - answer: >
-       The details will of course depend on your individual solution, but the image below gives you some ideas of which steps may occur at which point in the data lifecycle. ![Lifeycle with interventions](https://qualitativedatarepository.github.io/ssrc-qdr-data-management/images/lifecycle-interventions.png)
+       The details will of course depend on your individual solution, but the image below gives you some ideas of which steps may occur at which point in the data lifecycle. ![Lifeycle with interventions](https://managing-qualitative-data.org/images/lifecycle-interventions.png)
 - title: "Using the DMP Tool"
   id: 4
   module: "1c"
 #  description: "This is a test exercise with SUBSUBANSWERS"
   content:
     - question: >
-        Create an account for the DMP Tool (if possible through your university) and write a very brief data management plan. You plan does not need to be very detailed (for now) – the goal is to get a sense of the tool.
+        Create an account for the DMP Tool (if possible through your university) and write a very brief data management plan. Your plan does not need to be very detailed (for now) – the goal is to get a sense of the tool.
   solution:
     - answer: >
         Go to [https://dmptool.org/](https://dmptool.org/), click on "Get started" and select your institution on the next screen. Then click “Create New DMP” and use a template. We suggest the NSF’s Social, Behavioral, and Economic Science as a good default, but feel free to pick any funder that seems relevant.
@@ -67,7 +67,7 @@
         As you work through the rubric, try to not just think about what you would improve about the data management plan, but also where the rubric itself might fall short.
   solution:
     - answer: >
-        You can look at a rubric for the Fisher and Nading data management plan that we filled out here. Don’t expect to have the exact same assessment throughout, but look again at areas where you disagree with our assessment.
+        You can look at a rubric for the Fisher and Nading data management plan that we filled out [here](https://managing-qualitative-data.org/files/dmp-rubric-fisher-nading.pdf). Don’t expect to have the exact same assessment throughout, but look again at areas where you disagree with our assessment.
     - answer: >
         The most important weakness of the rubric is that it assesses the mere presence of a topic, not the quality of the response. For example, “I will e-mail my data to interested researchers” would qualify as a full score to question 4.2, but is clearly not a satisfactory answer. Moreover, given NSF’s interest in DMPs, they focus heavily on the sharing and dissemination component, but make little mention of some of the earlier, crucial issues, such as back-up or personnel.
 - title: "Evaluating Informed Consent Language"
@@ -94,6 +94,10 @@
         Now spend some time with writing or editing your own consent script. Reassure your participants that their data is safe, but do not preclude the sharing of data. If working in a group, exchange scripts with a partner.
   solution:
     - answer: >
+        Read through your consent script (or that of your partner if working in a group) and consider some of the following:
+            - Is the language easy to understand for the targe audience?
+            - Does the script make clear that the data will be shared?
+            - If there is going to be de-identification involved, do you explain what that entails? Do you avoid overpromising? 
 - title: "Documenting Your Data"
   id: 8
   module: "2a"
@@ -119,7 +123,7 @@
   module: "2b"
   content:
     - question: >
-         Compare [*this data on figshare*](https://doi.org/10.6084/m9.figshare.2008653.v1) with [this data with QDR](https://doi.org/10.5064/F6CN723S). How does  the available documentation / metadata differ? How do these  differences matter?
+         Compare [*these data on figshare*](https://doi.org/10.6084/m9.figshare.2008653.v1) with [these data on QDR](https://doi.org/10.5064/F6CN723S). How does  the available documentation / metadata differ? How do these  differences matter?
   solution:
     - answer: >
         You likely noticed that the QDR project includes more  detailed information about the content and generation of the data  *and* more detailed metadata. Here are some specific differences:
@@ -136,7 +140,7 @@
     - question: >
         Open the master folder for one of your current research projects and candidly assess how clearly and consistently you are naming your folders and files. Consider, for instance, the following:
         
-        -   How many levels of folders do you have -- levels within levels within levels? Are there enough levels, too smany, or too few?
+        -   How many levels of folders do you have -- levels within levels within levels? Are there enough levels, too many, or too few?
         
         -   Can you tell, without opening a folder, what is in it?
         
@@ -147,7 +151,7 @@
         -   If you have multiple versions of particular files, can you tell which is the most current?
         
         
-        Create a new document (clearly named!) that will be a draft of the memo to yourself about the organization and naming of your folders and files. Create the first few bullets under “folder organization and naming” and under “file organization naming” that could serve as instructions to yourself for re-organizing and renaming your folders and files.
+        Create a new document (clearly named!) that will be a draft of the memo to yourself about the organization and naming of your folders and files. Create the first few bullets under “folder organization and naming” and under “file organization and naming” that could serve as instructions to yourself for re-organizing and renaming your folders and files.
   solution:
     - answer: >
         As with many other exercises, this one has no standard solution. The goal is simply for you to begin thinking critically about how you are organizing and naming your folders and files, and to take the first steps toward more optimal organization and naming. If you find that there are some real improvements to make, think about when you will make them, cognizant that changes are much easier to make the earlier you are in your project.
@@ -191,9 +195,7 @@
   module: "2d"
   content:
     - question: >
-         If you have transcripts in a language different from the one in which you will write your research products, translate the transcript that you created in the previous exercise from the original language into the one in which you will write your research product.
-         
-         -   Record your observations / reactions:
+         If you have transcripts in a language different from the one in which you will write your research products, translate the transcript that you created in the previous exercise from the original language into the one in which you will write your research product. Record your observations / reactions:
          
          -   How long did it take you?
          
@@ -229,10 +231,10 @@
   module: "3b"
   content:
     - question: >
-        Read the passage in [this PDF](https://managing-qualitative-data/files/De-identification-exercise.pdf) and then seek to de-identify it as best you can. Begin to create a set of de-identification rules to follow.
+        Read the passage in [this PDF](https://managing-qualitative-data/files/de-identification-exercise.pdf) and then seek to de-identify it as best you can. Begin to create a set of de-identification rules to follow.
   solution:
     - answer: >
-        You can find a [sample de-identification here](https://managing-qualitative-data/files/De-identification-exercise-solution.pdf). Note how we left some specific information such as “Philadelphia” and “South Philadelphia” intact, while replacing other specific information such as years and school names.
+        You can find a [sample de-identification here](https://managing-qualitative-data/files/de-identification-exercise-solution.pdf). Note how we left some specific information such as “Philadelphia” and “South Philadelphia” intact, while replacing other specific information such as years and school names.
         Details of de-identification depend both on what additional context is provided in the interview and what parts are of particular importance to a study, i.e. should not be removed if at all possible.
 - title: "Public Domain or Not?"
   id: 18
@@ -292,7 +294,7 @@
         Find the web site of the repository at your institution and poke around a bit. (If your institution doesn’t seem to have an institutional repository, try to find the institutional repository at another institution that is similar to yours or with which you’re familiar.) Then find the web site of another kind of repository (choosing from one of the categories above) and poke around a bit. What similarities and differences do you notice? 
   solution:
     - answer: >
-        Your answers might concern (1) cost of accessing data or depositing data; (2) focus (on research publications vs. research data); (3) how much published guidance the repository provides for depositors; (4) whether, and what level of, curation services the data repository provides. If you tried to access data, your answers might consider (5) whether you had to become a registered user before seeing any data and)(6) how easy it seems to be to find data in the repository and to deposit data.
+        Your answers might concern (1) cost of accessing data or depositing data; (2) focus (on research publications vs. research data); (3) how much published guidance the repository provides for depositors; (4) whether, and what level of, curation services the data repository provides. If you tried to access data, your answers might consider (5) whether you had to become a registered user before seeing any data and (6) how easy it seems to be to find data in the repository and to deposit data.
 - title: "Can You Find Your Sources?"
   id: 23
   module: "4a"
@@ -307,7 +309,7 @@
   module: "4b"
   content:
     - question: >
-        Using a research product you recently completed, choose three contiguous pages that contain multiple evidence-based claims. Consider how well you were able to substantiate those claims given space-limitations. Try to remember if there was additional information or evidence that you cut as you were revising the piece. Then, seek to annotate a few passages, following the description above and / the [directions here](https://qdr.syr.edu/ati/ati-instructions). Ask yourself what you are gaining -- and if you are losing anything -- through annotation.
+        Using a research product you recently completed, choose three contiguous pages that contain multiple evidence-based claims. Consider how well you were able to substantiate those claims given space-limitations. Try to remember if there was additional information or evidence that you cut as you were revising the piece. Then, seek to annotate a few passages, following the description above and the [directions here](https://qdr.syr.edu/ati/ati-instructions). Ask yourself what you are gaining -- and if you are losing anything -- through annotation.
   solution:
     - answer: >
         Working with another scholar who is familiar with your area of research, give them your original research product (without the annotations, and without mentioning the annotations!) to read. Then ask them to read the version *with* the annotations, and to answer the same questions you asked yourself -- what is gained, and potentially lost, through annotation?

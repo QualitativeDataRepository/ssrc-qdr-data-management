@@ -36,7 +36,7 @@ Nonetheless, all such strategies for achieving openness should:
 -   Make data and analytic information FAIR (findable, accessible, interoperable, and reusable, [Wilkinson et al. 2016](https://doi.org/10.1038/sdata.2016.18))
 -   Address concerns about the ethical and legal complications that constrain openness (protection).
 
-For qualitative research, optimizing proximity entails linking digital data sources (e.g., archival documents, audio-recordings, Interview transcripts, ethnographic field notes) and accompanying materials containing relevant analytic information directly to the relevant passage in a digital publication, and accessible from a journal’s web page (i.e., on the publisher’s platform).
+For qualitative research, optimizing proximity entails linking digital data sources (e.g., archival documents, audio-recordings, interview transcripts, ethnographic field notes) and accompanying materials containing relevant analytic information directly to the relevant passage in a digital publication, and accessible from a journal’s web page (i.e., on the publisher’s platform).
 
 Rendering data and analytic information FAIR entails tasks such as describing them with the proper metadata and assuring their long-term preservation. Data repositories have the expertise and technology to help you to render, and keep, your data FAIR as standards evolve over time.
 
@@ -63,7 +63,7 @@ An “ATI Data Supplement” for a particular manuscript comprises the set of di
 Employing ATI benefits you, and your qualitative inquiry, in several ways. Employing ATI:
 -   permits you to display critical evidence supporting your claims;
 -   encourages you to be more careful and precise when making and supporting evidence-based arguments;
--   helps you to meet transparency standards
+-   helps you to meet transparency standards;
 -   facilitates evaluation of your work by reducing transaction costs for readers who seek more information about how you drew descriptive, causal, or interpretive claims or who wish to investigate whether the information contained in cited sources supports evidence-based claims.
 
 Some models of scholarship that has been annotated using ATI can be found [*here*](https://qdr.syr.edu/ati/ati-models), and more specific directions for using ATI can be found
@@ -73,7 +73,7 @@ Some models of scholarship that has been annotated using ATI can be found [*here
 
 ## Data Appendix 
 
-No matter how you collect and generatedata, production transparency requires you to communicate to readers as much about your data-gathering processes as you can. While your processes were likely varied and intricate, you need to convey them holistically and synthetically, while simultaneously offering sufficient detail for a reader to understand and evaluate what you did. ATI empowers you to give a “macro-representation” of your data collection through the Data Overview, and a “micro-representation” of your data collection through annotations.
+No matter how you collect and generate data, production transparency requires you to communicate to readers as much about your data-gathering processes as you can. While your processes were likely varied and intricate, you need to convey them holistically and synthetically, while simultaneously offering sufficient detail for a reader to understand and evaluate what you did. ATI empowers you to give a “macro-representation” of your data collection through the Data Overview, and a “micro-representation” of your data collection through annotations.
 
 A data appendix offers a “meso-level” representation: an “itemized overview” of respondents, documents, or other data sources, with each described via a structured set of attributes. Your data appendix might include a subset of the data included in your “[data manifest](/modules/4/a#toward-effective-deployment-of-qualitative-data),”  described in the previous lesson, with each item described in more detail. If you didn’t use ATI your appendix should also include a holistic overview of the type you would have written in your ATI Data Overview detailing, e.g., how data sources were chosen. 
 
@@ -107,7 +107,7 @@ interviews given “off the record” or signed consent forms).
 
 ### 3. Keep Memos about Analytic Decisions
 
-As you analyze your data, your CAQDAS tool will help you make your analytic process transparent. Making coding and analysis decision explicit in memos will help readers to evaluate your conclusions, and also help secondary users to better understand the application of given codes in your data.
+As you analyze your data, your CAQDAS tool will help you make your analytic process transparent. Making coding and analysis decisions explicit in memos will help readers to evaluate your conclusions, and also help secondary users to better understand the application of given codes in your data.
 
 ### 4. Preparing Your Data for Sharing
 
@@ -115,12 +115,11 @@ Make a copy of your project and delete any information you do not want to share,
 
 ### 5. Exporting Your Data for Sharing
 
-One of the challenges of sharing CAQDAS-produced data is that every software product has its own, typically proprietary, export format. These formats do not travel between software, may change between software versions, and are thus problematic for sharing and arching.
+One of the challenges of sharing CAQDAS-produced data is that every software product has its own, typically proprietary, export format. These formats do not travel between software, may change between software versions, and are thus problematic for sharing and archiving.
 
-One solution is to share data in two different forms. The first form is the raw full export from your software. Once your data are prepared for sharing, first export the whole project into your software’s dedicated export format (e.g., .nvp for NVivo, “Export Data” for Dedoose, or XXX for atlas.ti). Then, create a second “human-readable” export that anyone, regardless of software, can use: Export all relevant files in widely used formats (such as RTF, PDF, Excel, as well as widely used video, image, and audio formats). Also export all relevant memos as RTF or PDF files.
+One solution is to share data in two different forms. The first form is the raw full export from your software. Once your data are prepared for sharing, first export the whole project into your software’s dedicated export format (e.g., .nvp for NVivo, “Export Data” for Dedoose, or "copy bundle" for atlas.ti). Then, create a second “human-readable” export that anyone, regardless of software, can use: Export all relevant files in widely used formats (such as RTF, PDF, Excel, as well as widely used video, image, and audio formats). Also export all relevant memos as RTF or PDF files.
 
-As of this writing, efforts are underway to provide a standardized format for exchange between different CAQDAS software products
-(http://qdasoftware.org). As this exchange format matures and becomes more widely available, we expect it to replace some of these recommendations.
+As of this writing, efforts are underway to provide [a standardized format](http://qdasoftware.org) for exchange between different CAQDAS software products. As this exchange format matures and becomes more widely available, we expect it to replace some of these recommendations.
 
 Further Reading 
 ----------------

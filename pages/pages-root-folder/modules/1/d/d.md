@@ -29,7 +29,7 @@ initialquestions:
 Informed consent is at the heart of ethical research with human
 participants. Whenever your research involves human participants, you
 need to make sure they *consent* to being part of your research, and
-they fully understand, are *informed *about, what this participation
+they fully understand, are *informed* about, what this participation
 entails. This is an ethical requirement for social science researchers.
 In the US, it is also a legal requirement, mandated by guidelines from
 the federal government. This course does not replace a course about
@@ -127,7 +127,7 @@ are truly anonymous.
 
 ## Re-consenting Participants
 
-What can you do if you have already interviewed participants, want to share interview data, but used **consent** language that prevents your from sharing?
+What can you do if you have already interviewed participants, want to share interview data, but used **consent** language that prevents you from sharing?
 Often, the answer to this question is, sadly, nothing. But where you
 have good rapport with your participants and you are able to get in
 touch with them with relative ease, it is possible to retroactively ask
