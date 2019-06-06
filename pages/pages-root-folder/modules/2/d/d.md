@@ -35,7 +35,7 @@ After a scholar deposits a dataset in a data repository, the repository frequent
 information such as variable labels is added to files, files that are not suitable for sharing (e.g., due to sensitivity) are removed (in consultation with the depositor), etc. A repository engaging in these sorts of transformations enhances the integrity and usefulness of the data. Yet at the same time, transforming data makes archivists very nervous: mistakes can cause irreparable damage.
 
 The Library of Congress (LoC) clearly and succinctly lays out its
-[*principles for reformatting*](https://www.loc.gov/preservation/about/prd/presdig/presprinciple.html)
+[*principles for reformatting*](https://www.loc.gov/preservation/about/prd/presdig/presprinciple.html){:target="_blank"}
 (an aspect of what we call transformation here), describing the quintessential archival view. An ironclad principle of digital archiving is *to never change or destroy the original files or documents*. You can follow this principle in your own work as well:
 -   If you convert your images to PDF files and run character recognition on them, *store the original images*, even if you may never consult them again.
 -   If you want to convert your interviews to take up less disk space on your laptop, *store the original files on an external hard disk*.
@@ -57,14 +57,14 @@ Begin with a good tripod or table mount that allows you to stabilize your camera
 
 #### Phone vs. Camera
 
-Cell phone cameras can be excellent replacements for digital cameras, and the quality of cell phone cameras is constantly improving. Moreover, dedicated scanner apps on your phone allow you to convert images into multi-page PDFs on the fly, reducing storage space and the time you will later need to assemble PDFs. These advantages do come at a cost in quality, especially if you’re photographing faded documents and/or have to operate in poor lighting conditions. See [*this discussion by Cornell University Library*](https://guides.library.cornell.edu/c.php?g=31776&p=1375333) for more. Still, most social scientists find using a phone the most practical solution.
+Cell phone cameras can be excellent replacements for digital cameras, and the quality of cell phone cameras is constantly improving. Moreover, dedicated scanner apps on your phone allow you to convert images into multi-page PDFs on the fly, reducing storage space and the time you will later need to assemble PDFs. These advantages do come at a cost in quality, especially if you’re photographing faded documents and/or have to operate in poor lighting conditions. See [*this discussion by Cornell University Library*](https://guides.library.cornell.edu/c.php?g=31776&p=1375333){:target="_blank"} for more. Still, most social scientists find using a phone the most practical solution.
 
 #### PDF and Optical Character Recognition (OCR)
 
 If you saved individual images from your camera, you will likely want to assemble them into PDF documents (with all the images from a particular archival document in one PDF). Doing so will make it easier for you to manage the images, and allow you to annotate them, and possibly OCR them, down the line. If you have access to Adobe Acrobat Pro, you can easily select any number of images and convert them into a single PDF. Alternatively, there are numerous free online tools as well as the
-“[*Image Magick*](https://imagemagick.org/script/convert.php)” commandline utility that provide the same functionality.
+“[*Image Magick*](https://imagemagick.org/script/convert.php){:target="_blank"}” commandline utility that provide the same functionality.
 
-Optical Character Recognition (OCR) turns a scanned image file into computer-readable (and thus searchable, and copyable) text. Especially if you are working with large amounts of archival documents, being able to search for terms across all of them is invaluable. [*OCR tools*](https://www.techradar.com/news/best-ocr-software) rely on high-quality images to allow them to properly recognize characters. Available tools also vary in quality. We recommend you test several OCR solutions before settling on the one you’ll integrate into your toolchain.
+Optical Character Recognition (OCR) turns a scanned image file into computer-readable (and thus searchable, and copyable) text. Especially if you are working with large amounts of archival documents, being able to search for terms across all of them is invaluable. [*OCR tools*](https://www.techradar.com/news/best-ocr-software){:target="_blank"} rely on high-quality images to allow them to properly recognize characters. Available tools also vary in quality. We recommend you test several OCR solutions before settling on the one you’ll integrate into your toolchain.
 
 {% include _exercise.html exerciseid="13" %}
 
@@ -81,7 +81,7 @@ You may do so for your own purposes, as in these examples:
 -   You plan to engage in content or discourse analysis and the precise language and wording that your human participants employed are integral to your study;
 -   You plan to analyze your data using Computer-Assisted Qualitative Data Analysis Software (CAQDAS), which requires textual inputs.
 
-Alternatively, you may transcribe your audio / video recordings because the data are more accessible to other scholars -- indexable, searchable -- when they are in textual rather than audio or video form. Transcribed data can be more readily [*de-identified*](/modules/3/b/#de-identifying-data) than audio or video, further facilitating sharing. Transcripts are thus easier for other scholars to use to evaluate the findings in your written products,
+Alternatively, you may transcribe your audio / video recordings because the data are more accessible to other scholars -- indexable, searchable -- when they are in textual rather than audio or video form. Transcribed data can be more readily [*de-identified*](/modules/3/b/#de-identifying-data){:target="_blank"} than audio or video, further facilitating sharing. Transcripts are thus easier for other scholars to use to evaluate the findings in your written products,
 or to pursue their own intellectual objectives.
 
 Transcribing is resource intensive, however, no matter how you go about it. You may wish to consider alternatives to transcribing. For instance,
@@ -98,7 +98,7 @@ You may decide to transcribe your audio / video recordings yourself. Doing so al
 There are three main types of software you might employ:
 -   Dictation (“speech to text”) software (such as “Dragon Naturally Speaking”), which allows you to “re-speak” the exchanges from your audio or video recording, leading to a text transcript (the re-speaking is necessary because you train the software to understand your voice and diction)
 -   Transcription software, which allows you to upload audio / video recordings onto your computer and play them back (with easy stop / pause functionality) while you simultaneously type what you hear into a text document.
--   Automatic transcription tools [that allow you to post audio or video recordings to a web site that converts them into text.](https://www.poynter.org/tech-tools/2017/the-best-automatic-transcription-tools-for-journalists/)
+-   Automatic transcription tools [that allow you to post audio or video recordings to a web site that converts them into text.](https://www.poynter.org/tech-tools/2017/the-best-automatic-transcription-tools-for-journalists/){:target="_blank"}
 
 There are many products of each type. Here are some criteria to keep in mind as you consider different options:
 -   Which version of the software / tool has the functionality that you need (the “free trial” or “basic version” may not)?
@@ -160,5 +160,5 @@ If you choose to translate your transcripts yourself, you may choose to employ t
 ## Further Resources
 
 - University of Illinois Library: Digital Historian Series: Using Digital Tools for Archival Research,
-[*https://guides.library.illinois.edu/c.php?g=348155&p=2346513*](https://guides.library.illinois.edu/c.php?g=348155&p=2346513)
-- The Best Automatic Transcription Tools for Journalists [*https://www.poynter.org/tech-tools/2017/the-best-automatic-transcription-tools-for-journalists/*](https://www.poynter.org/tech-tools/2017/the-best-automatic-transcription-tools-for-journalists/)
+[*https://guides.library.illinois.edu/c.php?g=348155&p=2346513*](https://guides.library.illinois.edu/c.php?g=348155&p=2346513){:target="_blank"}
+- The Best Automatic Transcription Tools for Journalists [*https://www.poynter.org/tech-tools/2017/the-best-automatic-transcription-tools-for-journalists/*](https://www.poynter.org/tech-tools/2017/the-best-automatic-transcription-tools-for-journalists/){:target="_blank"}

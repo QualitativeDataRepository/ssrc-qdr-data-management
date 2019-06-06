@@ -102,7 +102,7 @@ Such restrictions can be adequate for sensitive, identifiable data, such
 as audio-recordings or sensitive interviews. They are almost always in
 order for the keys which allow you to re-identify subjects from numbers
 or pseudonyms. However, you should, wherever ethically possible, allow
-for sharing of de-identified data. You can do so very explicitly.  Consider, for example, this language recently developed by Cornell University's [Institutional Review Board](https://www.irb.cornell.edu/forms/#dThree):
+for sharing of de-identified data. You can do so very explicitly.  Consider, for example, this language recently developed by Cornell University's [Institutional Review Board](https://www.irb.cornell.edu/forms/#dThree){:target="_blank"}:
 
 “De-identified data from this study may be shared with the research
 community at large to advance science and health. We will remove or code
@@ -111,7 +111,7 @@ with other researchers.”
 
 Alternatively, you can mention the possibility of sharing of data in the
 context of de-identification, as in this version [*suggested by
-ICPSR*](https://www.icpsr.umich.edu/icpsrweb/content/deposit/guide/):
+ICPSR*](https://www.icpsr.umich.edu/icpsrweb/content/deposit/guide/){:target="_blank"}:
 
 “Any personal information that could identify you will be removed or
 changed before files are shared with other researchers or results are

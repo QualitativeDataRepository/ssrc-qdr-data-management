@@ -35,7 +35,6 @@ $modulesplashimageurl: "{{ site.url }}{{ site.baseurl }}{{ site.modulesplashimag
 @import "foundation-components/sub-nav";
 @import "foundation-components/tables";
 @import "foundation-components/thumbs";
-@import "foundation-components/top-bar";
 @import "foundation-components/type";
 @import "foundation-components/visibility";
 
@@ -49,3 +48,44 @@ $modulesplashimageurl: "{{ site.url }}{{ site.baseurl }}{{ site.modulesplashimag
 {% endif %}
 
 @import "11_syntax-highlighting.scss";
+
+.dropdown li:not(.has-form):not(.active) > a:not(.button)::after{
+  display: none;
+}
+.dropdown li:hover:not(.has-form):not(.active) > a:not(.button)::after{
+  display: inline-block;
+}
+.dropdown li:not(.has-form):not(.active) > span:not(.button)::after{
+  display: none;
+}
+.dropdown li:hover:not(.has-form):not(.active) > span:not(.button)::after{
+  display: inline-block;
+}
+
+.dropdown .dropdown li:not(.has-form):not(.active) > a:not(.button){
+  background-color: $grey-8;
+}
+.dropdown .dropdown li:not(.has-form):not(.active) > span:not(.button){
+  background-color: $grey-8;
+}
+#frontsplash{
+  #sitetitle {
+    max-width:10em;
+  }
+}
+
+blockquote{
+  border-left: solid 4px $grey-11;
+  margin: 0;
+  padding: 0.5em;
+  background: $grey-1;
+  &:before {
+    content:"";
+  }
+  &:after {
+    content:"";
+  }
+  p{
+    margin: 0;
+  }
+}

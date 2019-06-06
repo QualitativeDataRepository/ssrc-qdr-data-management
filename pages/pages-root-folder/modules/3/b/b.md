@@ -28,7 +28,7 @@ initialquestions:
 
 Qualitative researchers often work closely with human participants, conducting in-depth interviews, focus groups, and oral histories, or engaging in participant observation and ethnography. Most social scientists feel a profound ethical obligation to their participants, and  responsibility for ensuring that their research does not negatively impact these individuals. Sharing data generated through human participants research can expose your participants to additional risk, however. As a result, you need to take special care when you share such data to be sure that you do so ethically and legally.
 
-According to the [1979 Belmont Report](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html), three key principles create the conditions for ethical research:
+According to the [1979 Belmont Report](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html){:target="_blank"}, three key principles create the conditions for ethical research:
 
 -   *Respect* – Showing respect for the personal autonomy and agency of your research participants.
 -   *Beneficence* – Seeking a balance between minimizing potential risks to individual participants and to society while maximizing benefits to both.
@@ -45,7 +45,7 @@ As part of obtaining informed consent, we frequently assure interview respondent
 ### Direct and Indirect Identifiers
 
 - All de-identification begins with removing “**direct identifiers**” (i.e., pieces of information that are sufficient, on their own, to disclose an identity), such as proper names, addresses, and phone numbers. This is typically straightforward.
-- “**Indirect identifiers**” consist of contextual information that can be used, often combined with other information, to identify a participant. For example, [*in a seminal paper*](https://dataprivacylab.org/projects/identifiability/), Latanya Sweeney showed that almost 90% of the US population could be identified based on their zip code, date of birth, and gender; even using place (like city or municipality) instead of zip code still allows more than 50% of the population to be uniquely identified. Such indirect identifiers are often found throughout rich, qualitative data and need to be handled with great care.
+- “**Indirect identifiers**” consist of contextual information that can be used, often combined with other information, to identify a participant. For example, [*in a seminal paper*](https://dataprivacylab.org/projects/identifiability/){:target="_blank"}, Latanya Sweeney showed that almost 90% of the US population could be identified based on their zip code, date of birth, and gender; even using place (like city or municipality) instead of zip code still allows more than 50% of the population to be uniquely identified. Such indirect identifiers are often found throughout rich, qualitative data and need to be handled with great care.
 
 ### De-identification Practices
 
@@ -55,7 +55,7 @@ Some good practices will make de-identifying responses from your human participa
 -   **Do** plan on engaging in de-identification soon after your interactions with your human participants, marking up elements that require redaction during transcription and/or analysis.
 -   **Do** clearly and consistently indicate any changes you make to the original file, e.g., by placing square brackets around passages that have been changed.
 -   **Do not** redact xxxxxx or remove \[...\] names and locations. Instead, you could use pseudonyms. Alternatively, you could use  aggregate nouns (e.g., refer to the state in which an individual  lives rather than the town or county) or categories (e.g., “...  was born in \[1975-1980\]” instead of 1977). **Do** keep linkages  in your data intact by applying pseudonyms, aggregate nouns, and  categories consistently.
--   **Do** keep a list of de-identification rules, both for yourself, or  for your team should you collaborate. This list serves as  important documentation when you share your data. See for example  the [protocol used by Thad Dunning and Edward Camp](https://doi.org/10.5064/F6Z60KZB/0NR0VZ) to de-identify data deposited with the Qualitative Data Repository. This document is  separate from the actual key that links de-identified entries to  the original individuals or entities, which should not be included  when you share your data.
+-   **Do** keep a list of de-identification rules, both for yourself, or  for your team should you collaborate. This list serves as  important documentation when you share your data. See for example  the [protocol used by Thad Dunning and Edward Camp](https://doi.org/10.5064/F6Z60KZB/0NR0VZ){:target="_blank"} to de-identify data deposited with the Qualitative Data Repository. This document is  separate from the actual key that links de-identified entries to  the original individuals or entities, which should not be included  when you share your data.
 -   **Do** check the document properties of files, which may contain identifiers such as original file names identifying interview respondents.
 -   Finally, **do** strike a balance between keeping your participants’ information confidential and unnecessarily reducing the analytic value of the data by removing too much information.
 
@@ -77,7 +77,7 @@ Not everything can be de-identified. If you interview a US Supreme Court justice
 As we note above, complete de-identification is often impossible. As such, de-identification, on its own, might be insufficient to protect the identity of human participants. In order to share their contributions to your research project more broadly in an ethical way, additional steps are needed, such as controlling *who* can access the data, *how* they can do so, and *when*. When you store your data in a trusted digital repository, you can request that various types of restrictions be placed on their access (unless a funder specifically and strictly prohibits this). Access controls are sometimes mistakenly viewed negatively as restrictions. In reality, they allow you to share data that would otherwise remain entirely inaccessible. That is, they allow research to be 
 >as open as possible, as closed as necessary 
 
-(as the European Union’s [*Horizon2020 guidelines*](https://ec.europa.eu/research/openscience/pdf/openaccess/ord_extension_faqs.pdf) for research aptly put it).
+(as the European Union’s [*Horizon2020 guidelines*](https://ec.europa.eu/research/openscience/pdf/openaccess/ord_extension_faqs.pdf){:target="_blank"} for research aptly put it).
 
 ### Types of Access Controls
 
@@ -99,8 +99,8 @@ Choosing access controls should typically be done in consultation with a special
 
 ## Resources
 
--   Mosley, Layna. 2013. [*Interview Research in Political Science*](http://www.cornellpress.cornell.edu/book/?GCOI=80140100891800). Cornell University Press.
--   Further [guidance on de-identifying data](https://qdr.syr.edu/guidance/human-participants/deidentification) on QDR.
--   Guidance on [de-identifying qualitative data](https://www.ukdataservice.ac.uk/manage-data/legal-ethical/anonymisation/qualitative) by the UK Data Archive.
--   ICPSR’s [guidance on data sharing](https://www.icpsr.umich.edu/icpsrweb/content/deposit/guide/chapter5.html)
+-   Mosley, Layna. 2013. [*Interview Research in Political Science*](http://www.cornellpress.cornell.edu/book/?GCOI=80140100891800){:target="_blank"}. Cornell University Press.
+-   Further [guidance on de-identifying data](https://qdr.syr.edu/guidance/human-participants/deidentification){:target="_blank"} on QDR.
+-   Guidance on [de-identifying qualitative data](https://www.ukdataservice.ac.uk/manage-data/legal-ethical/anonymisation/qualitative){:target="_blank"} by the UK Data Archive.
+-   ICPSR’s [guidance on data sharing](https://www.icpsr.umich.edu/icpsrweb/content/deposit/guide/chapter5.html){:target="_blank"}
 ). Note in particular the section on data enclaves at the end.

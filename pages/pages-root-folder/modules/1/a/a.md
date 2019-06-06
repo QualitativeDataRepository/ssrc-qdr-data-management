@@ -33,11 +33,11 @@ Based on: Green, Ann G., and Myron P. Gutmann. (2007) “Building
 Partnerships among Social Science Researchers, Institution-based
 Repositories, and Domain Specific Data Archives.” *OCLC Systems and
 Services: International Digital Library Perspectives*. 23: 35-53.
-<http://doi.org/10.1108/10650750710720757>
+[http://doi.org/10.1108/10650750710720757](http://doi.org/10.1108/10650750710720757){:target="_blank"}
 
 As you think through the organization and management of your research
 data, keep this cycle in mind (or even physically in
-front of you: here is [a pdf version]({{ site.baseurl }}/files/data-lifecycle.pdf) to print out). Let’s begin with
+front of you: here is [a pdf version]({{ site.baseurl }}/files/data-lifecycle.pdf){:target="_blank"} to print out). Let’s begin with
 some questions about the data lifecycle.
 
 {% include _exercise.html exerciseid="1" %}

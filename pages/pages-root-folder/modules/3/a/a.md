@@ -41,11 +41,11 @@ A fundamental question not included in the list of questions above is *why*. Why
 First, let’s consider your point of view, as the researcher who generated the data. Sharing your data:
 
 -   Helps you comply with external mandates:
-    -   Scholarly associations may have recommendations or guidelines about data sharing. In the US, this is the case for many social science associations including the [American Sociological Association (ASA)](http://www.asanet.org/sites/default/files/asa_code_of_ethics-june2018.pdf), the [American Political Science Association (APSA)](http://www.apsanet.org/portals/54/Files/Publications/APSAEthicsGuide2012.pdf),
-    and the [American Psychological Association (APA)](http://www.apa.org/ethics/code/).
+    -   Scholarly associations may have recommendations or guidelines about data sharing. In the US, this is the case for many social science associations including the [American Sociological Association (ASA)](http://www.asanet.org/sites/default/files/asa_code_of_ethics-june2018.pdf){:target="_blank"}, the [American Political Science Association (APSA)](http://www.apsanet.org/portals/54/Files/Publications/APSAEthicsGuide2012.pdf){:target="_blank"},
+    and the [American Psychological Association (APA)](http://www.apa.org/ethics/code/){:target="_blank"}.
     -   The organization(s) that funded your work may require that you share the fruits of your research with the broader scholarly community; indeed, you may have to describe your plans in a [Data Management Plan]({{site.baseurl}}/modules/1/c/) that you submit with your funding application.
     -   Journals may require that you make your published work transparent by sharing the data that undergird it.
-        -   For instance, more than 25 political science journal editors have signed “[JETS](https://www.dartstatement.org/2014-journal-editors-statement-jets)” – the Journal Editors Transparency Statement – supporting the development of transparency requirements.
+        -   For instance, more than 25 political science journal editors have signed “[JETS](https://www.dartstatement.org/2014-journal-editors-statement-jets){:target="_blank"}” – the Journal Editors Transparency Statement – supporting the development of transparency requirements.
 -   Provides for long-term safe storage for your data (if you deposit them in a repository).
 -   Helps you demonstrate the rigor and power of your analysis.
 -   Increases the visibility of your work and potentially your citation rates, enhancing your reputation.
@@ -95,9 +95,9 @@ Given qualitative scholars’ traditional hesitance to share their research data
     -   You may have purchased your data under a licensing agreement that stipulated that they cannot be made public.
  
 These concerns and challenges are important to consider and address. Many of the stickiest challenges relate to human participants and legal constraints, and to copyright in particular. The next two lessons in this module offer guidance on addressing those concerns. Overall, however, it’s important to keep in mind that most general guidelines on sharing data, such as those offered by various social science academic associations (e.g., [ASA
-2018](http://www.asanet.org/sites/default/files/asa_code_of_ethics-june2018.pdf),
+2018](http://www.asanet.org/sites/default/files/asa_code_of_ethics-june2018.pdf){:target="_blank"},
 [APSA
-2012](http://www.apsanet.org/portals/54/Files/Publications/APSAEthicsGuide2012.pdf),
-[APA 2016](http://www.apa.org/ethics/code/)), take into account that you may not be able to share all of your data and simply require that you explain why you cannot share the data that you cannot share. Funding organizations and journals in various disciplines have likewise adopted these caveats.
+2012](http://www.apsanet.org/portals/54/Files/Publications/APSAEthicsGuide2012.pdf){:target="_blank"},
+[APA 2016](http://www.apa.org/ethics/code/){:target="_blank"}), take into account that you may not be able to share all of your data and simply require that you explain why you cannot share the data that you cannot share. Funding organizations and journals in various disciplines have likewise adopted these caveats.
 
 {% include _exercise.html exerciseid="16" %}
