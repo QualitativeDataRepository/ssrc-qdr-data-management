@@ -65,7 +65,7 @@ have listed some at the end of this lesson. Here we would like you to
 take a close look at two resources.
 
 At QDR, we have provided a [*data management
-checklist*](https://qdr.syr.edu/drupal_data/public/QDR%20-%20Data%20Management%20Checklist.pdf),
+checklist*](https://qdr.syr.edu/drupal_data/public/QDR%20-%20Data%20Management%20Checklist.pdf){:target="_blank"},
 specifically designed for qualitative researchers to make sure their
 data management plan covers all important topics. For every topic we
 provide examples, where possible from qualitative research. We also
@@ -75,7 +75,7 @@ guide to writing your DMP or, as the name implies, to check that an
 existing data management plan covers everything it should.
 
 Still, you may find it difficult to start writing such a plan. A useful
-tool for this is the [*DMP Tool*](https://dmptool.org/), produced by the
+tool for this is the [*DMP Tool*](https://dmptool.org/){:target="_blank"}, produced by the
 California Digital Library. The DMP Tool provides a large number of
 templates, based on funder requirements, and helps you to structure your
 DMP according to those templates, guiding you through the process with
@@ -151,28 +151,28 @@ send you automated reminders on key dates specified in the plan. Lastly,
 active DMPs would also let funders check easily that you have complied
 with the promises made in your DMP (and thus your grant application).
 You can read more about this vision in a [*recent
-paper*](http://dx.doi.org/10.2218/ijdc.v12i1.513) by Simms and Jones
+paper*](http://dx.doi.org/10.2218/ijdc.v12i1.513){:target="_blank"} by Simms and Jones
 (2017).
 
 ## Resources
 
 California Digital Library. 2017. DMP Tool.
-[*https://dmptool.org/*](https://dmptool.org/)
+[*https://dmptool.org/*](https://dmptool.org/){:target="_blank"}
 
 Fisher, Josh, and Alex Nading. 2016. “A Political Ecology of Value: A
 Cohort-Based Ethnography of the Environmental Turn in Nicaraguan Urban
 Social Policy.” *Research Ideas and Outcomes* 2 (May):e8720.
-[*https://doi.org/10.3897/rio.2.e8720*](https://doi.org/10.3897/rio.2.e8720).
+[*https://doi.org/10.3897/rio.2.e8720*](https://doi.org/10.3897/rio.2.e8720){:target="_blank"}.
 
 Qualitative Data Repository. 2017. Data Management Checklist.
-[*https://qdr.syr.edu/drupal\_data/public/QDR%20-%20Data%20Management%20Checklist.pdf*](https://qdr.syr.edu/drupal_data/public/QDR%20-%20Data%20Management%20Checklist.pdf)
+[*https://qdr.syr.edu/drupal\_data/public/QDR%20-%20Data%20Management%20Checklist.pdf*](https://qdr.syr.edu/drupal_data/public/QDR%20-%20Data%20Management%20Checklist.pdf){:target="_blank"}
 
 Simms, Stephanie Renee, and Sarah Jones. 2017. “Next-Generation Data
 Management Plans: Global, Machine-Actionable, FAIR.” *International
 Journal of Digital Curation* 12 (1):36–45.
-[https://doi.org/10.2218/ijdc.v12i1.513](https://doi.org/10.2218/ijdc.v12i1.513_).
+[https://doi.org/10.2218/ijdc.v12i1.513](https://doi.org/10.2218/ijdc.v12i1.513_){:target="_blank"}.
 
 Whitmire, Amanda, Jake Carlson, Brian Westra, Patricia Hswe, and Susan
 Parham. 2015. “The DART Project: Using Data Management Plans as a
 Research Tool.” Open Science Framework.
-[*https://doi.org/10.17605/osf.io/kh2y6*](https://doi.org/10.17605/osf.io/kh2y6).
+[*https://doi.org/10.17605/osf.io/kh2y6*](https://doi.org/10.17605/osf.io/kh2y6){:target="_blank"}.

@@ -338,6 +338,29 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
           &.button.alert { @include button-style($bg:$alert-color); }
           &.button.warning { @include button-style($bg:$warning-color); }
         }
+        & > span {
+          display: block;
+          width: 100%;
+          color: $topbar-link-color;
+          padding: 12px 0 12px 0;
+          padding-#{$default-float}: $topbar-link-padding;
+          font-family: $topbar-link-font-family;
+          font-size: $topbar-link-font-size;
+          font-weight: $topbar-link-weight;
+          text-transform: $topbar-link-text-transform;
+          cursor: pointer;
+
+          &.button {
+            font-size: $topbar-link-font-size;
+            padding-#{$opposite-direction}: $topbar-link-padding;
+            padding-#{$default-float}: $topbar-link-padding;
+            @include button-style($bg:$primary-color);
+          }
+          &.button.secondary { @include button-style($bg:$secondary-color); }
+          &.button.success { @include button-style($bg:$success-color); }
+          &.button.alert { @include button-style($bg:$alert-color); }
+          &.button.warning { @include button-style($bg:$warning-color); }
+        }
 
         > button {
           font-size: $topbar-link-font-size;
@@ -359,9 +382,24 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
           }
           color: $topbar-link-color-hover;
         }
+        &:hover:not(.has-form) > span {
+          background-color: $topbar-link-bg-color-hover;
+          @if ($topbar-link-bg-hover) {
+            background: $topbar-link-bg-hover;
+          }
+          color: $topbar-link-color-hover;
+        }
 
         // Apply the active link color when it has that class
         &.active > a {
+          background: $topbar-link-bg-active;
+          color: $topbar-link-color-active;
+          &:hover {
+            background: $topbar-link-bg-active-hover;
+            color: $topbar-link-color-active-hover;
+          }
+        }
+        &.active > span {
           background: $topbar-link-bg-active;
           color: $topbar-link-color-active;
           &:hover {
@@ -390,6 +428,18 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
             #{$opposite-direction}: 0;
           }
         }
+        & > span {
+          &:after {
+            @if ($topbar-arrows){
+              @include css-triangle($topbar-dropdown-toggle-size, rgba($topbar-dropdown-toggle-color, $topbar-dropdown-toggle-alpha), $default-float);
+            }
+            margin-#{$opposite-direction}: $topbar-link-padding;
+            margin-top: -($topbar-dropdown-toggle-size / 2) - 2;
+            position: absolute;
+            top: 50%;
+            #{$opposite-direction}: 0;
+          }
+        }
 
         &.moved { position: static;
           & > .dropdown {
@@ -397,6 +447,9 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
             width: 100%;
           }
           & > a:after {
+            display: none;
+          }
+          & > span:after {
             display: none;
           }
         }
@@ -422,6 +475,13 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
               font-weight: $topbar-link-weight;
             }
           }
+          span {
+            font-weight: $topbar-dropdown-link-weight;
+            padding: 8px $topbar-link-padding;
+            &.parent-link {
+              font-weight: $topbar-link-weight;
+            }
+          }
 
           &.title h5, &.parent-link {
             // Back Button
@@ -429,6 +489,12 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
             margin-top: 0;
             font-size: $topbar-back-link-size;
             a {
+              color: $topbar-link-color;
+              // line-height: ($topbar-height / 2);
+              display: block;
+              &:hover { background:none; }
+            }
+            span {
               color: $topbar-link-color;
               // line-height: ($topbar-height / 2);
               display: block;
@@ -507,9 +573,27 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
               }
               color: $topbar-link-color-hover;
             }
+            > span:not(.button) {
+              background-color: $topbar-link-bg-color-hover;
+              @if ($topbar-link-bg-hover) {
+                background: $topbar-link-bg-hover;
+              }
+              color: $topbar-link-color-hover;
+            }
           }
           &:not(.has-form) {
             a:not(.button) {
+              padding: 0 $topbar-link-padding;
+              line-height: $topbar-height;
+              background: $topbar-link-bg;
+              &:hover {
+                background-color: $topbar-link-bg-color-hover;
+                @if ($topbar-link-bg-hover) {
+                  background: $topbar-link-bg-hover;
+                }
+              }
+            }
+            span:not(.button) {
               padding: 0 $topbar-link-padding;
               line-height: $topbar-height;
               background: $topbar-link-bg;
@@ -532,12 +616,30 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
                 color: $topbar-link-color-active-hover;
               }
             }
+            span:not(.button) {
+              padding: 0 $topbar-link-padding;
+              line-height: $topbar-height;
+              color: $topbar-link-color-active;
+              background: $topbar-link-bg-active;
+              &:hover {
+                background: $topbar-link-bg-active-hover;
+                color: $topbar-link-color-active-hover;
+              }
+            }
           }
         }
 
         .has-dropdown {
           @if($topbar-arrows){
             & > a {
+              padding-#{$opposite-direction}: $topbar-link-padding + $topbar-link-dropdown-padding !important;
+              &:after {
+                @include css-triangle($topbar-dropdown-toggle-size, rgba($topbar-dropdown-toggle-color, $topbar-dropdown-toggle-alpha), top);
+                margin-top: -($topbar-dropdown-toggle-size / 2);
+                top: ($topbar-height / 2);
+              }
+            }
+            & > span {
               padding-#{$opposite-direction}: $topbar-link-padding + $topbar-link-dropdown-padding !important;
               &:after {
                 @include css-triangle($topbar-dropdown-toggle-size, rgba($topbar-dropdown-toggle-color, $topbar-dropdown-toggle-alpha), top);
@@ -561,9 +663,22 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
           > a:focus + .dropdown {
             @include topbar-show-dropdown();
           }
+          > span:focus + .dropdown {
+            @include topbar-show-dropdown();
+          }
 
           .dropdown li.has-dropdown {
             & > a {
+              @if ($topbar-dropdown-arrows){
+                &:after {
+                  @include css-triangle($topbar-dropdown-toggle-size, rgba($topbar-dropdown-toggle-color, $topbar-dropdown-toggle-alpha), left);
+                  #{$opposite-direction}: 5px;
+                  line-height: 1.2;
+                  top:1.43rem;
+                }
+              }
+            }
+            & > span {
               @if ($topbar-dropdown-arrows){
                 &:after {
                   @include css-triangle($topbar-dropdown-toggle-size, rgba($topbar-dropdown-toggle-color, $topbar-dropdown-toggle-alpha), left);
@@ -590,14 +705,32 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
               padding: 12px $topbar-link-padding;
               background: $topbar-dropdown-link-bg;
             }
+            span {
+              color: $topbar-dropdown-link-color;
+              line-height: $topbar-height;
+              white-space: nowrap;
+              padding: 12px $topbar-link-padding;
+              background: $topbar-dropdown-link-bg;
+              cursor: pointer;
+            }
             .dropdown {
               li {
                 &:not(.has-form):not(.active) {
                   & > a:not(.button) {
                     background: $grey-8;
                   }
+                  & > span:not(.button) {
+                    background: $grey-8;
+                  }
                 
                   &:hover > a:not(.button) {
+                    color: $topbar-dropdown-link-color-hover;
+                    background-color: $topbar-link-bg-color-hover;
+                    @if ($topbar-dropdown-link-bg-hover) {
+                      background: $topbar-dropdown-link-bg-hover;
+                    }
+                  }
+                  &:hover > span:not(.button) {
                     color: $topbar-dropdown-link-color-hover;
                     background-color: $topbar-link-bg-color-hover;
                     @if ($topbar-dropdown-link-bg-hover) {
@@ -613,8 +746,19 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
                 color: $topbar-dropdown-link-color;
                 background: $topbar-dropdown-link-bg;
               }
+              & > span:not(.button) {
+                color: $topbar-dropdown-link-color;
+                background: $topbar-dropdown-link-bg;
+              }
 
               &:hover > a:not(.button) {
+                color: $topbar-dropdown-link-color-hover;
+                background-color: $topbar-link-bg-color-hover;
+                @if ($topbar-dropdown-link-bg-hover) {
+                  background: $topbar-dropdown-link-bg-hover;
+                }
+              }
+              &:hover > span:not(.button) {
                 color: $topbar-dropdown-link-color-hover;
                 background-color: $topbar-link-bg-color-hover;
                 @if ($topbar-dropdown-link-bg-hover) {
@@ -683,9 +827,20 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
             }
             color: $topbar-link-color-hover;
           }
+          &:hover > span {
+            background-color: $topbar-link-bg-color-hover;
+            @if ($topbar-link-bg-hover) {
+              background: $topbar-link-bg-hover;
+            }
+            color: $topbar-link-color-hover;
+          }
 
           // Apply the active link color when it has that class
           &:active > a {
+            background: $topbar-link-bg-active;
+            color: $topbar-link-color-active;
+          }
+          &:active > span {
             background: $topbar-link-bg-active;
             color: $topbar-link-color-active;
           }
@@ -700,15 +855,11 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
           > a:focus + .dropdown {
             @include topbar-show-dropdown();
           }
+          > span:focus + .dropdown {
+            @include topbar-show-dropdown();
+          }
         }
       }
     }
   }
-}
-
-.dropdown li:not(.has-form):not(.active) > a:not(.button)::after{
-  display: none;
-}
-.dropdown li:hover:not(.has-form):not(.active) > a:not(.button)::after{
-  display: inline-block;
 }

@@ -49,12 +49,12 @@ Original works without copyright are considered “in the public domain”. That
     domain automatically.
 
 #### Works Released into the Public Domain
-Sometimes authors will choose to release their works into the public domain. One way to do so that’s widely accepted internationally is to use a specific tool, the Creative Commons public domain dedication or [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/). Wherever you see the CC0 logo ![CC0 logo](https://licensebuttons.net/p/zero/1.0/88x31.png), you know the work to which it is attached is in the public domain.
+Sometimes authors will choose to release their works into the public domain. One way to do so that’s widely accepted internationally is to use a specific tool, the Creative Commons public domain dedication or [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/){:target="_blank"}. Wherever you see the CC0 logo ![CC0 logo](https://licensebuttons.net/p/zero/1.0/88x31.png), you know the work to which it is attached is in the public domain.
  
 One common source of work in the public domain is the US federal government. Any work produced by an agent or employee of the US government in the exercise of their duty is not eligible for copyright and is thus in the public domain in the US. (The absence of copyright does not mean the information is *public*, though. Some government documents are, literally, top secret, meaning you likely won’t be able to access them -- but even those are not copyright protected.)
 
 *However,* the same rules do not apply to US state governments or to the governments of other countries. Many countries have some exemption from copyright for official works such as laws and judgements of courts and tribunals, but few go as far as the US in extending that exemption to all government works. Ascertaining the regulations governing works of a particular government can be tricky. The lists compiled by the
-[Wikimedia Commons](https://commons.wikimedia.org/wiki/Commons:Copyright_rules_by_territory) and [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Non-U.S._copyrights) (both organizations rely heavily on such public domain material) are a useful starting point.
+[Wikimedia Commons](https://commons.wikimedia.org/wiki/Commons:Copyright_rules_by_territory){:target="_blank"} and [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Non-U.S._copyrights){:target="_blank"} (both organizations rely heavily on such public domain material) are a useful starting point.
 
 #### Works Whose Copyright Has Expired
 Copyright does not last forever. Depending on whether authorship is known, as well as national law, the duration of copyright may be determined by the death of the creator (running out x number of years later) or the date of publication (i.e., running out on work published x or more years ago). While such rules make the copyright status of historical works quite clear in most countries, US copyright law is exceptionally messy due to multiple legal changes. The only rules that hold without exemption for the US are that
@@ -64,7 +64,7 @@ Copyright does not last forever. Depending on whether authorship is known, as we
 -   works published before 1923 (i.e., 95 or more years ago) are in the
     public domain.
     
- For all other cases, we recommend [this useful chart](https://copyright.cornell.edu/publicdomain) -- you’ll notice this can be quite tricky and many works have gone in and out of copyright repeatedly over the last 50 years. Duke’s Center for the Study of Public Domain has some [fun examples](https://law.duke.edu/cspd/publicdomainday/) and thoughtful commentary. After copyright on a work runs out the work automatically enters the public domain.
+ For all other cases, we recommend [this useful chart](https://copyright.cornell.edu/publicdomain){:target="_blank"} -- you’ll notice this can be quite tricky and many works have gone in and out of copyright repeatedly over the last 50 years. Duke’s Center for the Study of Public Domain has some [fun examples](https://law.duke.edu/cspd/publicdomainday/){:target="_blank"} and thoughtful commentary. After copyright on a work runs out the work automatically enters the public domain.
 
 {% include _exercise.html exerciseid="18" %}
 
@@ -76,7 +76,7 @@ If data you use *are* under copyright, i.e., *not* in the public domain, there m
 All of us routinely use copyrighted work in our research and teaching. We are able to use copyrighted work in this way because we (or someone acting on our behalf) has requested explicit permission from the copyright holder to do so (often a university library paying a license for its patrons to use the work). You may be able to request and secure explicit permission to further disseminate copyrighted work for pedagogical or research purposes from the person or entity who holds copyright.
 
 #### Fair Use
-Alternatively, when we use data that are under copyright, we are sometimes working under a special exception called “fair use,” as outlined in the [*U.S. Copyright Act*](https://www.copyright.gov/title17/92chap1.html) (section 107). “Fair use” represents a limitation on the otherwise exclusive right held by a copyright owner to reproduce an original work. It is a stipulation that, under certain conditions, you can quote verbatim -- without contacting the copyright holder -- brief excerpts of copyrighted material for purposes that are publicly beneficial and not likely to infringe on the copyright holder’s commercial interests. One area of public benefit specifically mentioned in the law is teaching and scholarship.
+Alternatively, when we use data that are under copyright, we are sometimes working under a special exception called “fair use,” as outlined in the [*U.S. Copyright Act*](https://www.copyright.gov/title17/92chap1.html){:target="_blank"} (section 107). “Fair use” represents a limitation on the otherwise exclusive right held by a copyright owner to reproduce an original work. It is a stipulation that, under certain conditions, you can quote verbatim -- without contacting the copyright holder -- brief excerpts of copyrighted material for purposes that are publicly beneficial and not likely to infringe on the copyright holder’s commercial interests. One area of public benefit specifically mentioned in the law is teaching and scholarship.
 
 Fair use determinations are not clear-cut. Whether the re-use of copyrighted material falls under the fair use exemption is determined by considering the original work and the plans for re-use along four dimensions:
 1.  Purpose of re-use,
@@ -84,12 +84,12 @@ Fair use determinations are not clear-cut. Whether the re-use of copyrighted mat
 3.  Amount to be re-used, and
 4.  Expected effect of re-use.
 
-Columbia University libraries have [a useful checklist](https://copyright.columbia.edu/basics/fair-use/fair-use-checklist.html#Fair%20Use%20Checklist) to determine factors weighing for and against fair use claims.
+Columbia University libraries have [a useful checklist](https://copyright.columbia.edu/basics/fair-use/fair-use-checklist.html#Fair%20Use%20Checklist){:target="_blank"} to determine factors weighing for and against fair use claims.
  
 Given the complexities of fair use law, you should solicit the help of a data or library professional if you want to share materials (e.g., newspaper articles or archival materials collected during fieldwork) on the basis of a fair use claim.
 
 ### Licenses: Beyond Copyright
-Copyright is, unfortunately, not the only proprietary constraint that can apply to sharing materials. For instance, if you access content through a database, you will often have to agree to terms and conditions that restrict your usage of materials you obtain. Take for example, the [terms and conditions of Gale](https://www.gale.com/terms-of-use), a database provider that licenses many databases of historical materials to academic institutions:
+Copyright is, unfortunately, not the only proprietary constraint that can apply to sharing materials. For instance, if you access content through a database, you will often have to agree to terms and conditions that restrict your usage of materials you obtain. Take for example, the [terms and conditions of Gale](https://www.gale.com/terms-of-use){:target="_blank"}, a database provider that licenses many databases of historical materials to academic institutions:
 
 >The subscribing institutes ("Customer") and their authorized users, may make a single print, non-electronic copy of a permitted portion of the content for personal, non-commercial, educational purposes only.
 

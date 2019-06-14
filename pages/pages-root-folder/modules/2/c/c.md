@@ -41,7 +41,7 @@ Your folder structure should reflect how you think about your project. Create th
 Similar to folders, there is no single right way to name your files. No matter what convention you adopt, as with your folder structure, we suggest that you develop it at the start of your research project and apply it to your files consistently. Beyond this, we can offer some general advice:
 
 -   Avoid special characters such as :/&@. that can cause problems on some file systems 
--   Avoid overly long filenames, which will cause problems on Windows (25-35 characters + file extension is a [*good rule of thumb*](https://records-express.blogs.archives.gov/2017/08/22/best-practices-for-file-naming/), though don’t worry if you have a few more) 
+-   Avoid overly long filenames, which will cause problems on Windows (25-35 characters + file extension is a [*good rule of thumb*](https://records-express.blogs.archives.gov/2017/08/22/best-practices-for-file-naming/){:target="_blank"}, though don’t worry if you have a few more) 
 -   Have a clear versioning strategy for files; we recommend including the date as YYYY-MM-DD or YYYYMMDD (know as ISO format) in every filename in the same location (e.g., at the beginning or at the end). 
 -   Include organizational and easily identifiable elements such as short titles or locations in filenames
 
@@ -95,9 +95,9 @@ The “Save search” option is particularly useful. This allows you to save a s
 “natural language” requests (powered by the same technology as Siri)
 such as “Show me all images created since May 30th this year”.
 
-Mac’s facility for saving searches is called “[Smart Search](https://www.howtogeek.com/216348/how-to-create-and-use-smart-folders-on-os-x-to-organize-data-on-your-mac/)”. You can create smart folders in the “File” menu of Finder and then add additional search conditions (or change existing ones) at the top of the folder.
+Mac’s facility for saving searches is called “[Smart Search](https://www.howtogeek.com/216348/how-to-create-and-use-smart-folders-on-os-x-to-organize-data-on-your-mac/){:target="_blank"}”. You can create smart folders in the “File” menu of Finder and then add additional search conditions (or change existing ones) at the top of the folder.
 
-Once you have the set of relevant files, a helpful way to impose some order on a disorganized set of poorly named files is a file rename tool. With the free-to-use [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/Main_Intro.php), you can prepend or append text to a set of filenames, can replace words or characters, and carry out many other functions. You can use this to add a consistent structure to file names or to normalize how you’ve named files.
+Once you have the set of relevant files, a helpful way to impose some order on a disorganized set of poorly named files is a file rename tool. With the free-to-use [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/Main_Intro.php){:target="_blank"}, you can prepend or append text to a set of filenames, can replace words or characters, and carry out many other functions. You can use this to add a consistent structure to file names or to normalize how you’ve named files.
 
 ## Keeping Your Data Safe and Secure
 
@@ -112,7 +112,7 @@ Data loss can take many forms:
 -   Hardware failure: your hard disk crashes, preventing you from accessing your files
 -   Software failure: due to a software bug, a previously functioning file is overwritten with a corrupted, non-working version
 -   Loss of equipment: your computer is stolen or destroyed
--   Malicious attack: your computer is infected by [ransomware](https://en.wikipedia.org/wiki/Ransomware) that locks access to your files
+-   Malicious attack: your computer is infected by [ransomware](https://en.wikipedia.org/wiki/Ransomware){:target="_blank"} that locks access to your files
 -   Human error: you accidentally make changes to a file and save, overwriting the previous version.
 
 Your backup strategy should protect against all of these. We suggest three rules of thumb.
@@ -126,10 +126,10 @@ Your backup strategy should protect against all of these. We suggest three rules
 
 Following these suggestions does not require a complex set up. For instance, the following would do the trick:
 
--   Create automated and incremental backups to an external hard disk using [Mac’s Time Machine](https://support.apple.com/en-us/HT201250) or [Window’s File History](https://www.howtogeek.com/74623/how-to-use-the-new-file-history-feature-in-windows-8/).
+-   Create automated and incremental backups to an external hard disk using [Mac’s Time Machine](https://support.apple.com/en-us/HT201250){:target="_blank"} or [Window’s File History](https://www.howtogeek.com/74623/how-to-use-the-new-file-history-feature-in-windows-8/){:target="_blank"}.
 -   Automatically sync your data with a cloud service such as Dropbox or Box.com.
 
-Finally, don’t neglect to *test* your backups, i.e., make sure that you can actually get back the files should you need them (if you’re inclined to skip this step, watch [this video on how Toy Story 2 was almost lost](https://www.youtube.com/watch?v=8dhp_20j0Ys) in part due to a failed backup). Again, this need not be complicated: Once a month,
+Finally, don’t neglect to *test* your backups, i.e., make sure that you can actually get back the files should you need them (if you’re inclined to skip this step, watch [this video on how Toy Story 2 was almost lost](https://www.youtube.com/watch?v=8dhp_20j0Ys){:target="_blank"} in part due to a failed backup). Again, this need not be complicated: Once a month,
 select a handful of files in different folders and make sure you can open them in your backups. Choose different files every time.
 
 ### Security
@@ -139,12 +139,12 @@ you should consult with experts at your institution and review the additional gu
 
 #### Passwords and Authentication
 
-Here are the [main ways](https://hypersecu.com/blog/91-5-ways-hackers-are-stealing-passwords)
+Here are the [main ways](https://hypersecu.com/blog/91-5-ways-hackers-are-stealing-passwords){:target="_blank"}
 attackers gain unauthorized access to user accounts:
 
 -   Mass Theft: Re-using email/password combinations stolen from insufficiently secured databases
 -   Brute Force: Guessing common passwords, passwords that include dictionary words, or short passwords
--   Phishing: Fooling you into entering your username and password on a page the attacker has created to look like a legitimate page, often prompted by an email (this is, e.g., how the [2016 hack of the Clinton Presidential Campaign](https://www.vox.com/policy-and-politics/2018/7/16/17575940/russian-election-hack-democrats-trump-putin-diagram) took place)
+-   Phishing: Fooling you into entering your username and password on a page the attacker has created to look like a legitimate page, often prompted by an email (this is, e.g., how the [2016 hack of the Clinton Presidential Campaign](https://www.vox.com/policy-and-politics/2018/7/16/17575940/russian-election-hack-democrats-trump-putin-diagram){:target="_blank"} took place)
 -   Software vulnerabilities: By exploiting known vulnerabilities in your operating system or browser to install malicious code and/or view your activities
 
 How can you protect yourself against all of these threats?
@@ -154,16 +154,16 @@ How can you protect yourself against all of these threats?
 3.  Be wary of links to login pages. When in doubt, do not follow the link and log in via a service’s homepage instead.
 4.  Always keep your software (especially browser) and operating system up to date and make sure automatic updates are turned on.
 
-Technical tools can help you protect yourself and significantly lower the burden of security. Most importantly, [password managers](https://www.pcmag.com/article2/0,2817,2407168,00.asp) help you to automatically create unique, secure passwords and keep track of them, effectively automating 1. and 2. above. Two-factor authentication (2FA), offered by an increasing number of providers, provides additional protection for both hacked passwords and phishing. 2FA requires another authentication step in addition to passwords. This can be a temporary code, as supplied via text message or a [cell phone app](https://www.pcworld.com/article/3225913/security/what-is-two-factor-authentication-and-which-2fa-apps-are-best.html),
-or a [dedicated USB key](https://www.wired.com/story/how-to-use-a-yubikey/). ([Experts advise](https://www.theverge.com/2017/7/10/15946642/two-factor-authentication-online-security-mess)
+Technical tools can help you protect yourself and significantly lower the burden of security. Most importantly, [password managers](https://www.pcmag.com/article2/0,2817,2407168,00.asp){:target="_blank"} help you to automatically create unique, secure passwords and keep track of them, effectively automating 1. and 2. above. Two-factor authentication (2FA), offered by an increasing number of providers, provides additional protection for both hacked passwords and phishing. 2FA requires another authentication step in addition to passwords. This can be a temporary code, as supplied via text message or a [cell phone app](https://www.pcworld.com/article/3225913/security/what-is-two-factor-authentication-and-which-2fa-apps-are-best.html){:target="_blank"},
+or a [dedicated USB key](https://www.wired.com/story/how-to-use-a-yubikey/){:target="_blank"}. ([Experts advise](https://www.theverge.com/2017/7/10/15946642/two-factor-authentication-online-security-mess){:target="_blank"}
 that text messages are far less secure than the two other modes of 2FA, and USB keys provide the strongest protection as they cannot be spoofed).
 
 #### Secure Communication
 
 If you need to communicate securely while conducting research, for example, with members of your research team or human participants,
-messaging apps on your cell phone are often the safest choice as they strongly encrypt all communication. For highly sensitive topics, apps with a focus on privacy and security like [*Signal*](https://signal.org/) are ideal. However, the vastly more popular [*WhatsApp*](https://www.whatsapp.com/) provides similar encryption and is likely already used by your interlocutors.
+messaging apps on your cell phone are often the safest choice as they strongly encrypt all communication. For highly sensitive topics, apps with a focus on privacy and security like [*Signal*](https://signal.org/){:target="_blank"} are ideal. However, the vastly more popular [*WhatsApp*](https://www.whatsapp.com/){:target="_blank"} provides similar encryption and is likely already used by your interlocutors.
 
-When you have to rely on e-mail for communication, the [*Pretty Good Private (PGP)*](https://www.openpgp.org/software/) standard provides state of the art protection via encryption, but is not currently widely adopted.
+When you have to rely on e-mail for communication, the [*Pretty Good Private (PGP)*](https://www.openpgp.org/software/){:target="_blank"} standard provides state of the art protection via encryption, but is not currently widely adopted.
 
 #### Secure Devices
 
@@ -173,9 +173,9 @@ If your research is highly sensitive, especially if you suspect it may attract t
 
 #### Encryption
 
-Especially if you are travelling with a laptop, you should ensure that your hard disk is encrypted. This is a standard feature of operating systems, referred to as “[File Vault](https://support.apple.com/en-us/HT204837)” on Mac and “[Bit Locker](https://support.microsoft.com/en-us/help/4028713/windows-10-turn-on-device-encryption)”
+Especially if you are travelling with a laptop, you should ensure that your hard disk is encrypted. This is a standard feature of operating systems, referred to as “[File Vault](https://support.apple.com/en-us/HT204837){:target="_blank"}” on Mac and “[Bit Locker](https://support.microsoft.com/en-us/help/4028713/windows-10-turn-on-device-encryption){:target="_blank"}”
 on Windows. Without disk encryption, anyone who gets access to your computer can read all your files, even if they do not know your account password.
 
-For additional security and particularly sensitive data, consider using a dedicated encryption tool such as [Veracrypt](https://www.veracrypt.fr/en/Home.html).
+For additional security and particularly sensitive data, consider using a dedicated encryption tool such as [Veracrypt](https://www.veracrypt.fr/en/Home.html){:target="_blank"}.
 
 {% include _exercise.html exerciseid="12" %}

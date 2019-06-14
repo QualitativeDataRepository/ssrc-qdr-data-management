@@ -24,16 +24,16 @@ initialquestions:
 
 ## Transparency in Social Science Research
 
-Norms across the social sciences are evolving to encourage greater access to the data underpinning research, and more transparency with regard to research practices. The goal of this norm change is to make scholarly work more easily understood and evaluated. Three general principles comprise research transparency. (We draw here on the trio of imperatives envisioned by the [American Political Science Association \[2012, 9-10\]](http://www.apsanet.org/portals/54/Files/Publications/APSAEthicsGuide2012.pdf)).
+Norms across the social sciences are evolving to encourage greater access to the data underpinning research, and more transparency with regard to research practices. The goal of this norm change is to make scholarly work more easily understood and evaluated. Three general principles comprise research transparency. (We draw here on the trio of imperatives envisioned by the [American Political Science Association \[2012, 9-10\]](http://www.apsanet.org/portals/54/Files/Publications/APSAEthicsGuide2012.pdf){:target="_blank"}).
 -   ***Data access:*** achieved by referencing the data that underpin evidence-based knowledge claims and, if you generated or collected those data yourself, sharing those data or explaining why you cannot do so.
 -   ***Production transparency:*** entails offering a full account of the procedures used to collect or generate your data (if you did so yourself).
 -   ***Analytic transparency:*** involves providing a full account of how you drew inferences from the data, i.e., clearly explicating the links between your data and your empirical claims and conclusions.
 
-While openness is relevant for all types of social science research, different research traditions of evidenced-based inquiry have developed, and will continue to develop, different strategies to realize these principles. In particular, the strategies devised to achieve the general principles will differ between quantitative and qualitative research, in large part because data are deployed differently in these distinct types of inquiry (see the previous lesson in this module on [Deploying Qualitative Data](/modules/4/a)).
+While openness is relevant for all types of social science research, different research traditions of evidenced-based inquiry have developed, and will continue to develop, different strategies to realize these principles. In particular, the strategies devised to achieve the general principles will differ between quantitative and qualitative research, in large part because data are deployed differently in these distinct types of inquiry (see the previous lesson in this module on [Deploying Qualitative Data](/modules/4/a){:target="_blank"}).
 
 Nonetheless, all such strategies for achieving openness should:
 -   Make relevant data and analytic information immediately available in tandem with the particular knowledge claim they were used to generate (proximity)
--   Make data and analytic information FAIR (findable, accessible, interoperable, and reusable, [Wilkinson et al. 2016](https://doi.org/10.1038/sdata.2016.18))
+-   Make data and analytic information FAIR (findable, accessible, interoperable, and reusable, [Wilkinson et al. 2016](https://doi.org/10.1038/sdata.2016.18){:target="_blank"})
 -   Address concerns about the ethical and legal complications that constrain openness (protection).
 
 For qualitative research, optimizing proximity entails linking digital data sources (e.g., archival documents, audio-recordings, interview transcripts, ethnographic field notes) and accompanying materials containing relevant analytic information directly to the relevant passage in a digital publication, and accessible from a journal’s web page (i.e., on the publisher’s platform).
@@ -66,7 +66,7 @@ Employing ATI benefits you, and your qualitative inquiry, in several ways. Emplo
 -   helps you to meet transparency standards;
 -   facilitates evaluation of your work by reducing transaction costs for readers who seek more information about how you drew descriptive, causal, or interpretive claims or who wish to investigate whether the information contained in cited sources supports evidence-based claims.
 
-Some models of scholarship that has been annotated using ATI can be found [*here*](https://qdr.syr.edu/ati/ati-models), and more specific directions for using ATI can be found
+Some models of scholarship that has been annotated using ATI can be found [*here*](https://qdr.syr.edu/ati/ati-models){:target="_blank"}, and more specific directions for using ATI can be found
 [*here*](https://qdr.syr.edu/ati/ati-instructions).
 
 {% include _exercise.html exerciseid="24" %}
@@ -75,13 +75,13 @@ Some models of scholarship that has been annotated using ATI can be found [*here
 
 No matter how you collect and generate data, production transparency requires you to communicate to readers as much about your data-gathering processes as you can. While your processes were likely varied and intricate, you need to convey them holistically and synthetically, while simultaneously offering sufficient detail for a reader to understand and evaluate what you did. ATI empowers you to give a “macro-representation” of your data collection through the Data Overview, and a “micro-representation” of your data collection through annotations.
 
-A data appendix offers a “meso-level” representation: an “itemized overview” of respondents, documents, or other data sources, with each described via a structured set of attributes. Your data appendix might include a subset of the data included in your “[data manifest](/modules/4/a#toward-effective-deployment-of-qualitative-data),”  described in the previous lesson, with each item described in more detail. If you didn’t use ATI your appendix should also include a holistic overview of the type you would have written in your ATI Data Overview detailing, e.g., how data sources were chosen. 
+A data appendix offers a “meso-level” representation: an “itemized overview” of respondents, documents, or other data sources, with each described via a structured set of attributes. Your data appendix might include a subset of the data included in your “[data manifest](/modules/4/a#toward-effective-deployment-of-qualitative-data){:target="_blank"},”  described in the previous lesson, with each item described in more detail. If you didn’t use ATI your appendix should also include a holistic overview of the type you would have written in your ATI Data Overview detailing, e.g., how data sources were chosen. 
 
 We describe here, as an example, a data appendix for a particular type of interactive data collection -- interview research -- drawing on an excellent example developed by Erik Bleich and Robert Pekkanen. In projects involving interactive data collection, *with whom* you interacted (and why), and *how you solicited information* from them, are key drivers of the data that are produced, and thus of your analysis and findings. Being transparent in this kind of research, then, entails providing as much information as you can about those interactions.
 
 In our lesson on Documenting Data and Creating Metadata, we suggested that you create “informal metadata” for each data-collection interaction. Creating a data appendix entails aggregating certain aspects of those informal metadata into a holistic depiction of your interactive data collection. You probably won’t include in your appendix *all* of the types of informal metadata that you created for each exchange; you should choose those that you think will allow your readers to evaluate the quality and evidentiary value of the data.
 
-Bleich and Pekkanen [provide a template](https://doi.org/10.5281/zenodo.892385) for one potential element of your data appendix -- what they term an “Interview Methods Table”. Such a table includes key information about each respondent and each exchange. (“Saturation” refers to whether an exchange revealed any new information, and/or whether a particular category of respondent has reached “saturation” such that no additional interviews are required.) You might include other key metadata such as the date and location of the exchange.
+Bleich and Pekkanen [provide a template](https://doi.org/10.5281/zenodo.892385){:target="_blank"} for one potential element of your data appendix -- what they term an “Interview Methods Table”. Such a table includes key information about each respondent and each exchange. (“Saturation” refers to whether an exchange revealed any new information, and/or whether a particular category of respondent has reached “saturation” such that no additional interviews are required.) You might include other key metadata such as the date and location of the exchange.
 
 ![Interview Appendix]({{site.baseurl }}/images/interview-appendix.png)
 
@@ -119,10 +119,10 @@ One of the challenges of sharing CAQDAS-produced data is that every software pro
 
 One solution is to share data in two different forms. The first form is the raw full export from your software. Once your data are prepared for sharing, first export the whole project into your software’s dedicated export format (e.g., .nvp for NVivo, “Export Data” for Dedoose, or "copy bundle" for atlas.ti). Then, create a second “human-readable” export that anyone, regardless of software, can use: Export all relevant files in widely used formats (such as RTF, PDF, Excel, as well as widely used video, image, and audio formats). Also export all relevant memos as RTF or PDF files.
 
-As of this writing, efforts are underway to provide [a standardized format](http://qdasoftware.org) for exchange between different CAQDAS software products. As this exchange format matures and becomes more widely available, we expect it to replace some of these recommendations.
+As of this writing, efforts are underway to provide [a standardized format](http://qdasoftware.org){:target="_blank"} for exchange between different CAQDAS software products. As this exchange format matures and becomes more widely available, we expect it to replace some of these recommendations.
 
 Further Reading 
 ----------------
--   American Political Science Association. 2012. *A Guide to Professional Ethics in Political Science*, [http://www.apsanet.org/portals/54/Files/Publications/APSAEthicsGuide2012.pdf](http://www.apsanet.org/portals/54/Files/Publications/APSAEthicsGuide2012.pdf)
--   Bleich, Erik, and Pekkanen, Robert. 2015. “Data Access, Research Transparency, and Interviews; the Interview Methods Appendix.” *Qualitative & Multi-method Research* 13 (1): 8–13. [https://doi.org/10.5281/zenodo.892386](https://doi.org/10.5281/zenodo.892386)
--   Elman, Colin, Diana Kapiszewski, Andrew Moravcsik, and Sebastian Karcher. 2017. A Guide to Annotation for Transparent Inquiry. [https://qdr.syr.edu/ati/guide-to-ati](https://qdr.syr.edu/ati/guide-to-ati)
+-   American Political Science Association. 2012. *A Guide to Professional Ethics in Political Science*, [http://www.apsanet.org/portals/54/Files/Publications/APSAEthicsGuide2012.pdf](http://www.apsanet.org/portals/54/Files/Publications/APSAEthicsGuide2012.pdf){:target="_blank"}
+-   Bleich, Erik, and Pekkanen, Robert. 2015. “Data Access, Research Transparency, and Interviews; the Interview Methods Appendix.” *Qualitative & Multi-method Research* 13 (1): 8–13. [https://doi.org/10.5281/zenodo.892386](https://doi.org/10.5281/zenodo.892386){:target="_blank"}
+-   Elman, Colin, Diana Kapiszewski, Andrew Moravcsik, and Sebastian Karcher. 2017. A Guide to Annotation for Transparent Inquiry. [https://qdr.syr.edu/ati/guide-to-ati](https://qdr.syr.edu/ati/guide-to-ati){:target="_blank"}
