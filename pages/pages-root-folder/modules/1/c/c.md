@@ -15,7 +15,7 @@ learningobjectives:
 -   Basic outlines of informed consent language
 -   The potential interactions between securing informed consent from
     research participants and sharing data generated through
-    interacting with thems
+    interacting with them.
 -   What to do if you have used informed consent language that precludes
     sharing but wish to share the data generated through your human
     participant research
@@ -28,14 +28,14 @@ initialquestions:
     you described your data and your plans for collecting them and
     managing them the same way?
 ---
-<!--{% include _learningobjectivesandquestions.html %}-->
+{% include _learningobjectivesandquestions.html %}
 
 ## Institutional Review Boards (IRBs)
 
 Institutional Review Boards (IRBs) (or, more broadly, “ethics boards”)
-are administrative bodies that govern human participants research in the United States. IRBs protect the rights and welfare of the people whom scholars recruit to participate in their research. Prior to initiating human participants research, scholars must submit an application to conduct the research to the IRB at their home institution. IRBs review applications to ensure that human participants are sufficiently protected. IRBs can approve, disapprove, monitor, and require modifications to all research activities that fall within their jurisdiction, with the overall goal of supervising compliance with federal ethics rules by the institution with which they are affiliated.
+are administrative bodies that govern human participant research in the United States. IRBs protect the rights and welfare of the people whom scholars recruit to participate in their research. Prior to initiating human participant research, scholars must submit an application to conduct the research to the IRB at their home institution. IRBs review applications to ensure that human participants are sufficiently protected. IRBs can approve, disapprove, monitor, and require modifications to all research activities that fall within their jurisdiction, with the overall goal of supervising compliance with federal ethics rules by the institution with which they are affiliated.
 
-IRBs carry out a critically important role. However, ultimately they provide only a minimum legal threshold for ethical research. Conducting human participants research ethically entails much more than what scholars describe in their IRB applications. Moreover, the appropriate role for IRBs in social science research remains a topic of discussion. A recent revision of the *Common Rule*, the federal regulation governing IRBs in the US, actually removed a significant number of social science research practices, such as oral history, from the purview of IRBs. You should familiarize yourself with the practices and deadlines of your IRB from the earliest stages of your research project.
+IRBs carry out a critically important role. However, ultimately they provide only a minimum legal threshold for ethical research. Conducting human participant research ethically entails much more than what scholars describe in their IRB applications. Moreover, the appropriate role for IRBs in social science research remains a topic of discussion. A recent revision of the *Common Rule*, the federal regulation governing IRBs in the US, actually removed a significant number of social science research practices, such as oral history, from the purview of IRBs. You should familiarize yourself with the practices and deadlines of your IRB from the earliest stages of your research project.
 
 ## Informed Consent Basics
 
@@ -68,7 +68,7 @@ Scholars are best positioned to obtain truly informed consent -- i.e., to clearl
 
 ![Lifecycle thumbnail *collecting*]({{ site.baseurl }}/images/lifecycle-collection.png)
 
-> ### Tip from the field 
+> ### Tip from the field
 >Oral consent is often -- but not always -- more appropriate for qualitative research. For instance, one scholar with whom QDR has worked found that her interview respondents (ex-combatants) were reassured by the legitimacy indicated by the written consent form and information sheet. Ask others who have engaged in a similar type of research in the context you are studying about their experiences.
 
 
@@ -112,7 +112,7 @@ What can you do if you have already interviewed a set of people, want to share t
 ## Further resources
 
 “CARE Principles of Indigenous Data Governance.” n.d. Global Indigenous Data Alliance. Accessed October 18, 2019.
-[https://www.gida-global.org/care](https://www.gida-global.org/care). 
+[https://www.gida-global.org/care](https://www.gida-global.org/care).
 Research with indigenous groups requires particular attention to ethical considerations and their autonomy. The CARE principles focus on data sharing from research with such communities.
 
 Librett, Mitch, and Dina Perrone. 2010. “Apples and Oranges:
