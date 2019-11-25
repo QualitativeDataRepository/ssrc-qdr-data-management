@@ -30,6 +30,7 @@ initialquestions:
 Keeping your data organized is one of the key principles of data management. The advice we offer here may be some of the simplest we offer in this course. It’s also the type that’s most commonly ignored, with negative consequences for research. Two key initial steps of data organization are creating a consistent folder structure and standardized filenames.
 
 ![Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Untitled.doc](https://imgs.xkcd.com/comics/documents.png)
+
 Source: https://xkcd.com/1459/
 
 ### Folder Structure

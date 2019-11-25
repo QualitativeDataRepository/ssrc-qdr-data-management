@@ -54,7 +54,7 @@ The specific types of documentation that might best introduce, describe, and con
 -	Description of how derived materials (individual files or variables) were created
 -	Coding schemas
 
-![Documentation is a love letter to yourself]({{ site.baseurl }}/images/documentation-loveletter.png)\
+![Documentation is a love letter to yourself]({{ site.baseurl }}/images/documentation-loveletter.png)
 This famous quote, originally referring to computer code, applies just as much to your data. Be kind to your future self.
 
 ## When to Document Data
