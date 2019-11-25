@@ -43,7 +43,15 @@ In many cases you will write your data management plan because a funding agency 
 
 We would encourage you, though, to compose a data management plan even if you are not required to do so by a funder.  Having your plans for your data written out helps keep you organized and on track as you conduct your research project. Having written plans can be especially useful if you need to coordinate the activities of a research team – including just a couple of RAs. Having your data management plans written out also allows you to communicate those plans to others. At QDR, for example, looking at researchers' DMPs allows us to quickly understand their goals and needs, helping us to offer them the support they need.
 
-**From the field:** The NSF and other agencies are starting to look at data management plans more and more closely. In 2012, barely adequate DMPs were routinely accepted. That is no longer the case. Take the DMP portion of your grant seriously.
+> ### From the field 
+> The NSF and other agencies are starting to look at data management plans more and more closely. In 2012, barely adequate DMPs were routinely accepted. That is no longer the case. Take the DMP portion of your grant seriously.
+
+Beginning to Think About a DMP
+------------------------------
+
+A good way to think about writing a DMP is ask yourself the following question: “How can I demonstrate that I have carefully thought about what my data needs will be at each stage of my research and data lifecycles and that I have identified specific and well justified procedures to meet those needs?” How do you start thinking about this conceptually? The data lifecycle we introduced in the previous lesson provides you with a helpful heuristic.
+
+{% include _exercise.html exerciseid="2" %}
 
 ## Tools for writing a data management plan
 
@@ -54,7 +62,7 @@ QDR has designed a [*data management checklist*](https://qdr.syr.edu/drupal_data
 Still, you may find it difficult to start writing such a plan. You may find the [*DMP Tool*](https://dmptool.org/), produced by the California Digital Library, helpful. The DMP Tool provides a large number of templates, based on funder requirements, and helps you to structure your DMP according to those templates, guiding you through the process with questions. When you are done, it provides you with a neatly formatted DMP. The language of the DMP Tool can be a bit abstract; using the tool and QDR’s checklist in tandem can help you navigate the various topics.
 
 
-{% include _exercise.html exerciseid="4" %}
+{% include _exercise.html exerciseid="3" %}
 
 ## Some Key Elements of a DMP
 
@@ -74,7 +82,7 @@ Tools such as our checklist or the DMP Tool offer a comprehensive overview of th
 
 How do you know that your DMP is good enough? When working with researchers, we have often found that assessing other researchers’ DMPs is a good way to think about this. We use a rubric developed by a group of US librarians to assess DMPs submitted to NSF for their compliance with NSF criteria for such plans (Whitmire et al., 2015).
 
-{% include _exercise.html exerciseid="5" %}
+{% include _exercise.html exerciseid="4" %}
 
 ## DMPs as Living Documents
 

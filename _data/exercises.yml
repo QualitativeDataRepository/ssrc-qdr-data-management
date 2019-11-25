@@ -14,54 +14,40 @@
         One aspect you might question is the arrow from “long-term management” to “discovery and planning”.  Do you see one research project tightly linked to the next in the way this arrow suggests?  One aspect you might not have thought about before is long-term management of your data; had you considered the possibility of (someone) taking care of your data for years or decades? 
         A core concern with the RDL model, particularly in the context of qualitative research, is that it has gaps and glosses over details. You can probably think of multiple steps you will take between any two steps in the model.  Also, there is not always a neat distinction between planning, initial, and final data collection. You (will) likely also shift between planning your research (including data collection), carrying it out, and writing. And qualitative researchers often go back and forth between data and theory. The lifecycle doesn’t reflect any of these “back-and-forths”.  When you’re planning your research, you should.
 
-
-- title: "Limitations of the Lifecycle Model"
+- title: "Using the Data Lifecycle for Planning"
   id: 2
-  module: "1a"
-#  description: "This is a test exercise with NO subanswers"
+  module: "1b"
   content:
     - question: >
-        What are some of the limitations of how well the data lifecycle model represents actual research, especially as you think about qualitative research?
+        Using a depiction of the data lifecycle (you can draw one by hand or download and print a PDF version from [here](https://managing-qualitative-data.org/files/data-lifecycle.pdf)), write out which data management planning and/or data management steps you should take at every point in the lifecycle.
   solution:
     - answer: >
-        Like every model, the data lifecycle glosses over details. For example, there often won’t be a neat distinction between planning, initial, and final data collection. You may also find that you go back between research and writing/publication. For example, scholars would frequently conduct additional research between dissertation  and the book resulting from the dissertation. Arguably, many of this applies particularly strongly to qualitative research. In many qualitative traditions, researchers  go back and forth between data and theory. The lifecycle  paints too neat a picture of that. As you use it as a planning device, make sure to account for such “back-and-forth.”
-- title: "Using the Data Lifecycle for Planning"
+       The details will of course depend on your individual solution, but the image below gives you some ideas of some DM steps that may occur at each point in the data lifecycle. ![Lifeycle with interventions](https://managing-qualitative-data.org/images/lifecycle-interventions.png)
+- title: "Using the DMP Tool"
   id: 3
   module: "1b"
-#  description: "This is a test exercise with SUBSUBANSWERS"
   content:
     - question: >
-        Using a depiction of the data lifecycle (you can draw one by hand or download and print a PDF version from [here](https://managing-qualitative-data.org/files/data-lifecycle.pdf)), mark at every point in the lifecycle which data management and/or data management planning steps you should take. Remember you already did some related work in an exercise in the last lesson.
-  solution:
-    - answer: >
-       The details will of course depend on your individual solution, but the image below gives you some ideas of which steps may occur at which point in the data lifecycle. ![Lifeycle with interventions](https://managing-qualitative-data.org/images/lifecycle-interventions.png)
-- title: "Using the DMP Tool"
-  id: 4
-  module: "1c"
-#  description: "This is a test exercise with SUBSUBANSWERS"
-  content:
-    - question: >
-        Create an account for the DMP Tool (if possible through your university) and write a very brief data management plan. Your plan does not need to be very detailed (for now) – the goal is to get a sense of the tool.
+        Create an account for the DMP Tool (if possible through your university) and write a very brief DMP. Your plan does not need to be very detailed (for now) – the goal is to get a sense of the tool.
   solution:
     - answer: >
         Go to [https://dmptool.org/](https://dmptool.org/), click on "Get started" and select your institution on the next screen. Then click “Create New DMP” and use a template. We suggest the NSF’s Social, Behavioral, and Economic Science as a good default, but feel free to pick any funder that seems relevant.
 - title: "Assessing DMPs"
-  id: 5
-  module: "1c"
-#  description: "This is a test exercise with SUBSUBANSWERS"
+  id: 4
+  module: "1b"
   content:
     - question: >
-        Find the rubric by Whitmire et al. [here](https://osf.io/jj7dm/) and a scoresheet for the rubric [here](https://osf.io/twynp/). Use this rubric to evaluate the data management plan by Fisher and Nading (2016) [here](https://doi.org/10.3897/rio.2.e8720). Alternatively, when working in a group or with a partner, you can exchange DMPs and assess each other.
+        Find the rubric by Whitmire et al. [here](https://osf.io/jj7dm/) and a scoresheet for the rubric [here](https://osf.io/twynp/). Use this rubric to evaluate the data management plan by Fisher and Nading (2016) [here](https://doi.org/10.3897/rio.2.e8720). (Alternatively, when working in a group or with a partner, you can exchange DMPs and assess each other's). For now, use the example language in the rubric to score the DMP.
     - question: >
-        As you work through the rubric, try to not just think about what you would improve about the data management plan, but also where the rubric itself might fall short.
+        As you work through the rubric, try to not just think about what you would improve about the DMP, but also where the rubric itself might fall short.
   solution:
     - answer: >
         You can look at a rubric for the Fisher and Nading data management plan that we filled out [here](https://managing-qualitative-data.org/files/dmp-rubric-fisher-nading.pdf). Don’t expect to have the exact same assessment throughout, but look again at areas where you disagree with our assessment.
     - answer: >
         The most important weakness of the rubric is that it assesses the mere presence of a topic, not the quality of the response. For example, “I will e-mail my data to interested researchers” would qualify as a full score to question 4.2, but is clearly not a satisfactory answer. Moreover, given NSF’s interest in DMPs, they focus heavily on the sharing and dissemination component, but make little mention of some of the earlier, crucial issues, such as back-up or personnel.
 - title: "Evaluating Informed Consent Language"
-  id: 6
-  module: "1d"
+  id: 5
+  module: "1c"
   description: Consider these two examples of language from informed consent scripts, identify problems, and suggest improvements.
   content:
     - question: >
@@ -76,8 +62,8 @@
         As explained above, do not promise that no one will be able to identify participants. Moreover, avoid complex technical terms such as “anonymize” and “trusted digital repository. Instead, something like this may work:
         “We will remove information that can identify you, such as your name and exact date of birth, from the data. Then we will make the data available to other researchers, so that your answers can help scientists better understand why …”
 - title: "Craft Your Own Consent Language"
-  id: 7
-  module: "1d"
+  id: 6
+  module: "1c"
   content:
     - question: >
         Now spend some time with writing or editing your own consent script. Reassure your participants that their data is safe, but do not preclude the sharing of data. If working in a group, exchange scripts with a partner.
@@ -87,6 +73,7 @@
             - Is the language easy to understand for the targe audience?
             - Does the script make clear that the data will be shared?
             - If there is going to be de-identification involved, do you explain what that entails? Do you avoid overpromising?
+        [Here is some language suggested by QDR](https://qdr.syr.edu/guidance/templates#informed-consent).
 - title: "Documenting Your Data"
   id: 8
   module: "2a"

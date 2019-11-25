@@ -39,10 +39,7 @@ IRBs carry out a critically important role. However, ultimately they provide onl
 
 ## Informed Consent Basics
 
-Informed Consent Basics
------------------------
-
-![Lifecycle thumbnail *planning*]({{ site.baseurl }}/ images/lifecycle-planning.png)
+![Lifecycle thumbnail *planning*]({{ site.baseurl }}/images/lifecycle-planning.png)
 
 A critical aspect of an IRB application is a scholar’s plans for securing the “informed consent” of her research participants. Informed consent is at the heart of ethical research with human participants. Whenever you generate data through interacting with people, you need to make sure they consent to being part of your research, and that they are fully informed about and understand what this participation entails. This is an ethical requirement for social science researchers. In the US, it is also a legal requirement, mandated by guidelines from the federal government. This course does not replace a course about ethical research practices. In the US, you will typically be required to take such a course prior to conducting research with human participants. Our focus in this lesson is on developing and using an informed consent script that does not unnecessarily prevent you from sharing the data produced through your interactions with the people who participate in your research.
 
@@ -58,7 +55,7 @@ A typical informed consent script includes four main elements:
 
 Commonly, 1-3 are included on a separate study information sheet that participants can take home.
 
-> ##Did you know?
+> ### Did you know?
 > You will often see research participants referred to as “human subjects,” which is how US federal law refers to them. At QDR, we follow the American Psychological Association’s lead and use the terms “research participants” or “human participants” to refer to people a researcher involves in her work to highlight their willing participation and active contribution to the research.
 
 ## Informed Consent in Qualitative Research
@@ -69,15 +66,13 @@ One way to make the consent process more natural -- particularly in contexts whe
 
 Scholars are best positioned to obtain truly informed consent -- i.e., to clearly communicate to participants what their research is about and what participation entails -- in forms of research that allow them to build lasting relationships with participants. No matter in what type of inquiry you engage, however, you should do everything you can to ensure that your research participants understand who you are, the content and aims of your research, what you are asking of them, and what good or bad may come of their participation.
 
-![Lifecycle thumbnail *collecting*]({{ site.baseurl }}/ images/lifecycle-collection.png)
+![Lifecycle thumbnail *collecting*]({{ site.baseurl }}/images/lifecycle-collection.png)
 
-## Tip from the field 
+> ### Tip from the field 
 >Oral consent is often -- but not always -- more appropriate for qualitative research. For instance, one scholar with whom QDR has worked found that her interview respondents (ex-combatants) were reassured by the legitimacy indicated by the written consent form and information sheet. Ask others who have engaged in a similar type of research in the context you are studying about their experiences.
 
-Qualitative research also has an advantage over lab-based research in obtaining truly informed consent. As you build lasting relationships with participants, you are more likely to be able to communicate to them what your research is about and what they are participating in.
 
 ## Informed Consent and Data Sharing
-
 
 The language that scholars employ to secure the informed consent of their research participants has significant implications for their ability to subsequently share the information those participants convey. The language that social science researchers have typically used to secure informed consent precludes data sharing. Two scenarios are common:
 
@@ -102,18 +97,17 @@ Do not make any promises that you cannot keep. For instance, you can specify tha
 
 Safeguarding sensitive information is core to the mission of many data repositories in the social sciences. Accoringly, they can advise you in general terms on de-identification processes, on how to keep information confidential, and on what “access controls” you might place on your data shoud you share them through their repository. We discuss these issues further in [Module 3 (Lesson 2)]({{ site.baseurl }}/modules/3/b).
 
-{% include _exercise.html exerciseid="6" %}
-
-
->## Careful!
+{% include _exercise.html exerciseid="5" %}
+&nbsp;
+> ### Careful!
 >Your IRB application (including your informed consent script), and your DMP (if submitted as part of a grant) contain explicit promises to your institution, your participants, and your funder. You should confirm that your promises are consistent across this documentation. For instance, if you promise in your DMP that you will share your research data, your IRB application should indicate the same, and your informed consent script should be structured to allow this possibility.
 
 ## Re-consenting Participants
-![Lifecycle thumbnail *publication*]({{ site.baseurl }}/ images/lifecycle-publication.png)
+![Lifecycle thumbnail *publication*]({{ site.baseurl }}/images/lifecycle-publication.png)
 
 What can you do if you have already interviewed a set of people, want to share the data that those interviews generated, but used consent language that prevents you from sharing? Sadly, the answer to this question is often “nothing”. However, if you established good rapport with your participants and you are able to get in touch with them with relative ease, it is possible to retroactively ask them to consent to sharing more broadly the information that they provided to you. Note that your consent form has been vetted by your IRB, so you must file an amendment to your IRB application with the updated consent form. If your IRB approves the amendment and you are able to re-contact your participants, keep close notes on who did and who didn’t agree to the updated script and remember that you can only share the data that were provided by those who did.
 
-{% include _exercise.html exerciseid="7" %}
+{% include _exercise.html exerciseid="6" %}
 
 ## Further resources
 

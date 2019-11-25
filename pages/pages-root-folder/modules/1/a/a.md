@@ -18,7 +18,7 @@ learningobjectives:
 -   What the research data lifecycle is, how it relates to the research lifecycle, and how it relates to your research
 -   How this course uses the concept of the research data lifecycle
 initialquestions:
-- Had you heard of data management before this course? In what context?
+-   Had you heard of data management before this course? In what context?
 -   You have probably engaged in some standard data management practices many times – backing-up, naming and organizing files, etc. When did you decide exactly how you would carry out those tasks?
 -   When working on a research project, how and when do you tend to plan out how you will collect your data?
 -   Have you ever tried to think about the different phases of a research project “through the eyes of” your data?
@@ -27,8 +27,7 @@ initialquestions:
 
 ## What Are Data?
 
-We encourage you to conceive of data broadly. For the purpose of this course we define data as *any representations of the social world relevant to a particular type of inquiry and rendered in a form suited to the analysis to be undertaken* (adapted from Kapiszewski & Karcher, forthcoming). This definition implies that data can take many forms:
-numbers (e.g., statistics), interview transcripts, archival materials, photographs, movies, field notes, maps… you can think of many more. Frequently we distinguish between qualitative and quantitative data, although the distinction is not always clear-cut. Quantitative data are generally numeric and typically organized in tables. Qualitative data come in many forms (e.g., text, image, audio, and video) and structures.
+We encourage you to conceive of data broadly. For the purpose of this course we define data as *any representations of the social world relevant to a particular type of inquiry and rendered in a form suited to the analysis to be undertaken* (adapted from Kapiszewski & Karcher, forthcoming). This definition implies that data can take many forms: numbers (e.g., statistics), interview transcripts, archival materials, photographs, movies, field notes, maps… you can think of many more. Frequently we distinguish between qualitative and quantitative data, although the distinction is not always clear-cut. Quantitative data are generally numeric and typically organized in tables. Qualitative data come in many forms (e.g., text, image, audio, and video) and structures.
 
 You’ll note that we define data by their relationship to systematic inquiry. It is this relationship that distinguishes them from *information*. For instance, you may read a newspaper article, let’s say a performance review, to stay informed about contemporary culture; for you the contents of that article are *information*. That same review article (together with many others) could be part of a systematic collection of *data* by a theater scholar.
 
@@ -83,32 +82,27 @@ But why this emphasis on *advance* *planning* of data management? There are two 
 
 ## The Research Lifecycle and the Research Data Lifecycle
 
-All researchers are familiar with the “research lifecycle”, pictured below. This lifecycle traces the arc of a research project — from identifying a research topic / question / opportunity, to (potentially)
-finding others to work with, to securing funding, to reviewing extant work on the topic, to designing the project, to data generation and analysis, to writing up, to publication.
+All researchers are familiar with the “research lifecycle”, pictured below. This lifecycle traces the arc of a research project — from identifying a research topic / question / opportunity, to (potentially) finding others to work with, to securing funding, to reviewing extant work on the topic, to designing the project, to data generation and analysis, to writing up, to publication.
 
 ![Research Lifecycle]({{ site.baseurl }}/images/research-lifecycle.png)
 
 Research Lifecycle. Based on: Nicholas, David & Rowlands, Ian & Wamae, Deanna. (2012). *Charleston Conference Observatory: Are Social Media Impacting in Research?*. [https://doi.org/10.5703/1288284314807](https://doi.org/10.5703/1288284314807){:target="_blank"}. p. 16
 
-The “research data lifecycle” (RDL), pictured below, is closely related.
-On the one hand, the RDL tracks the research lifecycle, highlighting your continuous interaction with your data over the arc of a research project. At every point in a research project — from your initial ideas about what data you’ll need to support your claims, through collecting and analyzing those data, through sharing them when you publish based on them, through preserving them for yourself and others — you are working with your data.
+The “research data lifecycle” (RDL), pictured below, is closely related. On the one hand, the RDL tracks the research lifecycle, highlighting your continuous interaction with your data over the arc of a research project. At every point in a research project — from your initial ideas about what data you’ll need to support your claims, through collecting and analyzing those data, through sharing them when you publish based on them, through preserving them for yourself and others — you are working with your data.
 
-On the other hand, the RDL extends beyond the research lifecycle (i.e.,
-beyond the dissemination of research results). It also involves ensuring the independent existence, accessibility, discoverability and longevity of all of the data generated in association with a research project after its conclusion.
+On the other hand, the RDL extends beyond the research lifecycle (i.e., beyond the dissemination of research results). It also involves ensuring the independent existence, accessibility, discoverability and longevity of all of the data generated in association with a research project after its conclusion.
 
 ![Research Data Lifecycle]({{ site.baseurl }}/images/data-lifecycle.png)
 
 Research Data Lifecycle. Based on: Green, Ann G., and Myron P. Gutmann. (2007) “Building Partnerships among Social Science Researchers, Institution-based Repositories, and Domain Specific Data Archives.” *OCLC Systems and Services: International Digital Library Perspectives*. 23: 35-53.
 [http://doi.org/10.1108/10650750710720757](http://doi.org/10.1108/10650750710720757){:target="_blank"}
 
-s you think through and execute your project, keep the RDL in mind (or even physically in front of you: here is [a pdf version]({{ site.baseurl }}/files/data-lifecycle.pdf){:target="_blank"} to print out, and make sure that you are taking good care of your data at every step of the way!
+As you think through and execute your project, keep the RDL in mind (or even physically in front of you: here is [a pdf version]({{ site.baseurl }}/files/data-lifecycle.pdf){:target="_blank"} to print out, and make sure that you are taking good care of your data at every step of the way!
 
 {% include _exercise.html exerciseid="1" %}
 
 ## Managing Research Data Through Their Lifecycle
 
-This course follows your research data through their lifecycle,
-discussing important data management tasks that you should carry out in every phase of the RDL. The rest of Module 1 focuses on the crucial planning stage: you learn how to write an effective data management plan
-(DMP), and how to craft a consent script for human participant research that will allow you to share your data. Module 2 focuses on managing your data while you are collecting them. You will learn how to document your data so that they are easy to use in the future. You will also be presented with some practical strategies for organizing your data and files, including naming conventions and back-up strategies. Finally, you will learn how to transform the raw data you collect, e.g., how to digitize documents or transcribe interviews. Module 3 addresses sharing your data safely and responsibly. Module 4 considers writing and publishing with qualitative data.
+This course follows your research data through their lifecycle, discussing important data management tasks that you should carry out in every phase of the RDL. The rest of Module 1 focuses on the crucial planning stage: you learn how to write an effective data management plan (DMP), and how to craft a consent script for human participant research that will allow you to share your data. Module 2 focuses on managing your data while you are collecting them. You will learn how to document your data so that they are easy to use in the future. You will also be presented with some practical strategies for organizing your data and files, including naming conventions and back-up strategies. Finally, you will learn how to transform the raw data you collect, e.g., how to digitize documents or transcribe interviews. Module 3 addresses sharing your data safely and responsibly. Module 4 considers writing and publishing with qualitative data.
 
 Throughout this course, we will use a small image of the data lifecycle to locate in what phase you would carry out the tasks being discussed.
