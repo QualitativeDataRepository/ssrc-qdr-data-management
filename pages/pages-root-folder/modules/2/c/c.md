@@ -100,7 +100,7 @@ Once you have gathered a particular set of relevant files, you can impose additi
 Two other key aspects of data management are keeping your data *safe*
 (preventing loss), and keeping them *secure* (preventing unauthorized access). It’s important for you to know how to accomplish both without placing undue burden on yourself when you’re conducting your research.
 
-### Backing up
+### Backing Up
 
 There are few research experiences that are quite as crushing as losing data. Consequently, “back up often!” is a standard exhortation – you have likely said this to yourself and to other researchers many times. Thankfully, technological advances have made it easy and cheap to protect against multiple types of data loss.
 

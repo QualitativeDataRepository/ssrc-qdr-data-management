@@ -25,7 +25,7 @@ initialquestions:
 {% include _learningobjectivesandquestions.html %}
 
 ![Research Data Lifecycle - Planning]({{ site.baseurl }}/images/lifecycle-planning.png)
-## What Is a Data Management Plan?
+## What Is a Data Management Plan (DMP)?
 
 So far we have talked about data management and the importance of planning. A Data Management Plan (DMP) is a document that specifies your plans for data management for the whole duration of the project. The plan summarizes the various decisions you took while planning your data management. Broadly, the plan should cover the following topics:
 
@@ -37,23 +37,20 @@ So far we have talked about data management and the importance of planning. A Da
 
 We provide more detailed instructions below.
 
-## Why write a data management plan?
+## Why Write a DMP?
 
 In many cases you will write your data management plan because a funding agency requires it – in the US, for example, the National Science Foundation (NSF) has required data management plans since 2011. Different funders have slightly different requirements for DMPs, but the NSF’s requirement of a 2-page document is fairly typical. An important goal of your data management plan, then, is to convey to the funder that you have thought carefully about data management.
 
 We would encourage you, though, to compose a data management plan even if you are not required to do so by a funder.  Having your plans for your data written out helps keep you organized and on track as you conduct your research project. Having written plans can be especially useful if you need to coordinate the activities of a research team – including just a couple of RAs. Having your data management plans written out also allows you to communicate those plans to others. At QDR, for example, looking at researchers' DMPs allows us to quickly understand their goals and needs, helping us to offer them the support they need.
 
-> ### From the field 
+> ### From the field
 > The NSF and other agencies are starting to look at data management plans more and more closely. In 2012, barely adequate DMPs were routinely accepted. That is no longer the case. Take the DMP portion of your grant seriously.
-
-Beginning to Think About a DMP
-------------------------------
 
 A good way to think about writing a DMP is ask yourself the following question: “How can I demonstrate that I have carefully thought about what my data needs will be at each stage of my research and data lifecycles and that I have identified specific and well justified procedures to meet those needs?” How do you start thinking about this conceptually? The data lifecycle we introduced in the previous lesson provides you with a helpful heuristic.
 
 {% include _exercise.html exerciseid="2" %}
 
-## Tools for writing a data management plan
+## Tools for Writing a DMP
 
 There are a lot of resources for writing DMPs. We have listed some at the end of this lesson. We would like to particularly highlight two resources.
 

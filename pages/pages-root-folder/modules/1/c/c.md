@@ -102,14 +102,16 @@ Safeguarding sensitive information is core to the mission of many data repositor
 > ### Careful!
 >Your IRB application (including your informed consent script), and your DMP (if submitted as part of a grant) contain explicit promises to your institution, your participants, and your funder. You should confirm that your promises are consistent across this documentation. For instance, if you promise in your DMP that you will share your research data, your IRB application should indicate the same, and your informed consent script should be structured to allow this possibility.
 
+{% include _exercise.html exerciseid="6" %}
+
 ## Re-consenting Participants
 ![Lifecycle thumbnail *publication*]({{ site.baseurl }}/images/lifecycle-publication.png)
 
 What can you do if you have already interviewed a set of people, want to share the data that those interviews generated, but used consent language that prevents you from sharing? Sadly, the answer to this question is often “nothing”. However, if you established good rapport with your participants and you are able to get in touch with them with relative ease, it is possible to retroactively ask them to consent to sharing more broadly the information that they provided to you. Note that your consent form has been vetted by your IRB, so you must file an amendment to your IRB application with the updated consent form. If your IRB approves the amendment and you are able to re-contact your participants, keep close notes on who did and who didn’t agree to the updated script and remember that you can only share the data that were provided by those who did.
 
-{% include _exercise.html exerciseid="6" %}
 
-## Further resources
+
+## Further Resources
 
 “CARE Principles of Indigenous Data Governance.” n.d. Global Indigenous Data Alliance. Accessed October 18, 2019.
 [https://www.gida-global.org/care](https://www.gida-global.org/care).

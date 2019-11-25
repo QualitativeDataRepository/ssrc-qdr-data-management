@@ -70,9 +70,11 @@
   solution:
     - answer: >
         Read through your consent script (or that of your partner if working in a group) and consider some of the following:
-            - Is the language easy to understand for the targe audience?
-            - Does the script make clear that the data will be shared?
-            - If there is going to be de-identification involved, do you explain what that entails? Do you avoid overpromising?
+        - Is the language easy to understand for the targe audience?
+
+        - Does the script make clear that the data will be shared?
+
+        - If there is going to be de-identification involved, do you explain what that entails? Do you avoid overpromising?
         [Here is some language suggested by QDR](https://qdr.syr.edu/guidance/templates#informed-consent).
 - title: "Documenting Your Data"
   id: 7
