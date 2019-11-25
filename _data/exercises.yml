@@ -1,31 +1,20 @@
 # Exercise details
 #
 
-- title: "Your Research and the Data Lifecycle"
+- title: "You and the Research Data Lifeycle"
   id: 1
   module: "1a"
   #description: "This is a test exercise"
   content:
     - question: >
-        Consider why the use of research data is depicted as a “cycle”. In particular, what does the dashed arrow from “Long-term Management” to “Discovery and Planning” represent?
-    - question: >
-        Which activities that are part of *your* research fall under the different headings of the lifecycle?
+        Take another close look at the research data lifecycle. Does the cycle track how you have dealt with your data -- or how you envision doing so?  Do you think these steps actually form a cycle? Are there steps that you hadn’t fully considered?  Do you think there are steps missing?  If you now can see how your research data might have a “lifecycle,” will that change anything about your workflow going forward? 
   solution:
     - answer: >
-        The basic idea for the cyclical nature of research data is its re-use. Often, you may be re-using your own data. Something you found in your original data peaked your interest and becomes the basis for your next project. In other cases, other researchers may take advantage of data you shared and use them as the basis for  their next project
-    - answer: >
-        This will depend on your research but here are some possible activities in each category
-      subanswers:
-        - subanswer: >
-            *Discovery and Planning:* design research; review literature, identify existing data; apply for funding; hire research team; plan data security and backups; plan informed consent; apply for IRB.
-        - subanswer: >
-            *Initial Data Collection:* identifying participants / interviewees / archives, etc. collect data; document data; store and back-up data; identify additional data needed.
-        - subanswer: >
-            *Final Data Preparation and Analysis:* collect additional data; convert data for analysis (OCR, transcription, etc.); read, annotate, analyze using software.
-        - subanswer: >
-            *Publication and Sharing*: write! Finalized documentation; de-identify data if needed; deposit data with repository; publicize through social media, e-mail, etc.
-        - subanswer: >
-            *Long-term Management*: handled by data repository.
+        Answers to these questions may vary depending upon how scholars conceive of the research process and how they collect and analyze data. 
+        One aspect you might question is the arrow from “long-term management” to “discovery and planning”.  Do you see one research project tightly linked to the next in the way this arrow suggests?  One aspect you might not have thought about before is long-term management of your data; had you considered the possibility of (someone) taking care of your data for years or decades? 
+        A core concern with the RDL model, particularly in the context of qualitative research, is that it has gaps and glosses over details. You can probably think of multiple steps you will take between any two steps in the model.  Also, there is not always a neat distinction between planning, initial, and final data collection. You (will) likely also shift between planning your research (including data collection), carrying it out, and writing. And qualitative researchers often go back and forth between data and theory. The lifecycle doesn’t reflect any of these “back-and-forths”.  When you’re planning your research, you should.
+
+
 - title: "Limitations of the Lifecycle Model"
   id: 2
   module: "1a"
