@@ -86,11 +86,9 @@ But why this emphasis on *advance* *planning* of data management? There are two 
 All researchers are familiar with the “research lifecycle”, pictured below. This lifecycle traces the arc of a research project — from identifying a research topic / question / opportunity, to (potentially)
 finding others to work with, to securing funding, to reviewing extant work on the topic, to designing the project, to data generation and analysis, to writing up, to publication.
 
-![](media/image1.png){width="2.5208333333333335in"
-height="2.1666666666666665in"}
+![Research Lifecycle]({{ site.baseurl }}/images/research-lifecycle.png)
 
-Nicholas, David & Rowlands, Ian & Wamae, Deanna. (2012). Charleston Conference Observatory: Are Social Media Impacting in Research?.
-10.5703/1288284314807. p. 16
+Research Lifecycle. Based on: Nicholas, David & Rowlands, Ian & Wamae, Deanna. (2012). *Charleston Conference Observatory: Are Social Media Impacting in Research?*. [https://doi.org/10.5703/1288284314807](https://doi.org/10.5703/1288284314807){:target="_blank"}. p. 16
 
 The “research data lifecycle” (RDL), pictured below, is closely related.
 On the one hand, the RDL tracks the research lifecycle, highlighting your continuous interaction with your data over the arc of a research project. At every point in a research project — from your initial ideas about what data you’ll need to support your claims, through collecting and analyzing those data, through sharing them when you publish based on them, through preserving them for yourself and others — you are working with your data.
@@ -100,7 +98,7 @@ beyond the dissemination of research results). It also involves ensuring the ind
 
 ![Research Data Lifecycle]({{ site.baseurl }}/images/data-lifecycle.png)
 
-Based on: Green, Ann G., and Myron P. Gutmann. (2007) “Building Partnerships among Social Science Researchers, Institution-based Repositories, and Domain Specific Data Archives.” *OCLC Systems and Services: International Digital Library Perspectives*. 23: 35-53.
+Research Data Lifecycle. Based on: Green, Ann G., and Myron P. Gutmann. (2007) “Building Partnerships among Social Science Researchers, Institution-based Repositories, and Domain Specific Data Archives.” *OCLC Systems and Services: International Digital Library Perspectives*. 23: 35-53.
 [http://doi.org/10.1108/10650750710720757](http://doi.org/10.1108/10650750710720757){:target="_blank"}
 
 s you think through and execute your project, keep the RDL in mind (or even physically in front of you: here is [a pdf version]({{ site.baseurl }}/files/data-lifecycle.pdf){:target="_blank"} to print out, and make sure that you are taking good care of your data at every step of the way!
