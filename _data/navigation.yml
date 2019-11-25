@@ -9,14 +9,12 @@
   - title: "Planning the management of qualitative data"
     url: "/modules/1/"
     dropdown:
-    - title: "Understanding the data lifecycle"
+    - title: "Research Data Management and the Data Lifecycle"
       url: "/modules/1/a/"
-    - title: "Data management planning basics"
-      url: "/modules/1/b/"
     - title: "Creating a Data Management Plan (DMP)"
-      url: "/modules/1/c/"
+      url: "/modules/1/b/"
     - title: "Creating an informed consent script that anticipates sharing data"
-      url: "/modules/1/d/"
+      url: "/modules/1/c/"
   - title: "Managing qualitative data"
     url: "/modules/2/"
     dropdown:
