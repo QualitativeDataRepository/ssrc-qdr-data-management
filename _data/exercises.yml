@@ -80,10 +80,12 @@
   content:
     - question: >
         1. Make a list of three types of documentation at the project or file level that you will need to create for a research project you are carrying out. For each item, indicate in what form you’ll create the documentation (i.e., as a Word doc, Excel spreadsheet?) and offer a short description of the types of information you’ll include in that documentation.
+
         2. Think through three ways in which creating and having this documentation will help you.
   solution:
     - answer: >
         Documentation lists and insights will vary considerably from project to project. The goal of this exercise is simply for you to think about the ways in which data documentation is valuable – operationally and analytically – to *you* and *your project*, as the more valuable you perceive documentation to be the more likely you are to create it. We provide a sample solution here, but don’t using it as a template. You should come up with your own strategies matching your data and your workflows.
+
 
         **Sample solution:**
 
@@ -135,16 +137,13 @@
     - answer: >
         There is no “solution” to this exercise. As you look at your (or your partner’s) templates, consider the following: (1) will it be easy to use during your research? (2) will you be able to find relevant information quickly and easily? (3) will the information in your template help someone else to understand your data? (4) what other criteria are important?
 
+
         **Sample solution**
         -   I will use a Google Sheet for this instead of an Excel spreadsheet so I can easily show it to my dissertation advisors. I plan to add three columns to the template.
-
-            -    In the particular archive in which I’m working different rooms (which include different types of materials) have different names -- so I’m going to add a column for “room name”.
-
-            -    Another observation I had is that some collections are far more organized than others. I need to think about why, but I will add a column for “degree of collection organization” so I can keep track of this.
-
-            -    OK, this is a bit weird, but I’ve noticed that records from April-May 1997 seem to be missing from a lot of the collections -- but not from all of them. Again, I don’t know why, but this has attracted my attention. So I’m going to add a column for “April-May 1997 missing from collection?” so I can keep track of this.
-
-            -    While I’ve now made my template a bit more complicated, I’m still confident that I’ll use it (I’m a complicated person). Right now I also can’t
+          -    In the particular archive in which I’m working different rooms (which include different types of materials) have different names -- so I’m going to add a column for “room name”.
+          -    Another observation I had is that some collections are far more organized than others. I need to think about why, but I will add a column for “degree of collection organization” so I can keep track of this.
+          -    OK, this is a bit weird, but I’ve noticed that records from April-May 1997 seem to be missing from a lot of the collections -- but not from all of them. Again, I don’t know why, but this has attracted my attention. So I’m going to add a column for “April-May 1997 missing from collection?” so I can keep track of this.
+          -    While I’ve now made my template a bit more complicated, I’m still confident that I’ll use it (I’m a complicated person). Right now I also can’t
 - title: "Comparing Documentation / Metadata"
   id: 9
   module: "2b"
