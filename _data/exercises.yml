@@ -7,11 +7,11 @@
   #description: "This is a test exercise"
   content:
     - question: >
-        Take another close look at the research data lifecycle. Does the cycle track how you have dealt with your data -- or how you envision doing so?  Do you think these steps actually form a cycle? Are there steps that you hadn’t fully considered?  Do you think there are steps missing?  If you now can see how your research data might have a “lifecycle,” will that change anything about your workflow going forward? 
+        Take another close look at the research data lifecycle. Does the cycle track how you have dealt with your data -- or how you envision doing so?  Do you think these steps actually form a cycle? Are there steps that you hadn’t fully considered?  Do you think there are steps missing?  If you now can see how your research data might have a “lifecycle,” will that change anything about your workflow going forward?
   solution:
     - answer: >
-        Answers to these questions may vary depending upon how scholars conceive of the research process and how they collect and analyze data. 
-        One aspect you might question is the arrow from “long-term management” to “discovery and planning”.  Do you see one research project tightly linked to the next in the way this arrow suggests?  One aspect you might not have thought about before is long-term management of your data; had you considered the possibility of (someone) taking care of your data for years or decades? 
+        Answers to these questions may vary depending upon how scholars conceive of the research process and how they collect and analyze data.
+        One aspect you might question is the arrow from “long-term management” to “discovery and planning”.  Do you see one research project tightly linked to the next in the way this arrow suggests?  One aspect you might not have thought about before is long-term management of your data; had you considered the possibility of (someone) taking care of your data for years or decades?
         A core concern with the RDL model, particularly in the context of qualitative research, is that it has gaps and glosses over details. You can probably think of multiple steps you will take between any two steps in the model.  Also, there is not always a neat distinction between planning, initial, and final data collection. You (will) likely also shift between planning your research (including data collection), carrying it out, and writing. And qualitative researchers often go back and forth between data and theory. The lifecycle doesn’t reflect any of these “back-and-forths”.  When you’re planning your research, you should.
 
 - title: "Using the Data Lifecycle for Planning"
@@ -75,64 +75,115 @@
             - If there is going to be de-identification involved, do you explain what that entails? Do you avoid overpromising?
         [Here is some language suggested by QDR](https://qdr.syr.edu/guidance/templates#informed-consent).
 - title: "Documenting Your Data"
-  id: 8
+  id: 7
   module: "2a"
   content:
     - question: >
-         Make a list of three types of documentation at the project or file level that you will need to create for a research project you are carrying out. For each item, indicate in what form you’ll create the documentation and offer a short description of the types of information you’ll include in that documentation. *Then*, imagine that you are carrying out your project in more than one context, and need to do so in as similar a way as possible across contexts in order to maximize the comparability (and thus analytic utility) of the data. Imagine that you did *not* produce any of the documentation you were just planning to create. What are three ways in which data generation in the additional contexts could depart from data generation in the initial context, and how would those departures impact the analytic utility of the data?
+        1. Make a list of three types of documentation at the project or file level that you will need to create for a research project you are carrying out. For each item, indicate in what form you’ll create the documentation (i.e., as a Word doc, Excel spreadsheet?) and offer a short description of the types of information you’ll include in that documentation.
+        2. Think through three ways in which creating and having this documentation will help you.
   solution:
     - answer: >
-        Documentation lists and insights will vary considerably from project to project. The goal of this exercise is simply for you to think about the ways in which data documentation is valuable -- operationally and analytically -- to *you* and *your project*, as the more valuable you perceive documentation to be the more likely you are to create it.
+        Documentation lists and insights will vary considerably from project to project. The goal of this exercise is simply for you to think about the ways in which data documentation is valuable – operationally and analytically – to *you* and *your project*, as the more valuable you perceive documentation to be the more likely you are to create it. We provide a sample solution here, but don’t using it as a template. You should come up with your own strategies matching your data and your workflows.
+
+        **Sample solution:**
+
+        -	Project-level documentation -- “who”
+
+          -	I will use a (continually evolving) Google doc for this (so I can share it with my dissertation advisors easily). I will not use a date-extension in the file name to version, but Google doc’s version history will allow anyone viewing the document to see what changed when.
+
+          -	The document will have two sections: (1\) project personnel and (2\) interview respondents (interviews are the only form of interactive data collection I’m using).
+
+            -	(1\) I will include here a list (using pseudonyms just to be extra cautious) of the small group of people (research assistants, translators, transcribers) whom I’ve invited to work with me on the project, listing information relevant to each (e.g., the institution with which they’re affiliated, how I identified then, when I interviewed and hired them; by what logic, how, how much, and how often I plan to pay them, what exactly they are doing). (I should keep track of their birthdays too.)
+
+            -	(2\) Here I’m thinking not a list of my interview respondents (I have another plan for that) but rather the methodology I used to identify people in their “category” -- i.e., how did I identify/choose judges to interview, how did I identify/choose clerks to interview, how did I identify/choose constitutional scholars to interview, etc..
+
+        -	Project-level documentation -- “when”
+
+          -	I will use a (continually evolving) Google doc for this (so I can share it with my dissertation advisors easily). I will not use a date-extension in the file name to version, but Google doc’s version history will allow anyone viewing the document to see what changed when.
+
+          -	This document is going to be kind of like a diary. Each day I’m going to make a short entry about what I did for my research project. I will be sure to highlight important milestones, key decisions made and problems that I resolved (or am stuck on), key interviews (using a code for respondents), etc..
+
+        -	File-level documentation -- interview
+
+          -	I’m not sure how many of my interviews I’m going to audio-record, and of those, for how many I’ll make formal transcripts. Even without doing these things, though, I will want to keep track of a lot of aspects of my interviews. I already looked ahead to the next lesson and I really like what I saw there about the two types of “informal documentation” I can create for each interview -- both “practical information” and “observations and reactions.
+
+          -	I’m going to have a dedicated Google doc for each interview that contains this information.
+
+          -	Having this information at my fingertips will help me (along with my first type of documentation above) to make sure I’m carrying out my inquiry in a similar way in my second research context.
+
+        -	How this documentation will help me
+
+          -	Having to write all of this will help me think critically about my choices. I didn’t do a very good job *justifying* my choices above, but in my actual documentation I’ll do so. This will help me to make sure I’m making well-founded choices (and convince my dissertation advisors of the same).
+
+          -	Having this will help me remember what I did, which it will be really important to have in mind when I’m interpreting my data and using them to support claims and conclusion in my written work.
+
+          -	I’m carrying out my project in two different countries and I want my research processes to be the same in both (in hopes of maximizing the comparability of my data). Keeping careful track of all of this will help me to operate the same way in both contexts.
+
+            -	For instance, it will be really important that I try to identify people in the same way -- and have more or less the same mix of people -- in both of my interview contexts. My first and third types of documentation above will help me to do that.
+
 - title: "Creating Templates"
+  id: 8
+  module: "2b"
+  content:
+    - question: >
+         Amend the template archive log we offered above in a way that will make it more useful for your project, or create a template for “informal documentation” for a form of interactive data collection in which you are engaging or will engage. Make sure to think hard about what information particular to your project you want to systematically collect. Then choose one of the options below:
+
+          -    If you are working independently, consider whether, realistically, you will use your template – is it so complicated that you are unlikely to stick with it? Also, imagine yourself six to nine months in the future trying to remember the data-collection context. What is your template missing that would help you re-conjure that context?
+
+          -    If you are taking this course at the same time as someone else whom you know, exchange templates, and critique each other’s. What do you find particularly valuable / useful about your partner’s template? What is missing? What is extraneous?
+  solution:
+    - answer: >
+        There is no “solution” to this exercise. As you look at your (or your partner’s) templates, consider the following: (1) will it be easy to use during your research? (2) will you be able to find relevant information quickly and easily? (3) will the information in your template help someone else to understand your data? (4) what other criteria are important?
+
+        **Sample solution**
+        -   I will use a Google Sheet for this instead of an Excel spreadsheet so I can easily show it to my dissertation advisors. I plan to add three columns to the template.
+
+            -    In the particular archive in which I’m working different rooms (which include different types of materials) have different names -- so I’m going to add a column for “room name”.
+
+            -    Another observation I had is that some collections are far more organized than others. I need to think about why, but I will add a column for “degree of collection organization” so I can keep track of this.
+
+            -    OK, this is a bit weird, but I’ve noticed that records from April-May 1997 seem to be missing from a lot of the collections -- but not from all of them. Again, I don’t know why, but this has attracted my attention. So I’m going to add a column for “April-May 1997 missing from collection?” so I can keep track of this.
+
+            -    While I’ve now made my template a bit more complicated, I’m still confident that I’ll use it (I’m a complicated person). Right now I also can’t
+- title: "Comparing Documentation / Metadata"
   id: 9
   module: "2b"
   content:
     - question: >
-         Create a template for an archive log, or for “informal metadata” for  a form of interactive data collection in which you anticipate, or  are, engaging. Make sure to think hard about what information  particular to your project you want to systematically collect.  Then choose one of the options below:
-            -   If you are working independently, consider whether,  realistically, you will use your template -- is it so  complicated that you are unlikely to stick with it? Also,  imagine yourself six to nine months in the future trying to  remember the data-collection context. What is your template  missing that would help you re-conjure that context?
-            -   If you are taking this course at the same time as someone else  whom you know, exchange templates, and critique each other’s.  What do you find particularly valuable / useful about your  partner’s template? What is missing? What is extraneous?
+         Compare [these data on figshare](https://doi.org/10.6084/m9.figshare.2008653.v1) with [these data on QDR](https://doi.org/10.5064/F6CN723S). What are some of the differences in terms of the quantity and the quality of documentation? Which data do you feel like you have a better feel for -- and will be better able to interpret -- even before looking at the data? What is it about the metadata and documentation that helps you most?
+
   solution:
     - answer: >
-        There is no “solution” to this exercise. As you look  at your (or your partner’s) templates, consider the following: (1)  will it be easy to use during your research? (2) will you be able  to find relevant information quickly and easily? (3) will the  information in your template help someone else to understand your  data? (4) what other criteria are important?
-- title: "Comparing Documentation / Metadata"
-  id: 10
-  module: "2b"
-  content:
-    - question: >
-         Compare [*these data on figshare*](https://doi.org/10.6084/m9.figshare.2008653.v1) with [these data on QDR](https://doi.org/10.5064/F6CN723S). How does  the available documentation / metadata differ? How do these  differences matter?
-  solution:
-    - answer: >
-        You likely noticed that the QDR project includes more  detailed information about the content and generation of the data  *and* more detailed metadata. Here are some specific differences:
-            
-        -   You can tell when the data were collected and where.
-            
-        -   You can follow the logic of the social media excerpts Clarke has collected. On the other hand, can you follow the meaning of  the “Subject” codes in the first column of the Patel et al.  data?
-            
-        -   The detailed information about the generation of the data on QDR  mean you can better decide on whether and how much to trust  the data.
+        You likely noticed that the QDR project includes more detailed information about the content and generation of the data *and* more detailed metadata. Here are some ways that the more detailed documentation attending the QDR project can help you better understand (and more easily use) the data:
+          -   You can tell when the data were collected and where.
+
+          -    You can follow the logic of the social media excerpts Clarke has collected. On the other hand, can you follow the meaning of the “Subject” codes in the first column of the Patel et al. data?
+
+          -    You can better decide on whether and how much to trust the data.
 - title: "Folder and Filename Assessment"
-  id: 11
+  id: 10
   module: "2c"
   content:
     - question: >
-        Open the master folder for one of your current research projects and candidly assess how clearly and consistently you are naming your folders and files. Consider, for instance, the following:
-        
+        Open the master folder for one of your current research projects and  candidly assess how clearly and consistently you are naming your  folders and files. Consider, for instance, the following:
+
         -   How many levels of folders do you have -- levels within levels within levels? Are there enough levels, too many, or too few?
-        
+
         -   Can you tell, without opening a folder, what is in it?
-        
+
         -   Is there some logic behind the organization of your folders, or does it seem you just created a new one whenever you needed one?
-        
+
         -   How consistent are the names of your files?
-        
+
         -   If you have multiple versions of particular files, can you tell which is the most current?
-        
-        
-        Create a new document (clearly named!) that will be a draft of the memo to yourself about the organization and naming of your folders and files. Create the first few bullets under “folder organization and naming” and under “file organization and naming” that could serve as instructions to yourself for re-organizing and renaming your folders and files.
+
+
+        Create a new document (clearly named!) that will be a draft of the  memo to yourself about the organization and naming of your folders  and files. Create the first few bullets under “folder organization  and naming” and under “file organization and naming” that could  serve as instructions to yourself for (re)organizing and  (re)naming your folders and files.
   solution:
     - answer: >
-        As with many other exercises, this one has no standard solution. The goal is simply for you to begin thinking critically about how you are organizing and naming your folders and files, and to take the first steps toward more optimal organization and naming. If you find that there are some real improvements to make, think about when you will make them, cognizant that changes are much easier to make the earlier you are in your project.
+        As with many other exercises, this one has no standard solution.  The goal is simply for you to begin thinking critically about how  you are organizing and naming your folders and files, and to take  the first steps toward more optimal organization and naming. If  you find that there are some real improvements to make, think  about when you will make them, cognizant that changes are much  easier to make the earlier you are in your project.
 - title: "Data Safety and Security Self-assessment"
-  id: 12
+  id: 11
   module: "2c"
   content:
     - question: >
@@ -141,24 +192,24 @@
     - answer: >
         Again, this exercise has no standard solution. Its goal is to highlight the importance of being mindful of data security from the very beginning of a research project. This relatively small investment will give you peace of mind throughout your research process. Don’t skip it.
 - title: "Digitizing Documents (optional)"
-  id: 13
+  id: 12
   module: "2d"
   content:
     - question: >
         If your work is heavily based on documentary evidence and you anticipate taking a lot of digital pictures of documents, and you are not familiar with the steps above, carry them out for a set of five documents:
-         -   Take a digital picture of each.
-         -   Assemble them into a single PDF.
-         -   Familiarize yourself with two OCR tools by using them to turn a scanned image file into machine-readable text.
-         -   If the steps in either process were unintuitive or easily forgotten, make yourself a quick “cheat sheet” outlining the steps so you are not starting from square one the next time.
+          -   Take a digital picture of each.
+          -   Assemble them into a single PDF.
+          -   Familiarize yourself with two OCR tools by using them to turn a scanned image file into machine-readable text.
+          -   If the steps in either process were unintuitive or easily forgotten, make yourself a quick “cheat sheet” outlining the steps so you are not starting from square one the next time.
   solution:
     - answer: >
-        Rather than a solution, we offer some questions for you to think about. What did you learn about the software you used? What did you name your “cheat sheet” -- is that a good name? Where did you put it and why? Will you be able to find it again?
+        Rather than a solution, we offer some questions for you to think about. What did you learn about the software you used? What did you name your “cheat sheet” – is that a good name? Where did you put it and why? Will you be able to find it again?
 - title: "Transcribing Interviews (optional)"
-  id: 14
+  id: 13
   module: "2d"
   content:
     - question: >
-         Transcribe ten minutes of the audio recording from an interview, focus group, or other type of interactive data collection in which you engaged. That is, play the recording and manually write down what each person says during the first ten minutes of the exchange. If you do not (yet) have such a recording, use an interview that you can find on YouTube that is in the language that you use to collect / generate data (just listening to the audio). Record your observations / reactions:
+        Transcribe ten minutes of the audio recording from an interview, focus group, or other type of interactive data collection in which you engaged. (Alternatively, you can find on YouTube an audio recording -- in the language that you use to collect / generate data -- of an interview conducted by someone else relating to the topic of you research.) Play the recording and manually write down what each person says during the first ten minutes of the exchange. Record your observations / reactions:
           -   How long did it take you?
           -   What were the biggest challenges?
           -   What formatting issues immediately occur to you and how would you resolve them?
@@ -167,22 +218,19 @@
     - answer: >
         This exercise is designed to give you a sense of the transcription process; to help you decide whether transcribing the recordings from your interactive data collection is something you want to do; and to help direct your technology choices. Think carefully about your answers to the questions, reminding yourself of approximately how many recordings you anticipate you will be dealing with.
 - title: "Translating Sources (optional)"
-  id: 15
+  id: 14
   module: "2d"
   content:
     - question: >
-         If you have transcripts in a language different from the one in which you will write your research products, translate the transcript that you created in the previous exercise from the original language into the one in which you will write your research product. Record your observations / reactions:
-         
-         -   How long did it take you?
-         
-         -   What were the biggest challenges?
-         
-         -   If you were to use software to help you translate, what functionality do you now see it will need to have?
+         If you have transcripts in a language different from the one in which you will write your research products, translate a brief tranche of one transcript into the language in which you will write your research product. (If you have not yet created transcripts, translate a small tranche of, say, an article related to your research topic that is in the language in which you plan to conduct your interactive data collection.) Record your observations / reactions:
+          -   How long did it take you?
+          -   What were the biggest challenges?
+          -   If you were to use software to help you translate, what functionality do you now see it will need to have?
   solution:
     - answer: >
        This exercise is designed to give you a sense of the translation process; to help you decide whether translating the transcripts of the recordings of your interactive data collection is something you would like to do; and to help direct your technology choices. Think carefully about your answers to the questions, reminding yourself of approximately how many transcripts, and how much of those transcripts you might need to translate.
 - title: "Creating a Data Sharing Policy"
-  id: 16
+  id: 15
   module: "3a"
   content:
     - question: >
@@ -222,15 +270,15 @@
            2. [This image](https://static.politico.com/dims4/default/278bad4/2147483647/resize/1160x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F00%2Fbe%2F0797698f4511934eb3aa1cad7a02%2F170611-this-day-reagan-ap-8706120220.jpg) of Ronald Reagan challenging Gorbachev to “tear down this wall,” taken by an Associated Press Photographer in 1987
            3. This [seminal article on public administration](http://teachingamericanhistory.org/library/document/the-study-of-administration/), written by Woodrow Wilson in 1887, 26 years before assuming the presidency
            4. [This image](https://pm.gc.ca/sites/pm/files/20180812_pg2_01.jpg) of Canadian Prime Minister Justin Trudeau, taken in 2018 by photographer Adam Scotti of the Prime Minister’s Office
-         
+
   solution:
     - answer: >
            1. Yes (was produced by an employee of the US government in the exercise of their duty)
-           
+
            2. No (was not produced by an employee of the US government)
-           
+
            3. Yes (published before 1923)
-           
+
            4. No (work by Canadian government employees is protected by copyright for 50 years under “Crown copyright.” We did not necessarily expect you to delve into Canadian law here, but hope the provenance of the image made you realize that that is the source that you’d have to check to answer the question, and brought home the point that you should assume a work *is* under copyright unless you *know* otherwise.)
 - title: "Getting Permission from an Archive"
   id: 19
@@ -251,7 +299,7 @@
   solution:
     - answer: >
         You’ll have noted that the broken links lead to all sorts of different websites: personal, institutional, even government websites. In some cases (such as Erik Voeten’s Princeton page and the Polish Center for Public Opinion Research CBOS), the Way Back Machine is not able to find any archived copy. You may still be able to track down this information by looking at the current sites -- or you may not. For other cases, you can access the webpage, such as Richard Tucker’s page at Vanderbilt, but the actual data aren’t archived there. For the Correlates of War project, you are able to download the full data from the Internet Archive. You could also go to the project’s [current site](http://www.correlatesofwar.org/data-sets/folder_listing), but would you be able to find the version of the data corresponding to the 2000 article there?
-        
+
         The internet offers you powerful tools to retrieve old information, but even with those tools, the content behind some links -- containing key parts of the scholarly record -- may be lost forever. You should have strategies for tracking down such lost data, but more importantly, you should make sure that the same fate does not befall your data and links. The best way to do this is to deposit your data in a repository.
 - title: "Data Sharing SNAFU"
   id: 21
