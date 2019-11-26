@@ -29,7 +29,7 @@ initialquestions:
 
 In this section we offer some examples of documentation you can create when engaging in two common techniques for collecting / generating qualitative data -- archival research and human participant research (e.g., conducting interviews, focus groups, etc.). The examples should help illustrate how you can effectively document different types of data, and how doing so helps you to assess the quality and evidentiary value of the data. These examples are neither exhaustive nor prescriptive. Different research projects and different types of data will benefit from different types of documentation, and documentation in different formats. You should adapt the examples we offer to fit your project and your data.
 
-![Lifecycle thumbnail *collecting*]({{ site.baseurl }}/images/lifecycle-collection .png)
+![Lifecycle thumbnail *collecting*]({{ site.baseurl }}/images/lifecycle-collection.png)
 
 ### Archive Research Logs
 
@@ -107,7 +107,7 @@ Informal documentation of an interaction might include the following with regard
 {% include _exercise.html exerciseid="8" %}
 
 ## From Documentation to Metadata
-![Lifecycle thumbnail *publication and longterm*]({{ site.baseurl }}/images/publication-longterm.png)
+![Lifecycle thumbnail *publication and longterm*]({{ site.baseurl }}/images/lifecycle-publication-longterm.png)
 
 
 Metadata are simply “data about data”. Alternatively you can think of them as highly structured documentation. You interact with metadata in your research (and beyond) all the time:

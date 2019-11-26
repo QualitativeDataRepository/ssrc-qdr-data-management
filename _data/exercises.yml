@@ -1,5 +1,4 @@
 # Exercise details
-#
 
 - title: "You and the Research Data Lifeycle"
   id: 1
@@ -142,6 +141,7 @@
 
 
         ### Sample solution
+        
         -   I will use a Google Sheet for this instead of an Excel spreadsheet so I can easily show it to my dissertation advisors. I plan to add three columns to the template.
           -    In the particular archive in which I’m working different rooms (which include different types of materials) have different names -- so I’m going to add a column for “room name”.
           -    Another observation I had is that some collections are far more organized than others. I need to think about why, but I will add a column for “degree of collection organization” so I can keep track of this.

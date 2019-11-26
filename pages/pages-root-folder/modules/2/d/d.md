@@ -25,6 +25,7 @@
 
 {% include _learningobjectivesandquestions.html %}
 
+![Lifecycle thumbnail *collecting and analyzing*]({{ site.baseurl }}/images/lifecycle-collection-analysis.png)
 
 ## An Archivist's View on Transformation
 
