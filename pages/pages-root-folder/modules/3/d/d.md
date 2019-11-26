@@ -58,7 +58,7 @@ The bottom line is, you’re a scholar! You’re equipped to generate and analyz
 
 Don’t let this be your research data!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/66oNv_DJuPc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 {% include _exercise.html exerciseid="19" %}
 
 ## Where to Share Data: What Data Repositories Do
@@ -82,6 +82,8 @@ Most full-service repositories offer the following services:
     -   Repositories allow you to establish user-access controls for your data when these are necessary to protect confidentiality and personal privacy as required by law and the ethical standards of your research community.
 -   Collaborate across disciplines to achieve interoperability among scientific communities
     -   Repositories often allow the “harvesting” of their metadata through a dedicated protocol, facilitating the development of search interfaces covering many data repositories.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/66oNv_DJuPc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
 {% include _exercise.html exerciseid="20" %}
 
