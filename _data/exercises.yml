@@ -18,10 +18,10 @@
   module: "1b"
   content:
     - question: >
-        Using a depiction of the data lifecycle (you can draw one by hand or download and print a PDF version from [here](https://managing-qualitative-data.org/files/data-lifecycle.pdf)), write out which data management planning and/or data management steps you should take at every point in the lifecycle.
+        Using a depiction of the data lifecycle (you can draw one by hand or download and print a PDF version from [here](https://managing-qualitative-data.org/files/data-lifecycle.pdf){:target="_blank"}), write out which data management planning and/or data management steps you should take at every point in the lifecycle.
   solution:
     - answer: >
-       The details will of course depend on your individual solution, but the image below gives you some ideas of some DM steps that may occur at each point in the data lifecycle. ![Lifeycle with interventions](https://managing-qualitative-data.org/images/lifecycle-interventions.png)
+       The details will of course depend on your individual solution, but the image below gives you some ideas of some DM steps that may occur at each point in the data lifecycle. ![Lifeycle with interventions](https://managing-qualitative-data.org/images/lifecycle-interventions.png){:target="_blank"}
 - title: "Using the DMP Tool"
   id: 3
   module: "1b"
@@ -30,18 +30,18 @@
         Create an account for the DMP Tool (if possible through your university) and write a very brief DMP. Your plan does not need to be very detailed (for now) – the goal is to get a sense of the tool.
   solution:
     - answer: >
-        Go to [https://dmptool.org/](https://dmptool.org/), click on "Get started" and select your institution on the next screen. Then click “Create New DMP” and use a template. We suggest the NSF’s Social, Behavioral, and Economic Science as a good default, but feel free to pick any funder that seems relevant.
+        Go to [https://dmptool.org/](https://dmptool.org/){:target="_blank"}, click on "Get started" and select your institution on the next screen. Then click “Create New DMP” and use a template. We suggest the NSF’s Social, Behavioral, and Economic Science as a good default, but feel free to pick any funder that seems relevant.
 - title: "Assessing DMPs"
   id: 4
   module: "1b"
   content:
     - question: >
-        Find the rubric by Whitmire et al. [here](https://osf.io/jj7dm/) and a scoresheet for the rubric [here](https://osf.io/twynp/). Use this rubric to evaluate the data management plan by Fisher and Nading (2016) [here](https://doi.org/10.3897/rio.2.e8720). (Alternatively, when working in a group or with a partner, you can exchange DMPs and assess each other's). For now, use the example language in the rubric to score the DMP.
+        Find the rubric by Whitmire et al. [here](https://osf.io/jj7dm/){:target="_blank"} and a scoresheet for the rubric [here](https://osf.io/twynp/){:target="_blank"}. Use this rubric to evaluate the data management plan by Fisher and Nading (2016) [here](https://doi.org/10.3897/rio.2.e8720){:target="_blank"}. (Alternatively, when working in a group or with a partner, you can exchange DMPs and assess each other's). For now, use the example language in the rubric to score the DMP.
     - question: >
         As you work through the rubric, try to not just think about what you would improve about the DMP, but also where the rubric itself might fall short.
   solution:
     - answer: >
-        You can look at a rubric for the Fisher and Nading data management plan that we filled out [here](https://managing-qualitative-data.org/files/dmp-rubric-fisher-nading.pdf). Don’t expect to have the exact same assessment throughout, but look again at areas where you disagree with our assessment.
+        You can look at a rubric for the Fisher and Nading data management plan that we filled out [here](https://managing-qualitative-data.org/files/dmp-rubric-fisher-nading.pdf){:target="_blank"}. Don’t expect to have the exact same assessment throughout, but look again at areas where you disagree with our assessment.
     - answer: >
         The most important weakness of the rubric is that it assesses the mere presence of a topic, not the quality of the response. For example, “I will e-mail my data to interested researchers” would qualify as a full score to question 4.2, but is clearly not a satisfactory answer. Moreover, given NSF’s interest in DMPs, they focus heavily on the sharing and dissemination component, but make little mention of some of the earlier, crucial issues, such as back-up or personnel.
 - title: "Evaluating Informed Consent Language"
@@ -74,7 +74,7 @@
         - Does the script make clear that the data will be shared?
 
         - If there is going to be de-identification involved, do you explain what that entails? Do you avoid overpromising?
-        [Here is some language suggested by QDR](https://qdr.syr.edu/guidance/templates#informed-consent).
+        [Here is some language suggested by QDR](https://qdr.syr.edu/guidance/templates#informed-consent){:target="_blank"}.
 - title: "Documenting Your Data"
   id: 7
   module: "2a"
@@ -152,7 +152,7 @@
   module: "2b"
   content:
     - question: >
-         Compare [these data on figshare](https://doi.org/10.6084/m9.figshare.2008653.v1) with [these data on QDR](https://doi.org/10.5064/F6CN723S). What are some of the differences in terms of the quantity and the quality of documentation? Which data do you feel like you have a better feel for -- and will be better able to interpret -- even before looking at the data? What is it about the metadata and documentation that helps you most?
+         Compare [these data on figshare](https://doi.org/10.6084/m9.figshare.2008653.v1){:target="_blank"} with [these data on QDR](https://doi.org/10.5064/F6CN723S){:target="_blank"}. What are some of the differences in terms of the quantity and the quality of documentation? Which data do you feel like you have a better feel for -- and will be better able to interpret -- even before looking at the data? What is it about the metadata and documentation that helps you most?
 
   solution:
     - answer: >
@@ -189,7 +189,7 @@
   module: "2c"
   content:
     - question: >
-         Take QDR’s [Data Safety & Security Self-assessment here](https://managing-qualitative-data.org/files/safety-security-self-assessment.pdf) and see if and where your current practices need improvement. If there are things you want to change, make at least one such change immediately.
+         Take QDR’s [Data Safety & Security Self-assessment here](https://managing-qualitative-data.org/files/safety-security-self-assessment.pdf){:target="_blank"} and see if and where your current practices need improvement. If there are things you want to change, make at least one such change immediately.
   solution:
     - answer: >
         Again, this exercise has no standard solution. Its goal is to highlight the importance of being mindful of data security from the very beginning of a research project. This relatively small investment will give you peace of mind throughout your research process. Don’t skip it.
@@ -253,26 +253,26 @@
         -   Have you addressed possible trade-offs between promoting data sharing and deterring authors from submitting their best work to your journal?
         -   What potential sources of conflict does your policy introduce?
 
-        To illustrate the state of current practices, here are two different data policies. The *PLOS* journals [data policy](https://journals.plos.org/plosone/s/data-availability) mandates data deposit for all articles, explicitly states that proprietary data are not acceptable as the sole empirical basis for an article, and describes specific options for qualitative data. The [*American Political Science Review*’s data policy](https://www.apsanet.org/APSR-Submission-Guidelines) (see “Reproduction Policy”) is significantly shorter with fewer requirements. As you consider these policies, note some of the differences between what is required for scholarship based on quantitative data and analysis v. work based on qualitative data and analysis.
+        To illustrate the state of current practices, here are two different data policies. The *PLOS* journals [data policy](https://journals.plos.org/plosone/s/data-availability){:target="_blank"} mandates data deposit for all articles, explicitly states that proprietary data are not acceptable as the sole empirical basis for an article, and describes specific options for qualitative data. The [*American Political Science Review*’s data policy](https://www.apsanet.org/APSR-Submission-Guidelines){:target="_blank"} (see “Reproduction Policy”) is significantly shorter with fewer requirements. As you consider these policies, note some of the differences between what is required for scholarship based on quantitative data and analysis v. work based on qualitative data and analysis.
 - title: "De-identification"
   id: 16
   module: "3b"
   content:
     - question: >
-        Read the passage in [this PDF](https://managing-qualitative-data.org/files/de-identification-exercise.pdf) and then seek to de-identify it as best you can. Your first step should be to create a set of de-identification rules to follow.
+        Read the passage in [this PDF](https://managing-qualitative-data.org/files/de-identification-exercise.pdf){:target="_blank"} and then seek to de-identify it as best you can. Your first step should be to create a set of de-identification rules to follow.
   solution:
     - answer: >
-        You can find a [sample de-identification here]({{site.baseurl}}/files/de-identification-exercise-solution.pdf). Note how we left some specific information such as “Philadelphia” and “South Philadelphia” intact, while replacing other specific information such as years and school names. Details of de-identification depend both on what additional context is provided in the interview transcript and what parts are of particular importance to a study, i.e., should not be removed if at all possible.
+        You can find a [sample de-identification here]({{site.baseurl}}/files/de-identification-exercise-solution.pdf){:target="_blank"}. Note how we left some specific information such as “Philadelphia” and “South Philadelphia” intact, while replacing other specific information such as years and school names. Details of de-identification depend both on what additional context is provided in the interview transcript and what parts are of particular importance to a study, i.e., should not be removed if at all possible.
 - title: "Public Domain or Not?"
   id: 17
   module: "3c"
   content:
     - question: >
          Determine whether the following works are under copyright or in the public domain, and justify your determination:
-           1. [This image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/United_States_President_Barack_Obama_bends_down_to_allow_the_son_of_a_White_House_staff_member_to_touch_his_head.jpg/1920px-United_States_President_Barack_Obama_bends_down_to_allow_the_son_of_a_White_House_staff_member_to_touch_his_head.jpg) of Obama and the son of one of his staffers taken by Pete Souza, official White House photographer, in 2009
-           2. [This image](https://static.politico.com/dims4/default/278bad4/2147483647/resize/1160x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F00%2Fbe%2F0797698f4511934eb3aa1cad7a02%2F170611-this-day-reagan-ap-8706120220.jpg) of Ronald Reagan challenging Gorbachev to “tear down this wall,” taken by an Associated Press Photographer in 1987
-           3. This [seminal article on public administration](http://teachingamericanhistory.org/library/document/the-study-of-administration/), written by Woodrow Wilson in 1887, 26 years before assuming the presidency
-           4. [This image](https://pm.gc.ca/sites/pm/files/20180812_pg2_01.jpg) of Canadian Prime Minister Justin Trudeau, taken in 2018 by photographer Adam Scotti of the Prime Minister’s Office
+           1. [This image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/United_States_President_Barack_Obama_bends_down_to_allow_the_son_of_a_White_House_staff_member_to_touch_his_head.jpg/1920px-United_States_President_Barack_Obama_bends_down_to_allow_the_son_of_a_White_House_staff_member_to_touch_his_head.jpg){:target="_blank"} of Obama and the son of one of his staffers taken by Pete Souza, official White House photographer, in 2009
+           2. [This image](https://static.politico.com/dims4/default/278bad4/2147483647/resize/1160x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F00%2Fbe%2F0797698f4511934eb3aa1cad7a02%2F170611-this-day-reagan-ap-8706120220.jpg){:target="_blank"} of Ronald Reagan challenging Gorbachev to “tear down this wall,” taken by an Associated Press Photographer in 1987
+           3. This [seminal article on public administration](http://teachingamericanhistory.org/library/document/the-study-of-administration/){:target="_blank"}, written by Woodrow Wilson in 1887, 26 years before assuming the presidency
+           4. [This image](https://pm.gc.ca/sites/pm/files/20180812_pg2_01.jpg){:target="_blank"} of Canadian Prime Minister Justin Trudeau, taken in 2018 by photographer Adam Scotti of the Prime Minister’s Office
 
   solution:
     - answer: >
@@ -301,16 +301,16 @@
         -   when you will be visiting the archive;
         -   an offer to discuss the matter with the archivist when you are on site.
 
-        QDR has [a template for such an email](https://qdr.syr.edu/guidance/templates#archival-reuse) that you might send after conducting your research if you did not find this information out during your time at the archive. If you can, though, it is better to ask these sorts of questions before or during your research at the archive.
+        QDR has [a template for such an email](https://qdr.syr.edu/guidance/templates#archival-reuse){:target="_blank"} that you might send after conducting your research if you did not find this information out during your time at the archive. If you can, though, it is better to ask these sorts of questions before or during your research at the archive.
 - title: "Link Rot"
   id: 19
   module: "3d"
   content:
     - question: >
-        The list of broken links that Gertler and Bullock note (in their 2017 article in *PS*) that they found in the *American Political Science Review* (see above-cited article) is part of the data accompanying their *PS* article; they shared the data through Harvard Dataverse [here](https://doi.org/10.7910/DVN/Q8VDN0) in the file “brokenReproducibilityURLs.tab”. Download the file, open it in Excel, and find the first five links marked as “Did not find resource”. What sorts of websites are these? Can you still find the linked content using the Internet Archive’s [Way Back Machine](https://archive.org/web/)?
+        The list of broken links that Gertler and Bullock note (in their 2017 article in *PS*) that they found in the *American Political Science Review* (see above-cited article) is part of the data accompanying their *PS* article; they shared the data through Harvard Dataverse [here](https://doi.org/10.7910/DVN/Q8VDN0){:target="_blank"} in the file “brokenReproducibilityURLs.tab”. Download the file, open it in Excel, and find the first five links marked as “Did not find resource”. What sorts of websites are these? Can you still find the linked content using the Internet Archive’s [Way Back Machine](https://archive.org/web/){:target="_blank"}?
   solution:
     - answer: >
-        You’ll have noted that the broken links lead to all sorts of different websites: personal, institutional, even government websites. In some cases (such as Erik Voeten’s Princeton page and the Polish Center for Public Opinion Research CBOS), the Way Back Machine is not able to find any archived copy. You may still be able to track down this information by looking at the current sites for such individuals and institutions – or you may not. In other cases, you can access the webpage, such as Richard Tucker’s page at Vanderbilt, but the actual data aren’t archived there. For the Correlates of War project, you are able to download the full data from the Internet Archive. You could also go to the project’s [current site](http://www.correlatesofwar.org/data-sets/folder_listing), but would you be able to find the version of the data mentioned in the 2000 *APSR* article there? The internet offers you powerful tools to retrieve old information, but even with those tools, the content behind some links – containing key parts of the scholarly record – may be lost forever. You should have strategies for tracking down such lost data, but more importantly, you should make sure that the same fate does not befall your data and links. The best way to do this is to deposit your data in a repository.
+        You’ll have noted that the broken links lead to all sorts of different websites: personal, institutional, even government websites. In some cases (such as Erik Voeten’s Princeton page and the Polish Center for Public Opinion Research CBOS), the Way Back Machine is not able to find any archived copy. You may still be able to track down this information by looking at the current sites for such individuals and institutions – or you may not. In other cases, you can access the webpage, such as Richard Tucker’s page at Vanderbilt, but the actual data aren’t archived there. For the Correlates of War project, you are able to download the full data from the Internet Archive. You could also go to the project’s [current site](http://www.correlatesofwar.org/data-sets/folder_listing){:target="_blank"}, but would you be able to find the version of the data mentioned in the 2000 *APSR* article there? The internet offers you powerful tools to retrieve old information, but even with those tools, the content behind some links – containing key parts of the scholarly record – may be lost forever. You should have strategies for tracking down such lost data, but more importantly, you should make sure that the same fate does not befall your data and links. The best way to do this is to deposit your data in a repository.
 - title: "Data Sharing SNAFU"
   id: 20
   module: "3d"
@@ -337,34 +337,66 @@
         Take two pages of something you are currently writing based on qualitative data and analysis (or something you wrote in the recent past), and consider how easy it would be for you to quickly identify and get your hands on the sources needed to support a few of your claims.
   solution:
     - answer: >
-        This exercise is calling on you to assess how well you know your data -- how “accessible” they are to you. If you weren’t able to turn immediately to a list of your data, or the appropriate folder on your computer, but instead started ransacking different folders of your computer thinking about what might serve as evidence, you may not know your data as well as you should. Consider making a data manifest to rectify this problem.
-- title: "Annotation for Transparent Inquiry"
+        This exercise is calling on you to assess how well you know your data – how “accessible” they are to you. If you weren’t able to turn immediately to a list of your data, or the appropriate folder on your computer, but instead started ransacking different folders of your computer thinking about what might serve as evidence, you may not know your data as well as you should. Consider making a data-source manifest to rectify this problem.
+- title: "ATI (\#1) -- Considering Another Author’s Annotations"
+  id: 23
+  module: "4b"
+  content:
+    - question: >
+        Find this article on-line and then follow the steps below: O’Mahoney, Joseph. 2017. “Making the Real: Rhetorical Adduction and the Bangladesh Liberation War.” *International Organization* 71 (2): 317–48. [https://doi.org/https://doi.org/10.1017/S0020818317000054](https://doi.org/https://doi.org/10.1017/S0020818317000054){:target="_blank"}
+        
+        1. Click on the Adobe Acrobat icon to download the PDF.
+        2. Read the abstract.
+        3. Scroll to a section called, “The Role of Troop Withdrawal” on p. 332 and read the first two paragraphs of that section.
+        4. Given what you have learned about ATI, which passages of those paragraphs would you expect to see annotated and with what type of content? Use your PDF viewer’s annotations functionality to highlight them.
+        5. Now view the same article [with ATI annotations here](https://hyp.is/go?url=https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D7396F6DFDE0914CD3C1C8D7A7141BF9/S0020818317000054a.pdf/making_the_real_rhetorical_adduction_and_the_bangladesh_liberation_war.pdf&group=zvEVDE2R){:target="_blank"}. Find the same two paragraphs and compare your expected annotations with those of the article’s author, Joey O’Mahoney.
+          1. How do the author’s annotations differ from your expectations?
+          2. Why do you think they differ?
+          3. How do the annotations affect your assessment of the underlying claims?
+  solution:
+    - answer: >
+        It is unlikely that your expectations and the author’s annotations matched exactly. This reflects a challenge in achieving qualitative transparency -- there is an almost unlimited number of things about which you can add information and be more transparent in order to better convince readers of your claims. One way to “triage” is to develop explicit rules for yourself about the types of passages or claims you annotate. You can see [*O’Mahoney’s discussion of his “logic of annotation” here*](https://doi.org/10.5064/F6M2H9VQ){:target="_blank"}. Perhaps you also found that the annotations raised as many questions as they answered, e.g., why did the author annotate *this* claim but not *that* one? Making your work more vulnerable to criticism by exposing more of its internal workings is a very real risk of working more transparently. Yet it is precisely this susceptibility, which facilitates correction and learning, that allows social science to advance.
+- title: "ATI (\#2) -- You Try It!"
   id: 24
   module: "4b"
   content:
     - question: >
-        Using a research product you recently completed, choose three contiguous pages that contain multiple evidence-based claims. Consider how well you were able to substantiate those claims given space-limitations. Try to remember if there was additional information or evidence that you cut as you were revising the piece. Then, seek to annotate a few passages, following the description above and the [directions here](https://qdr.syr.edu/ati/ati-instructions). Ask yourself what you are gaining -- and if you are losing anything -- through annotation.
+        Using a research product you recently completed, choose three contiguous pages that contain multiple evidence-based claims. Do you feel that you were able to substantiate all of those claims as well as you wished? Some of them? Few of them? If your answer is “some” or “few,” was part of the challenge space-limitations? If so, try to remember additional information or evidence that you cut as you were revising the piece, and use that information to annotate a few passages in the piece, following the description above and the [directions here](https://qdr.syr.edu/ati/ati-instructions){:target="_blank"}. Consider what was easy and hard about that process. Ask yourself what you are gaining – and what you may be losing – through annotation.
   solution:
     - answer: >
-        Working with another scholar who is familiar with your area of research, give them your original research product (without the annotations, and without mentioning the annotations!) to read. Then ask them to read the version *with* the annotations, and to answer the same questions you asked yourself -- what is gained, and potentially lost, through annotation?
-- title: "Creating a Data Appendix"
+        1.  One thing you might have found easy about engaging in ATI is writing your annotations; since they are free-standing you may be able to write them quickly as you don’t need to worry about blending them perfectly into the text.
+
+        2.  One thing you might have found difficult about using ATI is finding the materials on which you wanted to call for evidence. (We hope if you try this in the future, following some of the advice we offer elsewhere in the course will facilitate this.)
+
+        3.  One thing you might be gaining through annotation is the possibility of demonstrating even more strongly the rigor and power of your work through deploying additional evidence.
+  
+        4.  Two things you might be losing through annotation are time and parsimony. It might not seem that the “bang” of “retrospective” annotation is not worth the “buck”. You might feel differently if you annotated while writing. With regard to parsimony, how much did what you added contribute to supporting the claim you sought to bolster? Is it a nice-to-have or a need-to-have? What should your annotations contain?
+- title: "Data Appendix (\#1) -- Considering Another Author’s Appendix"
   id: 25
   module: "4b"
   content:
     - question: >
-        Draft the framework for a data appendix for a research product you are currently creating. What set of attributes would work across all your different forms of data (documents, interviews transcripts / notes, etc.) and help your readers understand and evaluate your project’s evidentiary foundation?
+        Look at Erik Bleich’s article “[Historical Institutionalism and Judicial Decision-Making: Ideas, Institutions, and Actors in French High Court Hate Speech Rulings](https://doi.org/10.1017/S0043887117000272){:target="_blank"}” and its accompanying [Interview Methods Appendix](https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S0043887117000272/resource/name/S0043887117000272sup001.pdf){:target="_blank"} (scroll to Appendix B). Also, open the [data for the article on QDR](https://doi.org/10.5064/F6833Q5K){:target="_blank"}. Quickly skim the article, and read more closely through the narrative for 1993 to 1997 starting on page 70, focusing in particular on claims made based on interview evidence. Look up the notes for the cited interviews available on QDR. What does the availability of the interview methods appendix add? Do the interview notes help you better evaluate the quality of the inference that is based on interviews?
 
   solution:
     - answer: >
-        Give your draft framework, and the abstract for the research product you are writing, to someone unfamiliar with the piece. Solicit their input on whether the information you are proposing to provide is the type they would want to know when evaluating your work.
-- title: "Data Citations"
+        Your reactions to the interview methods appendix will be shaped by your epistemological priors, i.e., how much you think it is possible to learn through human participants research. If you believe we gain significant insights from such research, at first blush having more information about the interviews that Bleich conducted, and more of the raw data available to you, are likely to make you more persuaded by the argument. Beyond that, your evaluations will depend upon whether you wanted more or different kinds of information about the interviews, and whether the additional information Bleich provided about his cited interviews made you *more* confident in them, or potentially less confident. If you had both reactions, why was that the case?
+- title: "Data Appendix (\#2) -- Now You Try!"
   id: 26
+  module: "4b"
+  content:
+    - question: >
+        Draft the framework for a data appendix for a research product you are currently creating. What set of attributes would work across all of your different forms of data (documents, interviews transcripts / notes, etc.) and help your readers understand and evaluate your project’s evidentiary foundation?
+
+  solution:
+    - answer: >
+        [This Google sheet](https://docs.google.com/spreadsheets/d/1PjHpMbi6ylyudRen9Iq1yLCCMTT54rjMaK5GyHZlif8/edit#gid=780311438) offers the beginnings of a framework for a data appendix for an article examining “Institutions of Electoral Governance”. It includes four tabs, one for each type of data (evidence) on which the article draws. Each tab includes columns for a series of attributes that should help readers to quickly understand the evidentiary base of the article, assess its quality, and thus evaluate how well claims based on these data sources are supported.
+- title: "Data Citations"
+  id: 27
   module: "4c"
   content:
     - question: >
         Find two recent research articles in your field that rely on publicly available data (either shared by the authors themselves or by others). Do they include data availability statements? Are the data cited in the bibliography? If the answer to either of the questions is no, how would a data availability statement/bibliography entry have looked?
   solution:
     - answer: >
-        The purpose of the first part of this exercise is to get you used to the idea of looking for data availability statements as part of your standard research practices. Where data are available, take a look -- you can learn a lot from studying other researchers’ data. Where data are not available, ask yourself why not.
-
-        For the citation and the data availability statement, check whether your solution has the key elements identified above.
+        The purpose of the first part of this exercise is to get you used to the idea of looking for data availability statements as part of your standard research practices. Where data are available, take a look – you can learn a lot from studying other researchers’ data. Where data are not available, ask yourself why not. For the citation and the data availability statement, check whether your solution has the key elements identified above.

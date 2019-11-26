@@ -45,7 +45,7 @@
       url: "/modules/4/a/"
     - title: "Research Transparency and Qualitative Data"
       url: "/modules/4/b/"
-    - title: "Citing Data"
+    - title: "Finding and Citing Data"
       url: "/modules/4/c/"
 
 - title: "Exercises"
@@ -107,14 +107,17 @@
     url: "#"
     dropdown:
     - title: "Can You Find Your Sources?"
+      url: "/exercises/22/"
+    - title: "ATI (\#1) -- Considering Another Author’s Annotations"
       url: "/exercises/23/"
-    - title: "Annotation for Transparent Inquiry"
+    - title: "ATI (\#2) -- You Try It!"
       url: "/exercises/24/"
-    - title: "Creating a Data Appendix"
+    - title: "Data Appendix (\#1) -- Considering Another Author’s Appendix"
       url: "/exercises/25/"
-    - title: "Data Citations"
+    - title: "Data Appendix (\#2) -- Now You Try!"
       url: "/exercises/26/"
-
+    - title: "Data Citations"
+      url: "/exercises/27/"
 
 #- title: Resources
 #  url: "/resources/"
