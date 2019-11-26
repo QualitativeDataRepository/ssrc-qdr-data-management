@@ -10,7 +10,7 @@ categories: [module1,modulecontent, hasexercises]
 permalink: "/modules/1/c/"
 next: false
 previous: "/modules/1/b/"
-description: "Informed consent procedures are crucial for ethical research. They don't have to make sharing data impossible if you plan well."
+description: "How can you craft an informed consent procedure and script -- which are crucial for ethical research -- without making it impossible to share the data resulting from your human participant research?"
 learningobjectives:
 -   Basic outlines of informed consent language
 -   The potential interactions between securing informed consent from

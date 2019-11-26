@@ -10,7 +10,7 @@ categories: [module2,modulecontent,hasexercises]
 permalink: "/modules/2/c/"
 next: /modules/2/d/
 previous: "/modules/2/b/"
-description: "How do I use filenames, folder, and tools to organize my data? How can I make sure it doesn't get lost or into the wrong hands?"
+description: "How do you use filenames, folders, and tools to organize your data? How can you make sure the data don't get lost or into the wrong hands?"
 learningobjectives:
 -   Why solid, systematic organization (e.g., clear and consistent  naming of folders and files) is important
 -   Some strategies for working with “unorganized” data

@@ -10,7 +10,7 @@
  permalink: "/modules/2/d/"
  next: false
  previous: "/modules/2/c/"
- description: "How do you decide on the best venue for sharing your data?"
+ description: "What are some ways that you might change the form or format of your data, and what are some best practices for doing so?"
  learningobjectives:
  -   How archiving professionals think about transforming data
  -   The various ways in which data can be “transformed” from one form or format to another

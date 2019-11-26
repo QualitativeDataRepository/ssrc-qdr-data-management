@@ -10,7 +10,7 @@ categories: [module1,modulecontent, hasexercises]
 permalink: "/modules/1/b/"
 next: "/modules/1/c/"
 previous: "/modules/1/a/"
-description: "How to write a data management plan: strategies, tools, and assessment"
+description: "What are some strategies and tools for writing a data management plan (DMP) and how are DMPs assessed?"
 learningobjectives:
 -   How to create a data management plan (DMP)
 -   How to use tools like the DMP Tool to create a DMP

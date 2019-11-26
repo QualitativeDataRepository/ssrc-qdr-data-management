@@ -55,16 +55,19 @@ The specific types of documentation that might best introduce, describe, and con
 -	Coding schemas
 
 ![Documentation is a love letter to yourself]({{ site.baseurl }}/images/documentation-loveletter.png)
+
 This famous quote, originally referring to computer code, applies just as much to your data. Be kind to your future self.
 
 ## When to Document Data
 
-Documentation -- and creating it -- play important roles throughout the lifecycle of your research project and the lifecycle of your data. You engage in different documentation tasks at each stage of the research and lifecycles.![](media/image2.png)
+![Lifecycle thumbnail *collection and analysis*]({{ site.baseurl }}/images/lifecycle-collection-analysis.png)
+
+Documentation -- and creating it -- play important roles throughout the lifecycle of your research project and the lifecycle of your data. You engage in different documentation tasks at each stage of the research and lifecycles.
 
 -	*When you are beginning to plan your research* think of the different types of documentation you will need and create a template for each type. For instance:
-  -	Generate a template for your archive log.
-  -	Create a template for “informal metadata” from interactive data collection (the [next lesson](https://managing-qualitative-data.org/modules/2/b/) talks more about metadata).
-  -	Create a field observations template (see the [next lesson](https://managing-qualitative-data.org/modules/2/b) for more on this type of template).
+    -	Generate a template for your archive log.
+    -   Create a template for “informal metadata” from interactive data collection (the [next lesson](https://managing-qualitative-data.org/modules/2/b/) talks more about metadata).
+    -   Create a field observations template (see the [next lesson](https://managing-qualitative-data.org/modules/2/b) for more on this type of template).
 
 -	You create the bulk of the documentation for a particular project *as you are collecting / generating data*, using the templates you created.
 
@@ -85,18 +88,18 @@ Project level documentation describes the general parameters of your research pr
 / generation.
 
 -	Describe the *what* of your data
-  -	What types of data are you collecting?
-  -	In what form are they (i.e., focus group transcript)?
-  -	What is the substantive content of the data -- what are they about?
+    -	What types of data are you collecting?
+    -	In what form are they (i.e., focus group transcript)?
+    -	What is the substantive content of the data -- what are they about?
 -	Document anyone *who* has or will contribute to a project – research assistants, translators, transcribers, interviewers, coders, etc. – and what role they played.
 -	Document *when* any important project-related events occur.
 -	Describe the “where” of your data collection -- contextualize the collection process(es) in space and time.
 -	Describe *how* you / your team collected / generated the data, detailing and justifying important methodological choices, for example:
-  -	How did you pick interview respondents (and why did you do so as you did)?  
-  -	How did you recruit focus group participants (and why did you do so as you did)?
-  -	How did you pick research sites (and why did you do so as you did)?
-  -	How did you select archives and archival documents (and why did you do so as you did)?
-  -	If you deviated from your original data collection plans, in what ways and why?
+    -	How did you pick interview respondents (and why did you do so as you did)?  
+    -	How did you recruit focus group participants (and why did you do so as you did)?
+    -	How did you pick research sites (and why did you do so as you did)?
+    -	How did you select archives and archival documents (and why did you do so as you did)?
+    -	If you deviated from your original data collection plans, in what ways and why?
 
 As you generate data you should keep informal but complete and accurate lists to document these activities. Spreadsheets are a great way to keep track of, for example, which websites you consult, whom you interview, or what documents you review. Later, you can formalize these lists into clear documentation.
 

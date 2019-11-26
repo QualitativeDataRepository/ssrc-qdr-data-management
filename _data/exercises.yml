@@ -81,49 +81,50 @@
   module: "2a"
   content:
     - question: >
-        1. Make a list of three types of documentation at the project or file level that you will need to create for a research project you are carrying out. For each item, indicate in what form you’ll create the documentation (i.e., as a Word doc, Excel spreadsheet?) and offer a short description of the types of information you’ll include in that documentation.
-
-        2. Think through three ways in which creating and having this documentation will help you.
+        Make a list of three types of documentation at the project or file level that you will need to create for a research project you are carrying out. For each item, indicate in what form you’ll create the documentation (i.e., as a Word doc, Excel spreadsheet?) and offer a short description of the types of information you’ll include in that documentation.
+    - question: >
+        Think through three ways in which creating and having this documentation will help you.
   solution:
     - answer: >
         Documentation lists and insights will vary considerably from project to project. The goal of this exercise is simply for you to think about the ways in which data documentation is valuable – operationally and analytically – to *you* and *your project*, as the more valuable you perceive documentation to be the more likely you are to create it. We provide a sample solution here, but don’t using it as a template. You should come up with your own strategies matching your data and your workflows.
+        
 
-
-        **Sample solution:**
+        ### Sample solution
+        
 
         -	Project-level documentation -- “who”
 
-          -	I will use a (continually evolving) Google doc for this (so I can share it with my dissertation advisors easily). I will not use a date-extension in the file name to version, but Google doc’s version history will allow anyone viewing the document to see what changed when.
+            -	I will use a (continually evolving) Google doc for this (so I can share it with my dissertation advisors easily). I will not use a date-extension in the file name to version, but Google doc’s version history will allow anyone viewing the document to see what changed when.
 
-          -	The document will have two sections: (1\) project personnel and (2\) interview respondents (interviews are the only form of interactive data collection I’m using).
+            -	The document will have two sections: (1\) project personnel and (2\) interview respondents (interviews are the only form of interactive data collection I’m using).
 
-            -	(1\) I will include here a list (using pseudonyms just to be extra cautious) of the small group of people (research assistants, translators, transcribers) whom I’ve invited to work with me on the project, listing information relevant to each (e.g., the institution with which they’re affiliated, how I identified then, when I interviewed and hired them; by what logic, how, how much, and how often I plan to pay them, what exactly they are doing). (I should keep track of their birthdays too.)
+                -	(1\) I will include here a list (using pseudonyms just to be extra cautious) of the small group of people (research assistants, translators, transcribers) whom I’ve invited to work with me on the project, listing information relevant to each (e.g., the institution with which they’re affiliated, how I identified then, when I interviewed and hired them; by what logic, how, how much, and how often I plan to pay them, what exactly they are doing). (I should keep track of their birthdays too.)
 
-            -	(2\) Here I’m thinking not a list of my interview respondents (I have another plan for that) but rather the methodology I used to identify people in their “category” -- i.e., how did I identify/choose judges to interview, how did I identify/choose clerks to interview, how did I identify/choose constitutional scholars to interview, etc..
+                -	(2\) Here I’m thinking not a list of my interview respondents (I have another plan for that) but rather the methodology I used to identify people in their “category” -- i.e., how did I identify/choose judges to interview, how did I identify/choose clerks to interview, how did I identify/choose constitutional scholars to interview, etc..
 
         -	Project-level documentation -- “when”
 
-          -	I will use a (continually evolving) Google doc for this (so I can share it with my dissertation advisors easily). I will not use a date-extension in the file name to version, but Google doc’s version history will allow anyone viewing the document to see what changed when.
+            -	I will use a (continually evolving) Google doc for this (so I can share it with my dissertation advisors easily). I will not use a date-extension in the file name to version, but Google doc’s version history will allow anyone viewing the document to see what changed when.
 
-          -	This document is going to be kind of like a diary. Each day I’m going to make a short entry about what I did for my research project. I will be sure to highlight important milestones, key decisions made and problems that I resolved (or am stuck on), key interviews (using a code for respondents), etc..
+            -	This document is going to be kind of like a diary. Each day I’m going to make a short entry about what I did for my research project. I will be sure to highlight important milestones, key decisions made and problems that I resolved (or am stuck on), key interviews (using a code for respondents), etc..
 
         -	File-level documentation -- interview
 
-          -	I’m not sure how many of my interviews I’m going to audio-record, and of those, for how many I’ll make formal transcripts. Even without doing these things, though, I will want to keep track of a lot of aspects of my interviews. I already looked ahead to the next lesson and I really like what I saw there about the two types of “informal documentation” I can create for each interview -- both “practical information” and “observations and reactions.
+            -	I’m not sure how many of my interviews I’m going to audio-record, and of those, for how many I’ll make formal transcripts. Even without doing these things, though, I will want to keep track of a lot of aspects of my interviews. I already looked ahead to the next lesson and I really like what I saw there about the two types of “informal documentation” I can create for each interview -- both “practical information” and “observations and reactions.
 
-          -	I’m going to have a dedicated Google doc for each interview that contains this information.
+            -	I’m going to have a dedicated Google doc for each interview that contains this information.
 
-          -	Having this information at my fingertips will help me (along with my first type of documentation above) to make sure I’m carrying out my inquiry in a similar way in my second research context.
+            -	Having this information at my fingertips will help me (along with my first type of documentation above) to make sure I’m carrying out my inquiry in a similar way in my second research context.
 
         -	How this documentation will help me
 
-          -	Having to write all of this will help me think critically about my choices. I didn’t do a very good job *justifying* my choices above, but in my actual documentation I’ll do so. This will help me to make sure I’m making well-founded choices (and convince my dissertation advisors of the same).
+            -	Having to write all of this will help me think critically about my choices. I didn’t do a very good job *justifying* my choices above, but in my actual documentation I’ll do so. This will help me to make sure I’m making well-founded choices (and convince my dissertation advisors of the same).
 
-          -	Having this will help me remember what I did, which it will be really important to have in mind when I’m interpreting my data and using them to support claims and conclusion in my written work.
+            -	Having this will help me remember what I did, which it will be really important to have in mind when I’m interpreting my data and using them to support claims and conclusion in my written work.
 
-          -	I’m carrying out my project in two different countries and I want my research processes to be the same in both (in hopes of maximizing the comparability of my data). Keeping careful track of all of this will help me to operate the same way in both contexts.
+            -	I’m carrying out my project in two different countries and I want my research processes to be the same in both (in hopes of maximizing the comparability of my data). Keeping careful track of all of this will help me to operate the same way in both contexts.
 
-            -	For instance, it will be really important that I try to identify people in the same way -- and have more or less the same mix of people -- in both of my interview contexts. My first and third types of documentation above will help me to do that.
+                -	For instance, it will be really important that I try to identify people in the same way -- and have more or less the same mix of people -- in both of my interview contexts. My first and third types of documentation above will help me to do that.
 
 - title: "Creating Templates"
   id: 8
