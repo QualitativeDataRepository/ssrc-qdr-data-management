@@ -35,7 +35,9 @@ Finding scholarly articles has become much simpler thanks to powerful search eng
     -   DataCite, the DOI provider for most data repositories, [offers a search engine](https://search.datacite.org/){:target="_blank"}. The search covers about 6.5 million entries, but does have a fair number of duplicates and includes individual data files.
     -   Google offers a new [dataset search](https://toolbox.google.com/datasetsearch){:target="_blank"}, currently in beta. The number of datasets that are searched is unknown, but much of the DataCite catalog is included.
 -   *Start with a literature search.* You’re likely using some version of this strategy already, but it may be helpful to expand how you think about the goals of your literature search to include a systematic “data search”. Empirical social scientists are increasingly citing, or at least linking to, data they use. Take advantage of this and find what data are being used in papers related to your work.
--   *Ask your librarian*. Most research universities have dedicated librarians for research data -- in some libraries there are entire working groups. One of the core qualifications of data librarians is the ability to find relevant data. ![](media/image3.png){width="5.494792213473316in" height="2.685755686789151in"}
+-   *Ask your librarian*. Most research universities have dedicated librarians for research data -- in some libraries there are entire working groups. One of the core qualifications of data librarians is the ability to find relevant data.
+
+![The SHARE interface for searching data]({{site.baseurl}}/images/SHARE-data-search.png)
 
 The SHARE interface for searching data
 
