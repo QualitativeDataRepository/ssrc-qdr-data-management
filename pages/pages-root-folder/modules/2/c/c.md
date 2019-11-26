@@ -74,13 +74,13 @@ Finally, tools facilitate organizing your data, but you still need to
 
 ### Working with Disorganized Data
 
-Not everyone keeps their data well-organized. If you are confronting disorganized data (whether you, or someone else, generated them we suggest the following approach to organizing the data: spend just enough time so that you can effectively use the data, but not more time than what good organization will save you.
+Not everyone keeps their data well-organized. If you are confronting disorganized data (whether you, or someone else, generated them) we suggest the following approach to organizing the data: spend just enough time so that you can effectively use the data, but not more time than what good organization will save you.
 
 If the disorganized data are your own, and you fear (or know) that they are scattered in many different places on your computer, your first step may simply be to track them all down. Your computer’s operating system’s ability to search for files is far more powerful than you may realize. Operating systems can search filenames, as well as the full text of most common file formats (as well as text in the file properties). Thus you can, e.g., search your entire hard disk for PDFs created in 2018 that contain the term Korea or Korean and then show them in a (virtual) folder, helping you to impose some order on chaotic file collections.
 
 The major operating systems have different, but quite similar search options.
 
-In Windows, the most useful search tool is the \* as a wildcard for multiple characters. For example, \*.pdf will find all files with the pdf file extension. Once you start searching in Windows, you can also open the search tools:
+In **Windows**, the most useful search tool is the \* as a wildcard for multiple characters. For example, \*.pdf will find all files with the pdf file extension. Once you start searching in Windows, you can also open the search tools:
 
 ![The Windows Searchbar]({{ site.baseurl }}/images/windows-searchbar.png)
 
@@ -88,7 +88,7 @@ You can specify file sizes, the date a file was modified, or the kind of documen
 
 The “Save search” option is particularly useful. This allows you to save a search that you performed (and the results); when you re-open the search, you see a folder filled with files placed there automatically by the search functionality. Even better, the folder updates automatically as you create new files that match the search criteria (or delete files).
 
-Macs offer powerful file search via the “Spotlight” tool. By using shortcuts such as kind:PDF and dates like created:MM/DD/YYYY (preceded by &lt; or &gt; for any date before and after respectively), you can generate similar searches as for Windows. Spotlight even understands
+**Macs** offer powerful file search via the “Spotlight” tool. By using shortcuts such as kind:PDF and dates like created:MM/DD/YYYY (preceded by &lt; or &gt; for any date before and after respectively), you can generate similar searches as for Windows. Spotlight even understands
 “natural language” requests (powered by the same technology as Siri) such as “Show me all images created since May 30th this year”.
 
 Mac’s facility for saving searches is called “[Smart Search](https://www.howtogeek.com/216348/how-to-create-and-use-smart-folders-on-os-x-to-organize-data-on-your-mac/){:target="_blank"}”. You can create smart folders in the “File” menu of Finder and then add additional search conditions (or change existing ones) at the top of the folder.
@@ -108,7 +108,7 @@ Data loss can take many forms:
 -   Hardware failure: your hard disk crashes, preventing you from  accessing your files
 -   Software failure: due to a software bug, a previously functioning  file is overwritten with a corrupted, non-working version
 -   Loss of equipment: your computer is stolen or destroyed
--   Malicious attack: your computer is infected by [ransomware](https://en.wikipedia.org/wiki/Ransomware)[*ransomware*](https://en.wikipedia.org/wiki/Ransomware) that locks access to your files
+-   Malicious attack: your computer is infected by [ransomware](https://en.wikipedia.org/wiki/Ransomware) that locks access to your files
 -   Human error: you accidentally make changes to a file and save,  overwriting the previous version.
 
 Your backup strategy should protect against all of these. We suggest three rules of thumb.

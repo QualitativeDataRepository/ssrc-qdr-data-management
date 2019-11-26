@@ -42,7 +42,9 @@ The Library of Congress (LoC) clearly and succinctly lays out its [principles fo
 
 In your research – especially if you work in archives – you will encounter lots of useful documents that you can’t just take along with you when you leave an institution or context where you are conducting research. Often, though, you will be able to “capture” such documents by digitizing them (creating a digital image of them). We offer below some tips on effective digitizing.
 
-No matter where, how, and what you digitize, you want to think about the quality of the resulting images. The LoC recommends that you “Capture the highest quality digital image technically possible and economically feasible”. In particular for social science researchers with limited budgets, the second part of this advice is crucial – no one expects you to pay for or drag around professional digitization equipment. At the same time, you will regret making poor quality images (and other recordings): text recognition may not work properly, individual images may be unreadable, outputs will be less valuable for other researchers, etc.. **Planning Ahead**
+No matter where, how, and what you digitize, you want to think about the quality of the resulting images. The LoC recommends that you “Capture the highest quality digital image technically possible and economically feasible”. In particular for social science researchers with limited budgets, the second part of this advice is crucial – no one expects you to pay for or drag around professional digitization equipment. At the same time, you will regret making poor quality images (and other recordings): text recognition may not work properly, individual images may be unreadable, outputs will be less valuable for other researchers, etc..
+
+### Planning Ahead
 
 Many archives allow you to use a camera to take pictures of documents you consult. This is *not* true for all archives though, and some archives that generally permit cameras will impose conditions (no tripod, no flash, daily fee for camera usage). Make sure to look for information about what is permissible before you go to an archive, and inquire with archive personnel, and/or other scholars whom you know have carried out research in that archive, if you cannot find the rules on the archive’s website.
 
@@ -109,7 +111,7 @@ There are many products of each type. Here are some criteria to keep in mind as 
 
 No matter which option you choose, you should establish a set of rules to follow when transcribing. Doing so will make you more efficient (as you will not need to re-consider / re-make decisions), and will help your transcripts to be consistent. You might create rules for:
 -   How transcript files will be named (considering how this aligns with the file names of audio and video files)
--   -   How who is speaking will be indicated
+-   How who is speaking will be indicated
 -   How extraneous noises (e.g., sighs, sneezes, speech by others who entered the space in which the exchange is occurring) will be indicated
 -   How pauses, and unintelligible words and phrases will be indicated
 -   How timestamps will be inserted in the transcripts
@@ -138,7 +140,7 @@ To get a sense of a high-quality transcription, visit the page of the [Civil Rig
 ### Documenting Transcriptions
 
 While making audio or video recordings of research interactions has significant analytic benefits, recordings cannot faithfully reflect all of the nuances of human interaction. There are always unspoken dynamics, facial expressions, hand gestures, and other aspects of such interactions that are not reflected in audio recordings and even in video recordings. Textual transcripts are then another step removed from the original interaction: intonation, tone, and other details cannot be perfectly reflected in a transcript. While this impoverishing of the data is unavoidable, you can mitigate it by writing excellent “informal documentation” of your research interactions as discussed in the
-“Documenting Data in Practice” lesson. This informal documentation will prove useful both to the “future you” employing these data later in time, and to other scholars who wish to re-use them.
+“[Documenting Data in Practice]({{ site.baseurl}}/modules/2/b)” lesson. This informal documentation will prove useful both to the “future you” employing these data later in time, and to other scholars who wish to re-use them.
 
 {% include _exercise.html exerciseid="13" %}
 
