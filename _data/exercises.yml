@@ -338,7 +338,7 @@
   solution:
     - answer: >
         This exercise is calling on you to assess how well you know your data – how “accessible” they are to you. If you weren’t able to turn immediately to a list of your data, or the appropriate folder on your computer, but instead started ransacking different folders of your computer thinking about what might serve as evidence, you may not know your data as well as you should. Consider making a data-source manifest to rectify this problem.
-- title: "ATI (#1) -- Considering Another Author’s Annotations"
+- title: "ATI (1) -- Considering Another Author’s Annotations"
   id: 23
   module: "4b"
   content:
@@ -356,7 +356,7 @@
   solution:
     - answer: >
         It is unlikely that your expectations and the author’s annotations matched exactly. This reflects a challenge in achieving qualitative transparency -- there is an almost unlimited number of things about which you can add information and be more transparent in order to better convince readers of your claims. One way to “triage” is to develop explicit rules for yourself about the types of passages or claims you annotate. You can see [*O’Mahoney’s discussion of his “logic of annotation” here*](https://doi.org/10.5064/F6M2H9VQ){:target="_blank"}. Perhaps you also found that the annotations raised as many questions as they answered, e.g., why did the author annotate *this* claim but not *that* one? Making your work more vulnerable to criticism by exposing more of its internal workings is a very real risk of working more transparently. Yet it is precisely this susceptibility, which facilitates correction and learning, that allows social science to advance.
-- title: "ATI (#2) -- You Try It!"
+- title: "ATI (2) -- You Try It!"
   id: 24
   module: "4b"
   content:
@@ -371,7 +371,7 @@
         3.  One thing you might be gaining through annotation is the possibility of demonstrating even more strongly the rigor and power of your work through deploying additional evidence.
   
         4.  Two things you might be losing through annotation are time and parsimony. It might not seem that the “bang” of “retrospective” annotation is not worth the “buck”. You might feel differently if you annotated while writing. With regard to parsimony, how much did what you added contribute to supporting the claim you sought to bolster? Is it a nice-to-have or a need-to-have? What should your annotations contain?
-- title: "Data Appendix (#1) -- Considering Another Author’s Appendix"
+- title: "Data Appendix (1) -- Considering Another Author’s Appendix"
   id: 25
   module: "4b"
   content:
@@ -381,7 +381,7 @@
   solution:
     - answer: >
         Your reactions to the interview methods appendix will be shaped by your epistemological priors, i.e., how much you think it is possible to learn through human participants research. If you believe we gain significant insights from such research, at first blush having more information about the interviews that Bleich conducted, and more of the raw data available to you, are likely to make you more persuaded by the argument. Beyond that, your evaluations will depend upon whether you wanted more or different kinds of information about the interviews, and whether the additional information Bleich provided about his cited interviews made you *more* confident in them, or potentially less confident. If you had both reactions, why was that the case?
-- title: "Data Appendix (#2) -- Now You Try!"
+- title: "Data Appendix (2) -- Now You Try!"
   id: 26
   module: "4b"
   content:
