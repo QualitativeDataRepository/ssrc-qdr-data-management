@@ -236,34 +236,35 @@
   module: "3a"
   content:
     - question: >
-        Two of the institutional actors that have been carefully considering all of the questions above are funders and publishers. They need to take on these issues because they must develop policies for applicants and grantees, and authors, to follow. Given the considerations, benefits, and challenges above,
-        how should key institutional actors design policies to encourage responsible data sharing? Pretend you are the editor-in-chief of a
-        journal of your choice. Develop a draft policy that you will translate into author guidelines for providing the qualitative data that underpin articles published in your journal. Your policy should address the following issues:
-          -   Which data should be shared and what in addition to data needs
-              to be shared?
-          -   When in the publication process should data (and materials) be
-              shared?
-          -   Where should data (and materials) be shared?
-          -   What established exceptions should there be?
-          -   Who should judge whether a scholar’s situation fits within those
-              exceptions – or whether the alternative situation for which a
-              scholar seeks an exception should be deemed exceptional?
-          -   How will the policy be enforced?
+        Two of the institutional actors that have been carefully considering all of the questions above are funders and publishers. They need to take on these issues because they must develop policies for applicants and grantees, and authors, to follow. Given the considerations, benefits, and challenges above, how should key institutional actors design policies to encourage responsible data sharing? Pretend you are the editor-in-chief of a journal of your choice. Develop a draft policy that you will translate into author guidelines for providing the qualitative data that underpin articles published in your journal, and accompanying “materials” (e.g., documentation). Your policy should address the following issues:
+        -   Which data should be shared and what in addition to data needs to be shared (“materials”)?
+        -   When in the publication process should data (and materials) be shared?
+        -   Where should data (and materials) be shared?
+        -   What established exceptions should there be?
+        -   Who should judge whether a scholar’s situation fits within those exceptions – or, if it does not, whether an exception should nonetheless be made?
+        -   How will the policy be enforced?
   solution:
     - answer: >
-        There are no right or wrong answers to these questions! We encourage you to evaluate your answers along the following lines: Are your answers coherent – do they fit together without contradicting each other? How easy will they be to translate into clear guidelines for authors? What kind of behavior are the different aspects of your policy, and your policy as a whole, encouraging on the part of authors and reviewers? Of the various involved actors (authors, reviewers, other institutions), whom have you empowered – granted decision-making authority? Have you addressed possible trade-offs between promoting data sharing and deterring authors from submitting their best work to your journal? What potential sources of conflict does your policy introduce?
+        There are no right or wrong answers to these questions! We encourage you to evaluate your answers along the following lines:
+        -   Is your policy coherent – do its different aspects fit together without contradicting each other?
+        -   How easy will it be to translate your policy into clear guidelines for authors?
+        -   What kind of behavior are the different aspects of your policy, and your policy as a whole, encouraging on the part of authors and reviewers?
+        -   Of the various involved actors (authors, reviewers, other institutions), whom have you empowered – granted decision-making authority?
+        -   Have you addressed possible trade-offs between promoting data sharing and deterring authors from submitting their best work to your journal?
+        -   What potential sources of conflict does your policy introduce?
+
+        To illustrate the state of current practices, here are two different data policies. The *PLOS* journals [data policy](https://journals.plos.org/plosone/s/data-availability) mandates data deposit for all articles, explicitly states that proprietary data are not acceptable as the sole empirical basis for an article, and describes specific options for qualitative data. The [*American Political Science Review*’s data policy](https://www.apsanet.org/APSR-Submission-Guidelines) (see “Reproduction Policy”) is significantly shorter with fewer requirements. As you consider these policies, note some of the differences between what is required for scholarship based on quantitative data and analysis v. work based on qualitative data and analysis.
 - title: "De-identification"
-  id: 17
+  id: 16
   module: "3b"
   content:
     - question: >
-        Read the passage in [this PDF](https://managing-qualitative-data.org/files/de-identification-exercise.pdf) and then seek to de-identify it as best you can. Begin to create a set of de-identification rules to follow.
+        Read the passage in [this PDF](https://managing-qualitative-data.org/files/de-identification-exercise.pdf) and then seek to de-identify it as best you can. Your first step should be to create a set of de-identification rules to follow.
   solution:
     - answer: >
-        You can find a [sample de-identification here](https://managing-qualitative-data.org/files/de-identification-exercise-solution.pdf). Note how we left some specific information such as “Philadelphia” and “South Philadelphia” intact, while replacing other specific information such as years and school names.
-        Details of de-identification depend both on what additional context is provided in the interview and what parts are of particular importance to a study, i.e. should not be removed if at all possible.
+        You can find a [sample de-identification here]({{site.baseurl}}/files/de-identification-exercise-solution.pdf). Note how we left some specific information such as “Philadelphia” and “South Philadelphia” intact, while replacing other specific information such as years and school names. Details of de-identification depend both on what additional context is provided in the interview transcript and what parts are of particular importance to a study, i.e., should not be removed if at all possible.
 - title: "Public Domain or Not?"
-  id: 18
+  id: 17
   module: "3c"
   content:
     - question: >
@@ -283,46 +284,53 @@
 
            4. No (work by Canadian government employees is protected by copyright for 50 years under “Crown copyright.” We did not necessarily expect you to delve into Canadian law here, but hope the provenance of the image made you realize that that is the source that you’d have to check to answer the question, and brought home the point that you should assume a work *is* under copyright unless you *know* otherwise.)
 - title: "Getting Permission from an Archive"
-  id: 19
+  id: 18
   module: "3c"
   content:
     - question: >
-        You’re planning to visit a historical archive that has posted online some rules about the further dissemination of their materials that you don’t really understand. Compose an email to the archivist requesting permission to include the materials you will obtain from the archive in a data project you plan to share.
-
+        You’re planning to visit a historical archive, and while you have looked on line in an effort to discover their rules about the further dissemination of their materials, you have not been able to find them. Compose an email to the archivist requesting permission to include the materials you will obtain from the archive in a data project you plan to share.
   solution:
     - answer: >
-        Here are some things your request might have included: your institutional affiliation; the nature of your research project; why the data are important for your project; why you would like to share the data; in what specific data repository you plan to share the data and what that implies for their accessibility; when you would like to share the data; when you will be visiting the archive; an offer to discuss the matter with the archivist when you are on sight.
+        Here are some things your request might have included:
+        -   your institutional affiliation;
+        -   the nature of your research project;
+        -   why the data are important for your project;
+        -   why you would like to share the data;
+        -   in what specific data repository you plan to share the data and what that implies for their accessibility;
+        -   when you would like to share the data;
+        -   when you will be visiting the archive;
+        -   an offer to discuss the matter with the archivist when you are on site.
+
+        QDR has [a template for such an email](https://qdr.syr.edu/guidance/templates#archival-reuse) that you might send after conducting your research if you did not find this information out during your time at the archive. If you can, though, it is better to ask these sorts of questions before or during your research at the archive.
 - title: "Link Rot"
-  id: 20
+  id: 19
   module: "3d"
   content:
     - question: >
-        The list of the broken links that Gertler and Bullock found in the *American Political Science Review* (see above-cited article) is part of the data accompanying the article that they shared through Harvard Dataverse [here](https://doi.org/10.7910/DVN/Q8VDN0) in the file “brokenReproducibilityURLs.tab”. Download the file, open it in Excel, and find the first five links marked as “Did not find resource”. What sorts of websites are these? Can you still find the linked content using the Internet Archive’s [Way Back Machine](https://archive.org/web/)?
+        The list of broken links that Gertler and Bullock note (in their 2017 article in *PS*) that they found in the *American Political Science Review* (see above-cited article) is part of the data accompanying their *PS* article; they shared the data through Harvard Dataverse [here](https://doi.org/10.7910/DVN/Q8VDN0) in the file “brokenReproducibilityURLs.tab”. Download the file, open it in Excel, and find the first five links marked as “Did not find resource”. What sorts of websites are these? Can you still find the linked content using the Internet Archive’s [Way Back Machine](https://archive.org/web/)?
   solution:
     - answer: >
-        You’ll have noted that the broken links lead to all sorts of different websites: personal, institutional, even government websites. In some cases (such as Erik Voeten’s Princeton page and the Polish Center for Public Opinion Research CBOS), the Way Back Machine is not able to find any archived copy. You may still be able to track down this information by looking at the current sites -- or you may not. For other cases, you can access the webpage, such as Richard Tucker’s page at Vanderbilt, but the actual data aren’t archived there. For the Correlates of War project, you are able to download the full data from the Internet Archive. You could also go to the project’s [current site](http://www.correlatesofwar.org/data-sets/folder_listing), but would you be able to find the version of the data corresponding to the 2000 article there?
-
-        The internet offers you powerful tools to retrieve old information, but even with those tools, the content behind some links -- containing key parts of the scholarly record -- may be lost forever. You should have strategies for tracking down such lost data, but more importantly, you should make sure that the same fate does not befall your data and links. The best way to do this is to deposit your data in a repository.
+        You’ll have noted that the broken links lead to all sorts of different websites: personal, institutional, even government websites. In some cases (such as Erik Voeten’s Princeton page and the Polish Center for Public Opinion Research CBOS), the Way Back Machine is not able to find any archived copy. You may still be able to track down this information by looking at the current sites for such individuals and institutions – or you may not. In other cases, you can access the webpage, such as Richard Tucker’s page at Vanderbilt, but the actual data aren’t archived there. For the Correlates of War project, you are able to download the full data from the Internet Archive. You could also go to the project’s [current site](http://www.correlatesofwar.org/data-sets/folder_listing), but would you be able to find the version of the data mentioned in the 2000 *APSR* article there? The internet offers you powerful tools to retrieve old information, but even with those tools, the content behind some links – containing key parts of the scholarly record – may be lost forever. You should have strategies for tracking down such lost data, but more importantly, you should make sure that the same fate does not befall your data and links. The best way to do this is to deposit your data in a repository.
 - title: "Data Sharing SNAFU"
-  id: 21
+  id: 20
   module: "3d"
   content:
     - question: >
         Watch [this short video](https://www.youtube.com/watch?v=66oNv_DJuPc) and write down the various types of problems created by the ad hoc sharing arrangement for which the bear on the left opted. How would these problems have been mitigated if the bear had deposited his data in a data repository? While the bears are discussing quantitative data, would the challenges be the same for qualitative data?
   solution:
     - answer: >
-        Some of the problems created by the left bear’s ad hoc sharing arrangement include:  (1) lots of inter-researcher communication which is inefficient; (2) the passage of a long period of time before the data are actually shared; (3) the format of the data is obsolete which temporarily prevents their use; (4) the data cannot be interpreted by the secondary user; (5) the original researcher, not having documented the data, does not remember how to interpret the data and his co-author, who may remember, cannot be located. Had the left bear deposited his data (and complete documentation) in a data repository, they would have been more quickly accessible to, and more easily interpreted by Dr. Benign (the panda); for instance, curation would have entailed updating the format.  Dr. Benign would likely face similar challenges if the data were qualitative.
+        Some of the problems created by the left bear’s ad hoc sharing arrangement include: (1) lots of inter-researcher communication which is inefficient; (2) the passage of a long period of time before the data are actually shared, in part because the left bear cannot locate them; (3) the format of the data is obsolete which temporarily prevents their use; (4) the data cannot be interpreted by the secondary user (Dr. Benign, the panda); (5) the original researcher-bear, not having documented the data, does not remember how to interpret the data and his co-author, who may remember, cannot be located. Had the left bear deposited his data (and complete documentation) in a data repository, they would have been more quickly accessible to, and more easily interpreted by Dr. Benign; for instance, curation would have entailed updating the format. Dr. Benign would likely face similar challenges if the data were qualitative.
 - title: "Getting to Know Your Repository"
-  id: 22
+  id: 21
   module: "3d"
   content:
     - question: >
-        Find the web site of the repository at your institution and poke around a bit. (If your institution doesn’t seem to have an institutional repository, try to find the institutional repository at another institution that is similar to yours or with which you’re familiar.) Then find the web site of another kind of repository (choosing from one of the categories above) and poke around a bit. What similarities and differences do you notice?
+        Find the web site of the repository at your institution and poke around a bit. (If your institution doesn’t seem to have an institutional repository, try to find the institutional repository at another institution that is similar to yours or with which you’re familiar.) Then find the web site of another kind of repository (choosing from one of the categories above) and poke around a bit. What similarities and differences do you notice? You might think about these first with regard to the *content* of the venue, then from the perspective of someone who might wish to *deposit* data in the venue, then from the perspective of someone who might with to *access* data from the venue.
   solution:
     - answer: >
-        Your answers might concern (1) cost of accessing data or depositing data; (2) focus (on research publications vs. research data); (3) how much published guidance the repository provides for depositors; (4) whether, and what level of, curation services the data repository provides. If you tried to access data, your answers might consider (5) whether you had to become a registered user before seeing any data and (6) how easy it seems to be to find data in the repository and to deposit data.
+        Your answers might concern (1) cost of accessing data or depositing data; (2) focus (on research publications vs. research data); (3) how much published guidance the repository provides for depositors; (4) whether, and what level of, curation services the data repository provides; (5) what metadata are available for data in the repository and how revealing they are. If you tried to access data, your answers might consider (6) whether you had to become a registered user before seeing any data and (7) how easy it seems to be to find data in the repository and to deposit data.
 - title: "Can You Find Your Sources?"
-  id: 23
+  id: 22
   module: "4a"
   content:
     - question: >
