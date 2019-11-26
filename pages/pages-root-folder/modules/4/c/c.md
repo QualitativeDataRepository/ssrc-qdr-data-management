@@ -24,8 +24,8 @@ initialquestions:
 {% include _learningobjectivesandquestions.html %}
 
 
-Finding Data
-------------
+## Finding Data
+![Lifecycle thumbnail *publication and longterm*]({{site.baseurl}}/images/lifecycle-planning.png)
 
 Finding scholarly articles has become much simpler thanks to powerful search engines like [Google Scholar](https://scholar.google.com/){:target="_blank"},
 [Web of Science](https://www.webofknowledge.com/){:target="_blank"},
@@ -41,8 +41,8 @@ Finding scholarly articles has become much simpler thanks to powerful search eng
 
 The SHARE interface for searching data
 
-Citing Data
------------
+## Citing Data
+![Lifecycle thumbnail *publication*]({{site.baseurl}}/images/lifecycle-publication.png)
 
 As you deploy data – including your own data! – as evidence in your research products, you should cite them as you would cite any other resources to which you refer. By using formal citations (as opposed to just linking to or mentioning the data you use), you make sure that readers can find the data you reference. Correct and complete citation, then, is a key aspect of research transparency. In addition, proper data citation allows the scholar who collected or generated the data to get appropriate credit. Citing research data also serves as an acknowledgment that data are a product of value themselves, distinct from publications that draw on them.
 

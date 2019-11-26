@@ -22,7 +22,7 @@ initialquestions:
 ---
 {% include _learningobjectivesandquestions.html %}
 
-
+![Lifecycle thumbnail *analysis*]({{site.baseurl}}/images/lifecycle-analysis.png)
 ## Structuring Data Deployment: Quantitative vs. Qualitative Inquiry
 
 The strategies and methods used to analyze quantitative data are different from those used to analyze qualitative data. Typically, in quantitative and computational social science, numerical data are arranged in a matrix and analyzed as an aggregate body of information. In published work, the analysis is often summarized in tabular form in the text or appendix (see Figure 1), and the study dataset (and relevant information about its creation) and the do-file used for analysis (i.e., the “code”) provided as supplemental materials.

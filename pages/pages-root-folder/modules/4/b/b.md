@@ -22,7 +22,7 @@ initialquestions:
 ---
 {% include _learningobjectivesandquestions.html %}
 
-
+![Lifecycle thumbnail *publication*]({{site.baseurl}}/images/lifecycle-publication.png)
 ## Transparency in Social Science Research
 
 Norms across the social sciences are evolving to encourage greater access to the data underpinning research, and more transparency with regard to research practices. The goal of this norm change is to make scholarly work more easily understood and evaluated. Transparency in social science scholarship includes three dimensions (we draw here on the formulation of the [American Political Science Association \[2012, 9-10\]](http://www.apsanet.org/portals/54/Files/Publications/APSAEthicsGuide2012.pdf){:target="_blank"}).
@@ -48,7 +48,7 @@ is by establishing differential access to the evidentiary base of published arti
 
 ## Annotation for Transparent Inquiry (ATI)
 
-Annotation for Transparent Inquiry (ATI) is a new approach to increasing the transparency of qualitative research. ATI was developed specifically with the challenges discussed in lesson 1 of this module, and the goals just outlined, in mind. ATI facilitates transparency by allowing you to add digital annotations to specific passages of a book or article manuscript, thus linking additional explanation and/or underlying data directly to particular empirical claims. Ultimately, the annotations appear right beside the text of the article or book on the publisher’s web page. You can see a visual representation of ATI
+Annotation for Transparent Inquiry (ATI) is a new approach to increasing the transparency of qualitative research. ATI was developed specifically with the challenges [discussed in lesson 1 of this module]({{site.baseurl}}/modules/4/a/), and the goals just outlined, in mind. ATI facilitates transparency by allowing you to add digital annotations to specific passages of a book or article manuscript, thus linking additional explanation and/or underlying data directly to particular empirical claims. Ultimately, the annotations appear right beside the text of the article or book on the publisher’s web page. You can see a visual representation of ATI
 [here](https://qdr.syr.edu/ati){:target="_blank"}.
 
 Each annotation includes one or more of the following:
