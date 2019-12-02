@@ -85,6 +85,7 @@ As we note above, complete de-identification is often impossible. As such, de-id
 
 > as open as possible, as closed as necessary
 
+
 (as the European Union’s [Horizon2020 guidelines](https://ec.europa.eu/research/openscience/pdf/openaccess/ord_extension_faqs.pdf)
 for research aptly put it).
 
