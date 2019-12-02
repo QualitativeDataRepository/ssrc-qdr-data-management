@@ -319,7 +319,12 @@
         Watch the short video above and write down the various types of problems created by the ad hoc sharing arrangement for which the bear on the left opted. How would these problems have been mitigated if the bear had deposited his data in a data repository? While the bears are discussing quantitative data, would the challenges be the same for qualitative data?
   solution:
     - answer: >
-        Some of the problems created by the left bear’s ad hoc sharing arrangement include: (1) lots of inter-researcher communication which is inefficient; (2) the passage of a long period of time before the data are actually shared, in part because the left bear cannot locate them; (3) the format of the data is obsolete which temporarily prevents their use; (4) the data cannot be interpreted by the secondary user (Dr. Benign, the panda); (5) the original researcher-bear, not having documented the data, does not remember how to interpret the data and his co-author, who may remember, cannot be located. Had the left bear deposited his data (and complete documentation) in a data repository, they would have been more quickly accessible to, and more easily interpreted by Dr. Benign; for instance, curation would have entailed updating the format. Dr. Benign would likely face similar challenges if the data were qualitative.
+        Some of the problems created by the left bear’s ad hoc sharing arrangement include:
+          1. lots of inter-researcher communication which is inefficient;
+          2. the passage of a long period of time before the data are actually shared, in part because the left bear cannot locate them;
+          3. the format of the data is obsolete which temporarily prevents their use;
+          4. the data cannot be interpreted by the secondary user (Dr. Benign, the panda);
+          5. the original researcher-bear, not having documented the data, does not remember how to interpret the data and his co-author, who may remember, cannot be located. Had the left bear deposited his data (and complete documentation) in a data repository, they would have been more quickly accessible to, and more easily interpreted by Dr. Benign; for instance, curation would have entailed updating the format. Dr. Benign would likely face similar challenges if the data were qualitative.
 - title: "Getting to Know Your Repository"
   id: 21
   module: "3d"
@@ -328,7 +333,14 @@
         Find the web site of the repository at your institution and poke around a bit. (If your institution doesn’t seem to have an institutional repository, try to find the institutional repository at another institution that is similar to yours or with which you’re familiar.) Then find the web site of another kind of repository (choosing from one of the categories above) and poke around a bit. What similarities and differences do you notice? You might think about these first with regard to the *content* of the venue, then from the perspective of someone who might wish to *deposit* data in the venue, then from the perspective of someone who might with to *access* data from the venue.
   solution:
     - answer: >
-        Your answers might concern (1) cost of accessing data or depositing data; (2) focus (on research publications vs. research data); (3) how much published guidance the repository provides for depositors; (4) whether, and what level of, curation services the data repository provides; (5) what metadata are available for data in the repository and how revealing they are. If you tried to access data, your answers might consider (6) whether you had to become a registered user before seeing any data and (7) how easy it seems to be to find data in the repository and to deposit data.
+        Your answers might concern
+          1. cost of accessing data or depositing data;
+          2. focus (on research publications vs. research data);
+          3. how much published guidance the repository provides for depositors;
+          4. whether, and what level of, curation services the data repository provides;
+          5. what metadata are available for data in the repository and how revealing they are. If you tried to access data, your answers might consider
+          6. whether you had to become a registered user before seeing any data and
+          7. how easy it seems to be to find data in the repository and to deposit data.
 - title: "Can You Find Your Sources?"
   id: 22
   module: "4a"
@@ -355,9 +367,9 @@
         
         5. Now view the same article [with ATI annotations here](https://hyp.is/go?url=https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D7396F6DFDE0914CD3C1C8D7A7141BF9/S0020818317000054a.pdf/making_the_real_rhetorical_adduction_and_the_bangladesh_liberation_war.pdf&group=zvEVDE2R){:target="_blank"}. Find the same two paragraphs and compare your expected annotations with those of the article’s author, Joey O’Mahoney.
         
-          1. How do the author’s annotations differ from your expectations?
-          2. Why do you think they differ?
-          3. How do the annotations affect your assessment of the underlying claims?
+            1. How do the author’s annotations differ from your expectations?
+            2. Why do you think they differ?
+            3. How do the annotations affect your assessment of the underlying claims?
   solution:
     - answer: >
         It is unlikely that your expectations and the author’s annotations matched exactly. This reflects a challenge in achieving qualitative transparency -- there is an almost unlimited number of things about which you can add information and be more transparent in order to better convince readers of your claims. One way to “triage” is to develop explicit rules for yourself about the types of passages or claims you annotate. You can see [*O’Mahoney’s discussion of his “logic of annotation” here*](https://doi.org/10.5064/F6M2H9VQ){:target="_blank"}. Perhaps you also found that the annotations raised as many questions as they answered, e.g., why did the author annotate *this* claim but not *that* one? Making your work more vulnerable to criticism by exposing more of its internal workings is a very real risk of working more transparently. Yet it is precisely this susceptibility, which facilitates correction and learning, that allows social science to advance.
