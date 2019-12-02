@@ -12,9 +12,9 @@ next: "/modules/4/b/"
 previous: false
 description: "How can you turn your large quantities of data into useful evidence in a manuscript?"
 learningobjectives:
--   The structural differences between how quantitative data and qualitative data are deployed in social science inquiry.
+-   The structural differences between how quantitative data and qualitative data are deployed in social science inquiry
 -   The utility of creating a “data-source manifest”
--   The implications that those differences have for the way in which you think about and draw on the qualitative data you have collected and generated as evidence in your work.
+-   The implications that those differences have for the way in which you think about and draw on the qualitative data you have collected and generated as evidence in your work
 initialquestions:
 -   How can you keep all of the data that you collected or generated in mind when writing your research products?
 -   What does it mean to think of your qualitative data as a “dataset”?

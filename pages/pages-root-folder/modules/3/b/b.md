@@ -25,9 +25,11 @@ initialquestions:
 ---
 {% include _learningobjectivesandquestions.html %}
 
-![Lifecycle thumbnail *publication*]({{site.baseurl}}/images/lifecycle-publication.png)
+
 
 ## Ethics of Sharing Qualitative Data
+
+![Lifecycle thumbnail *publication*]({{site.baseurl}}/images/lifecycle-publication.png)
 
 Qualitative researchers often work closely with human participants, conducting in-depth interviews, focus groups, and oral histories, or engaging in participant observation and ethnography. Most social scientists feel a profound ethical obligation to their participants, and responsibility for ensuring that their research does not negatively impact these individuals. Sharing data generated through human participants research can expose your participants to additional risk. As a result, you need to pay special attention to ethical and legal constraints on sharing such data should you seek to do so.
 
@@ -38,7 +40,7 @@ According to the [1979 Belmont Report](https://www.hhs.gov/ohrp/regulations-and-
 
 If you are based in the US, the Institutional Review Board (IRB) at your home institution is best-placed to help you put those principles into practice – i.e., to collect, use, and share data from human participants in a legal and ethical way. (Most other countries have similar organizations to ensure ethical research practices, though they operate under different, if typically similar, rules). As discussed in Module 1, IRBs are administrative entities established to protect the rights and welfare of individuals who become involved in research activities conducted under the auspices of the institution with which the IRB is associated. If your research will involve human subjects directly or indirectly, as defined in federal regulation, you need to submit an application for review and approval by the IRB at your institution before you advertise the project, or recruit or interact with any human participants.
 
-Concerns with sharing human participants data arise when your research participants would like to remain anonymous (i.e., asked that their identities not be revealed), or requested that the information they conveyed remain confidential. It is unethical not to abide by agreements you made with, and promises you made to, your human participants. Note also that protecting human participants (by keeping their identities or the information they convey confidential) may not be the only kind of protection in which scholars need to engage. . For instance, archaeologists and other material culture specialists may need to protect the materials that form part of their research (for example, by concealing the exact location of finds).
+Concerns with sharing human participants data arise when your research participants would like to remain anonymous (i.e., asked that their identities not be revealed), or requested that the information they conveyed remain confidential. It is unethical not to abide by agreements you made with, and promises you made to, your human participants. Note also that protecting human participants (by keeping their identities or the information they convey confidential) may not be the only kind of protection in which scholars need to engage. For instance, archaeologists and other material culture specialists may need to protect the materials that form part of their research (for example, by concealing the exact location of finds).
 
 Social scientists and information scientists are developing strategies, tools, and technologies to make it easier for you to share the information garnered from your human participants in your research in an ethical way. In Module 1 you learned how to obtain informed consent from your human participants – how to help them to understand how you would like to use the information they provided, how and when and with whom you would like to share that information, to what uses it might be put, and what potential risks and benefits these actions present. Below we discuss two other steps you can take to keep your human participants safe.
 
@@ -61,7 +63,7 @@ Some good practices will make de-identifying responses from your human participa
 -   **Do** check the document properties of files, which may contain identifiers such as original file names identifying interview respondents.
 -   Finally, **do** try to strike a balance between keeping your participants’ information confidential and unnecessarily reducing the analytic value of the data by removing too much information. If you are having difficulties striking that balance, you could ask another subject-matter expert for assistance; some repository personnel or data librarians can also provide abstract rules that you can follow.
 
-### When De-identification Is not Necessary
+### When De-identification Is Not Necessary
 
 Not all qualitative data garnered from human participants need to be de-identified.
 -   When interviews were conducted “on the record,” the resulting notes or transcripts can be shared using the respondent’s name. This may most often be the case for elites who are accustomed to journalistic interviews. Be mindful, however, of local practices: in some countries, it is expected that interviewees will have an opportunity to review the written record of the interaction before it is shared or published.
@@ -79,7 +81,9 @@ de-identification.
 
 ![Lifecycle thumbnail *publication*]({{site.baseurl}}/images/lifecycle-longterm.png)
 
-s we note above, complete de-identification is often impossible. As such, de-identification, on its own, might be insufficient to protect the identity of human participants. In order to share their contributions to your research project more broadly in an ethical way, additional steps are needed, such as controlling *who* can access the data, *how* they can do so, and *when*. When you store your data in a trusted data repository, you can often request that various types of restrictions be placed on their access. Access controls are sometimes mistakenly viewed negatively as restrictions. In reality, they allow you to share data that would otherwise remain entirely inaccessible. That is, they allow research to be as open as possible, as closed as necessary
+As we note above, complete de-identification is often impossible. As such, de-identification, on its own, might be insufficient to protect the identity of human participants. In order to share their contributions to your research project more broadly in an ethical way, additional steps are needed, such as controlling *who* can access the data, *how* they can do so, and *when*. When you store your data in a trusted data repository, you can often request that various types of restrictions be placed on their access. Access controls are sometimes mistakenly viewed negatively as restrictions. In reality, they allow you to share data that would otherwise remain entirely inaccessible. That is, they allow research to be
+
+> as open as possible, as closed as necessary
 
 (as the European Union’s [Horizon2020 guidelines](https://ec.europa.eu/research/openscience/pdf/openaccess/ord_extension_faqs.pdf)
 for research aptly put it).

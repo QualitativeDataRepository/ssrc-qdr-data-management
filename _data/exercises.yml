@@ -69,12 +69,12 @@
   solution:
     - answer: >
         Read through your consent script (or that of your partner if working in a group) and consider some of the following:
-        - Is the language easy to understand for the targe audience?
+          - Is the language easy to understand for the targe audience?
 
-        - Does the script make clear that the data will be shared?
+          - Does the script make clear that the data will be shared?
 
-        - If there is going to be de-identification involved, do you explain what that entails? Do you avoid overpromising?
-        [Here is some language suggested by QDR](https://qdr.syr.edu/guidance/templates#informed-consent){:target="_blank"}.
+          - If there is going to be de-identification involved, do you explain what that entails? Do you avoid overpromising?
+          [Here is some language suggested by QDR](https://qdr.syr.edu/guidance/templates#informed-consent){:target="_blank"}.
 - title: "Documenting Your Data"
   id: 7
   module: "2a"
@@ -142,11 +142,11 @@
 
         ### Sample solution
         
-        -   I will use a Google Sheet for this instead of an Excel spreadsheet so I can easily show it to my dissertation advisors. I plan to add three columns to the template.
-          -    In the particular archive in which I’m working different rooms (which include different types of materials) have different names -- so I’m going to add a column for “room name”.
-          -    Another observation I had is that some collections are far more organized than others. I need to think about why, but I will add a column for “degree of collection organization” so I can keep track of this.
-          -    OK, this is a bit weird, but I’ve noticed that records from April-May 1997 seem to be missing from a lot of the collections -- but not from all of them. Again, I don’t know why, but this has attracted my attention. So I’m going to add a column for “April-May 1997 missing from collection?” so I can keep track of this.
-          -    While I’ve now made my template a bit more complicated, I’m still confident that I’ll use it (I’m a complicated person). Right now I also can’t
+          -   I will use a Google Sheet for this instead of an Excel spreadsheet so I can easily show it to my dissertation advisors. I plan to add three columns to the template.
+            -    In the particular archive in which I’m working different rooms (which include different types of materials) have different names -- so I’m going to add a column for “room name”.
+            -    Another observation I had is that some collections are far more organized than others. I need to think about why, but I will add a column for “degree of collection organization” so I can keep track of this.
+            -    OK, this is a bit weird, but I’ve noticed that records from April-May 1997 seem to be missing from a lot of the collections -- but not from all of them. Again, I don’t know why, but this has attracted my attention. So I’m going to add a column for “April-May 1997 missing from collection?” so I can keep track of this.
+            -    While I’ve now made my template a bit more complicated, I’m still confident that I’ll use it (I’m a complicated person). Right now I also can’t
 - title: "Comparing Documentation / Metadata"
   id: 9
   module: "2b"
@@ -169,15 +169,15 @@
     - question: >
         Open the master folder for one of your current research projects and  candidly assess how clearly and consistently you are naming your  folders and files. Consider, for instance, the following:
 
-        -   How many levels of folders do you have -- levels within levels within levels? Are there enough levels, too many, or too few?
+          -   How many levels of folders do you have -- levels within levels within levels? Are there enough levels, too many, or too few?
 
-        -   Can you tell, without opening a folder, what is in it?
+          -   Can you tell, without opening a folder, what is in it?
 
-        -   Is there some logic behind the organization of your folders, or does it seem you just created a new one whenever you needed one?
+          -   Is there some logic behind the organization of your folders, or does it seem you just created a new one whenever you needed one?
 
-        -   How consistent are the names of your files?
+          -   How consistent are the names of your files?
 
-        -   If you have multiple versions of particular files, can you tell which is the most current?
+          -   If you have multiple versions of particular files, can you tell which is the most current?
 
     - question: >
         Create a new document (clearly named!) that will be a draft of the  memo to yourself about the organization and naming of your folders  and files. Create the first few bullets under “folder organization  and naming” and under “file organization and naming” that could  serve as instructions to yourself for (re)organizing and  (re)naming your folders and files.
@@ -237,21 +237,21 @@
   content:
     - question: >
         Two of the institutional actors that have been carefully considering all of the questions above are funders and publishers. They need to take on these issues because they must develop policies for applicants and grantees, and authors, to follow. Given the considerations, benefits, and challenges above, how should key institutional actors design policies to encourage responsible data sharing? Pretend you are the editor-in-chief of a journal of your choice. Develop a draft policy that you will translate into author guidelines for providing the qualitative data that underpin articles published in your journal, and accompanying “materials” (e.g., documentation). Your policy should address the following issues:
-        -   Which data should be shared and what in addition to data needs to be shared (“materials”)?
-        -   When in the publication process should data (and materials) be shared?
-        -   Where should data (and materials) be shared?
-        -   What established exceptions should there be?
-        -   Who should judge whether a scholar’s situation fits within those exceptions – or, if it does not, whether an exception should nonetheless be made?
-        -   How will the policy be enforced?
+          -   Which data should be shared and what in addition to data needs to be shared (“materials”)?
+          -   When in the publication process should data (and materials) be shared?
+          -   Where should data (and materials) be shared?
+          -   What established exceptions should there be?
+          -   Who should judge whether a scholar’s situation fits within those exceptions – or, if it does not, whether an exception should nonetheless be made?
+          -   How will the policy be enforced?
   solution:
     - answer: >
         There are no right or wrong answers to these questions! We encourage you to evaluate your answers along the following lines:
-        -   Is your policy coherent – do its different aspects fit together without contradicting each other?
-        -   How easy will it be to translate your policy into clear guidelines for authors?
-        -   What kind of behavior are the different aspects of your policy, and your policy as a whole, encouraging on the part of authors and reviewers?
-        -   Of the various involved actors (authors, reviewers, other institutions), whom have you empowered – granted decision-making authority?
-        -   Have you addressed possible trade-offs between promoting data sharing and deterring authors from submitting their best work to your journal?
-        -   What potential sources of conflict does your policy introduce?
+          -   Is your policy coherent – do its different aspects fit together without contradicting each other?
+          -   How easy will it be to translate your policy into clear guidelines for authors?
+          -   What kind of behavior are the different aspects of your policy, and your policy as a whole, encouraging on the part of authors and reviewers?
+          -   Of the various involved actors (authors, reviewers, other institutions), whom have you empowered – granted decision-making authority?
+          -   Have you addressed possible trade-offs between promoting data sharing and deterring authors from submitting their best work to your journal?
+          -   What potential sources of conflict does your policy introduce?
 
         To illustrate the state of current practices, here are two different data policies. The *PLOS* journals [data policy](https://journals.plos.org/plosone/s/data-availability){:target="_blank"} mandates data deposit for all articles, explicitly states that proprietary data are not acceptable as the sole empirical basis for an article, and describes specific options for qualitative data. The [*American Political Science Review*’s data policy](https://www.apsanet.org/APSR-Submission-Guidelines){:target="_blank"} (see “Reproduction Policy”) is significantly shorter with fewer requirements. As you consider these policies, note some of the differences between what is required for scholarship based on quantitative data and analysis v. work based on qualitative data and analysis.
 - title: "De-identification"
@@ -292,14 +292,14 @@
   solution:
     - answer: >
         Here are some things your request might have included:
-        -   your institutional affiliation;
-        -   the nature of your research project;
-        -   why the data are important for your project;
-        -   why you would like to share the data;
-        -   in what specific data repository you plan to share the data and what that implies for their accessibility;
-        -   when you would like to share the data;
-        -   when you will be visiting the archive;
-        -   an offer to discuss the matter with the archivist when you are on site.
+          -   your institutional affiliation;
+          -   the nature of your research project;
+          -   why the data are important for your project;
+          -   why you would like to share the data;
+          -   in what specific data repository you plan to share the data and what that implies for their accessibility;
+          -   when you would like to share the data;
+          -   when you will be visiting the archive;
+          -   an offer to discuss the matter with the archivist when you are on site.
 
         QDR has [a template for such an email](https://qdr.syr.edu/guidance/templates#archival-reuse){:target="_blank"} that you might send after conducting your research if you did not find this information out during your time at the archive. If you can, though, it is better to ask these sorts of questions before or during your research at the archive.
 - title: "Link Rot"
@@ -346,10 +346,15 @@
         Find this article on-line and then follow the steps below: O’Mahoney, Joseph. 2017. “Making the Real: Rhetorical Adduction and the Bangladesh Liberation War.” *International Organization* 71 (2): 317–48. [https://doi.org/https://doi.org/10.1017/S0020818317000054](https://doi.org/https://doi.org/10.1017/S0020818317000054){:target="_blank"}
         
         1. Click on the Adobe Acrobat icon to download the PDF.
+        
         2. Read the abstract.
+        
         3. Scroll to a section called, “The Role of Troop Withdrawal” on p. 332 and read the first two paragraphs of that section.
+        
         4. Given what you have learned about ATI, which passages of those paragraphs would you expect to see annotated and with what type of content? Use your PDF viewer’s annotations functionality to highlight them.
+        
         5. Now view the same article [with ATI annotations here](https://hyp.is/go?url=https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D7396F6DFDE0914CD3C1C8D7A7141BF9/S0020818317000054a.pdf/making_the_real_rhetorical_adduction_and_the_bangladesh_liberation_war.pdf&group=zvEVDE2R){:target="_blank"}. Find the same two paragraphs and compare your expected annotations with those of the article’s author, Joey O’Mahoney.
+        
           1. How do the author’s annotations differ from your expectations?
           2. Why do you think they differ?
           3. How do the annotations affect your assessment of the underlying claims?

@@ -30,15 +30,14 @@
 Once you’ve decided which of your research data you will share, and while considering how to address any challenges that sharing your data might pose, another key question to think about is *when* to share the data you have decided to make accessible. You can do so at any point in the data lifecycle. *When* you will share *what* data should typically be captured in your data management plan (DMP). We offer here a
 (non-exhaustive) list of options for at what point in your research to share data, and some reasons why you might consider each one.
 
-Note that most of these options have as their referent sharing data for the purposes of verifying a research publication, rather than for secondary analysis by other scholars or some other use.
+Note that most of these options have as their referent sharing data for the purposes of making a research publication more transparent, rather than for secondary analysis by other scholars or some other use.
 -   *Share data in real-time, as your research progresses*. Sharing data as they are collected is rare. Doing so can pose significant logistical challenges and could help other researchers to “scoop” you. The most prominent setting in which real-time data sharing does and should occur is in crises, such as global epidemics. For example, during the Zika virus outbreak, [researchers organized global data sharing](https://doi.org/10.1001/jamapediatrics.2016.0857){:target="_blank"} to quickly address this emergent health crisis. Social science data can be part of such an emergency response, as the importance of [anthropological work in combating Ebola](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5394643/){:target="_blank"} demonstrates.
 -   *Share data when you submit the manuscript with which they are associated for review by a journal*. Having data available for reviewers allows them to more deeply probe your work and demonstrates the richness of you research. All that said, very few journals in the social sciences *require* that authors share data during peer review, and consequently doing so is comparatively rare.
     -   Depending on where you make the data available, you may also solicit, or otherwise receive, feedback from a broader set of peers. E.g., when one of us [shared data and code](https://doi.org/10.7910/DVN/CZYY1N){:target="_blank"} for a paper based on quantitative analysis, together with a preprint version of the paper, we were alerted to issues with the code by an interested reader.
 -   *Share data at the same time that the book or article that they underpin is published*. This is likely the most common time to share data. You may do so because it is a requirement of the journal in which you publish: where journals require data sharing, they typically require it as a condition of publication. Alternatively, you may simply want to provide readers with background materials for you work.
 -   *Share data after an embargo period*. Embargos can have different functions. You may write an embargo into your grant’s DMP (“data will be published 3 years after completion of the grant”) to allow you first use of your data while assuring your grantor that the data will eventually be made accessible. You may also impose much longer embargos (e.g., 50 or 100 years) to protect human participants. Such embargos are common in historical archives but can also be applied by data repositories.
 
-##How to Share Data
-
+## How to Share Data
 Another key question to ask yourself is how and where you will share your data. There are lots of options -- we begin by offering a
 (problematic) subset:
 -   You could share your data on an ad hoc basis by emailing them to twhomever requests them, or sharing them via a Dropbox or Box.com folder.
@@ -52,11 +51,13 @@ These solutions, however, pose various types of problems.
 -   Then there’s the issue of link rot (i.e., hyperlinks pointing to web resources that have become unavailable). To give an example of the prevalence of this problem, more than half of the reproducibility links in articles from the *American Political Science Review* between 2000 and 2013 couldn’t be accessed in 2016 ([*Gertler and Bullock 2017*](https://doi.org/10.1017/S1049096516002353){:target="_blank"}, 167) \[[*ungated copy*](http://johnbullock.org/papers/referenceRot.pdf){:target="_blank"}\]. If you rely on personal or even institutional websites for data sharing, you put your data at risk of link rot.
 -   Finally, while publishers have significant experience in preserving digital publications, they rarely extend their preservation promises and practices to supplementary material and may not prioritize making such materials accessible to the broader research community.
 
-The bottom line is, you’re a scholar! You’re equipped to generate and analyze data. You don’t have, and shouldn’t need to have, the skills necessary to properly care for and preserve research data for the long term. The same goes for journals, whose core mandate is to publish articles, not preserve data. Instead of exercising the options above, we encourage you to store your data in an institution specifically created for this purpose, i.e., in a data repository. As you’ll learn more about below, a repository is “a final destination” for data that allows for their long-term publishing and preservation. There are a few kinds to choose from, and lots of things to consider when you’re making your choice.
+The bottom line is, you’re a scholar! You’re equipped to generate and analyze data. You don’t have, and shouldn’t need to have, the skills necessary to properly care for and preserve research data for the long term. 
+
+Don’t let this be your research data!
 
 ![This site can't be reached]({{site.baseurl}}/images/site-unavailable.png)
 
-Don’t let this be your research data!
+The same goes for journals, whose core mandate is to publish articles, not preserve data. Instead of exercising the options above, we encourage you to store your data in an institution specifically created for this purpose, i.e., in a data repository. As you’ll learn more about below, a repository is “a final destination” for data that allows for their long-term publishing and preservation. There are a few kinds to choose from, and lots of things to consider when you’re making your choice.
 
 
 {% include _exercise.html exerciseid="19" %}

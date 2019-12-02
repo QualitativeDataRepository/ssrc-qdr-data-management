@@ -69,6 +69,8 @@ Finally, sharing data benefits the broader scholarly community. Sharing data:
 -   Allows others to evaluate, validate as trustworthy, and replicate your work, maximizing accountability and knowledge generation.
 -   May be ethically required: if what you’ve discovered sheds significant light on important dynamics it may be unethical *not* to share your data.
 
+## Reasons Not to Share Data
+
 Given qualitative scholars’ traditional hesitance to share their research data, there must be some very good reasons not to do so. We offer here some reasons why you may not be able to share your data broadly, or share all of your data. Can you think of others?
 -   *First use*: given how difficult generating qualitative data can be, you might be concerned about sharing your data before you have had a chance to publish on the basis of them.
 -   *Epistemological concerns*: you might see data as a product of the reflexive relationship between you and the people you involved in your study, such that someone who was not privy to the inter-subjective event that produced the data does not have the background knowledge and tacit understandings necessary to interpret them.
@@ -84,7 +86,7 @@ Given qualitative scholars’ traditional hesitance to share their research data
     -   Even if you didn’t promise your respondents anything with regard to data sharing, your data may seem too sensitive for others to see.
     -   You may doubt that your data can be fully de-identified either due to the form in which you collected them (e.g., video), or because some combination of the collected data (or the collected data and publicly available data) is sure to reveal the identities of human subjects.
     -   It may seem pointless to share your de-identified data because de-identification caused so much information to be lost, significantly compromising the analytic value of the data.
-        -   **You will learn more about sharing human participant data in the** [**next lesson**](https://managing-qualitative-data.org/modules/3/b/)
+        -   *You will learn more about sharing human participant data in the [next lesson](https://managing-qualitative-data.org/modules/3/b/)*
 -   *Legal constraints and proprietary obligations:*
     -   The archives in which you collected documents may have rules about their dissemination.
     -   Information may have been provided under a non-disclosure agreement (NDA).
@@ -105,7 +107,7 @@ We have linked in the “further resources” section to parts of the extensive 
 
 We should note that the authors of this course are not neutral parties in this debate. [We have published](https://doi.org/10.33774/apsa-2019-if2he-v2) on transparency and data sharing and we are both affiliated with the Qualitative Data Repository, an institution dedicated to enable the sharing of qualitative data. Nevertheless, this module is not intended to advance a particular position. Instead, we want to equip you with the tools to decide, based on the best available information, *whether* you will share your data, *what* data you will share, and *how*.
 
-{% include _exercise.html exerciseid="16" %}
+{% include _exercise.html exerciseid="15" %}
 
 ## Further Resources
 -   A [2015 symposium in *Qualitative and Multi-Method Research*](https://zenodo.org/search?page=1&size=20&q=publication_date:%5B2015-03-30%20TO%202015-03-31%5D%20journal.title:Qualitative%20%26%20Multi-Method%20Research%22&type=publication) looking at qualitative transparency from a variety of perspectives

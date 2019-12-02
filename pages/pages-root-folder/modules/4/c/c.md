@@ -62,7 +62,7 @@ Many data repositories include recommended citations for data:
 
 You can use that citation or adapt it to your citation style of choice. Increasingly, reference managers such as Zotero and Endnote will let you import citation data from data repositories and produce correctly formatted citations.
 
-## Citing Your Own Data
+### Citing Your Own Data
 
 When citing your own data in an article, you will typically include references in two locations. First, the citation will appear in a “data availability statement,” which is placed on the article’s abstract page on the journal web site or in the first footnote.
 

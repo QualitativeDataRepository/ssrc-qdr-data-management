@@ -49,7 +49,8 @@ You obviously need to adhere closely to all relevant law when sharing data. In t
 Original works that are not under copyright are considered to be “in the public domain”. That means that you can legally use these works in any way you see fit: you can reprint them verbatim, share them, sell copies of them, etc., all without any obligation to the creator. Scholarly norms, of course, dictate that you need to cite works that are in the public domain, but this is an ethical not a legal obligation.
 
 > ### Good to know
->Just because a work is freely available does not mean it is in the public domain. In fact, almost everything you find on the internet is protected by copyright.
+> Just because a work is freely available does not mean it is in the public domain. In fact, almost everything you find on the internet is protected by copyright.
+
 
 Works enter the public domain through two channels:
 
@@ -107,9 +108,9 @@ Given the complexities of copyright law and the fair use exemption, you should s
 
 ### **Licenses: Beyond Copyright**
 
-Copyright is not the only proprietary constraint that can apply to sharing materials. For instance, if you access data for a research project through a database, you will often have to agree to terms and conditions that restrict your usage of the materials you obtain. Take for example the international [terms and conditions of Gale](https://www.gale.com/intl/terms-of-use), a database provider that licenses many databases of historical materials to academic institutions: The subscribing institutes (“Customer”) and their authorized users,
-> may make a single print, non-electronic copy of a permitted portion of
-> the content for personal, non-commercial, educational purposes only.
+Copyright is not the only proprietary constraint that can apply to sharing materials. For instance, if you access data for a research project through a database, you will often have to agree to terms and conditions that restrict your usage of the materials you obtain. Take for example the international [terms and conditions of Gale](https://www.gale.com/intl/terms-of-use), a database provider that licenses many databases of historical materials to academic institutions:
+
+> The subscribing institutes (“Customer”) and their authorized users, may make a single print, non-electronic copy of a permitted portion of the content for personal, non-commercial, educational purposes only.
 
 Even if a text that you download from Gale entered the public domain long ago, based on this license agreement, you are not allowed to *even make an electronic copy* of the file, let alone share such a copy with other researchers. Likely because of pushback from US libraries, the terms for US customers are more generous, though would still not allow you to share such files through a repository.
 
