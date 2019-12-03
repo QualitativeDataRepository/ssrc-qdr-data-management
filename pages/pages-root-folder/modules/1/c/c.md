@@ -60,13 +60,15 @@ Commonly, 1-3 are included on a separate study information sheet that participan
 
 ## Informed Consent in Qualitative Research
 
+![Lifecycle thumbnail *collecting*]({{ site.baseurl }}/images/lifecycle-collection.png)
+
 Informed consent procedures derived from laboratory research (e.g., in the medical sciences) are often inappropriate for use in qualitative social science research. One of the advantages of such research is that it often takes place in a setting close to participants’ everyday life, offering the researcher insights beyond what the participant says, and allowing the participant to be at ease. Introducing a legal document to sign in such a context can significantly disrupt your research. But precisely because qualitative research may not seem like research to your participants, informed consent is particularly important.
 
 One way to make the consent process more natural -- particularly in contexts where there is a weaker tradition of securing informed consent” -- is to secure participants’ consent orally (i.e., use an “oral consent” procedure). Instead of having participants sign a sheet outlining points 1-4 above to offer consent (“written consent”), you verbally run through a script and ask participants to agree with it. One disadvantage of oral consent can be that it leaves you without proof of consent. Where you record interviews, it is common to re-request the consent of your participate (in a highly abbreviated form), and have them verbally agree, at the beginning of the recording.
 
 Scholars are best positioned to obtain truly informed consent -- i.e., to clearly communicate to participants what their research is about and what participation entails -- in forms of research that allow them to build lasting relationships with participants. No matter in what type of inquiry you engage, however, you should do everything you can to ensure that your research participants understand who you are, the content and aims of your research, what you are asking of them, and what good or bad may come of their participation.
 
-![Lifecycle thumbnail *collecting*]({{ site.baseurl }}/images/lifecycle-collection.png)
+
 
 > ### Tip from the field
 >Oral consent is often -- but not always -- more appropriate for qualitative research. For instance, one scholar with whom QDR has worked found that her interview respondents (ex-combatants) were reassured by the legitimacy indicated by the written consent form and information sheet. Ask others who have engaged in a similar type of research in the context you are studying about their experiences.
