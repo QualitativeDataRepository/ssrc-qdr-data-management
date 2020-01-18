@@ -132,6 +132,6 @@
   url: "/search/"
   side: right
 
-- title: "Contact"
-  url: "/contact/"
+- title: "Feedback"
+  url: "/feedback/"
   side: right
