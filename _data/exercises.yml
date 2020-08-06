@@ -86,10 +86,10 @@
   solution:
     - answer: >
         Documentation lists and insights will vary considerably from project to project. The goal of this exercise is simply for you to think about the ways in which data documentation is valuable – operationally and analytically – to *you* and *your project*, as the more valuable you perceive documentation to be the more likely you are to create it. We provide a sample solution here, but don’t using it as a template. You should come up with your own strategies matching your data and your workflows.
-        
+
 
         ### Sample solution
-        
+
 
         -	Project-level documentation -- “who”
 
@@ -141,7 +141,7 @@
 
 
         ### Sample solution
-        
+
           -   I will use a Google Sheet for this instead of an Excel spreadsheet so I can easily show it to my dissertation advisors. I plan to add three columns to the template.
             -    In the particular archive in which I’m working different rooms (which include different types of materials) have different names -- so I’m going to add a column for “room name”.
             -    Another observation I had is that some collections are far more organized than others. I need to think about why, but I will add a column for “degree of collection organization” so I can keep track of this.
@@ -262,7 +262,7 @@
         Read the passage in [this PDF](https://managing-qualitative-data.org/files/de-identification-exercise.pdf){:target="_blank"} and then seek to de-identify it as best you can. Your first step should be to create a set of de-identification rules to follow.
   solution:
     - answer: >
-        You can find a [sample de-identification here]({{site.baseurl}}/files/de-identification-exercise-solution.pdf){:target="_blank"}. Note how we left some specific information such as “Philadelphia” and “South Philadelphia” intact, while replacing other specific information such as years and school names. Details of de-identification depend both on what additional context is provided in the interview transcript and what parts are of particular importance to a study, i.e., should not be removed if at all possible.
+        You can find a [sample de-identification here](/files/de-identification-exercise-solution.pdf){:target="_blank"}. Note how we left some specific information such as “Philadelphia” and “South Philadelphia” intact, while replacing other specific information such as years and school names. Details of de-identification depend both on what additional context is provided in the interview transcript and what parts are of particular importance to a study, i.e., should not be removed if at all possible.
 - title: "Public Domain or Not?"
   id: 17
   module: "3c"
@@ -356,17 +356,17 @@
   content:
     - question: >
         Find this article on-line and then follow the steps below: O’Mahoney, Joseph. 2017. “Making the Real: Rhetorical Adduction and the Bangladesh Liberation War.” *International Organization* 71 (2): 317–48. [https://doi.org/https://doi.org/10.1017/S0020818317000054](https://doi.org/https://doi.org/10.1017/S0020818317000054){:target="_blank"}
-        
+
         1. Click on the Adobe Acrobat icon to download the PDF.
-        
+
         2. Read the abstract.
-        
+
         3. Scroll to a section called, “The Role of Troop Withdrawal” on p. 332 and read the first two paragraphs of that section.
-        
+
         4. Given what you have learned about ATI, which passages of those paragraphs would you expect to see annotated and with what type of content? Use your PDF viewer’s annotations functionality to highlight them.
-        
+
         5. Now view the same article [with ATI annotations here](https://hyp.is/go?url=https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D7396F6DFDE0914CD3C1C8D7A7141BF9/S0020818317000054a.pdf/making_the_real_rhetorical_adduction_and_the_bangladesh_liberation_war.pdf&group=zvEVDE2R){:target="_blank"}. Find the same two paragraphs and compare your expected annotations with those of the article’s author, Joey O’Mahoney.
-        
+
             1. How do the author’s annotations differ from your expectations?
             2. Why do you think they differ?
             3. How do the annotations affect your assessment of the underlying claims?
@@ -386,7 +386,7 @@
         2.  One thing you might have found difficult about using ATI is finding the materials on which you wanted to call for evidence. (We hope if you try this in the future, following some of the advice we offer elsewhere in the course will facilitate this.)
 
         3.  One thing you might be gaining through annotation is the possibility of demonstrating even more strongly the rigor and power of your work through deploying additional evidence.
-  
+
         4.  Two things you might be losing through annotation are time and parsimony. It might not seem that the “bang” of “retrospective” annotation is not worth the “buck”. You might feel differently if you annotated while writing. With regard to parsimony, how much did what you added contribute to supporting the claim you sought to bolster? Is it a nice-to-have or a need-to-have? What should your annotations contain?
 - title: "Data Appendix (1) -- Considering Another Author’s Appendix"
   id: 25
